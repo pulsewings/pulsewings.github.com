@@ -1,5 +1,5 @@
 ---
-name: albert.kim
-title: 김진덕
+name: pulsewings
+title: 맥박
 image: /files/authors/albert.kim.jpg
 ---
