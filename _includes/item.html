@@ -8,10 +8,11 @@
             <a href="{{ site.baseurl }}/tags/{{ tag }}" title="{{ tag }}"
                class="tag tag-{{ tag }}">{{ tag }}</a>
         {% endfor %}
+        <p class="post-date">{{ post.date | date: '%Y-%m-%d %H:%M' }}</p>
     </p>
     <div class="post-meta">
-      <div class="author-image" style="background-image:url({{ post.image }});">
-      </div>
+        <div class="author-image" style="background-image:url({{ post.image }});">
+        </div>
     </div>
     <!-- <div class="post-meta">
         {% assign author = site.authors | where: 'name', post.author | first %}

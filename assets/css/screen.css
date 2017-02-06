@@ -591,6 +591,10 @@ for small screen(<720px):
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
+    /* Add */
+    display: inline-block;
+    float: right;
+    /* End Add */
 }
 
 #post-list .post-tags {
@@ -1393,7 +1397,10 @@ body.page-template {
         float: right;
         margin: 0;
         font-size: 13px;
-        line-height: 32px; /* .post-meta height  */
+        /* line-height: 32px; */ /* .post-meta height  */
+        /* Add */
+        line-height: 24px;
+        /* End Add */
     }
 
     a.tag {
