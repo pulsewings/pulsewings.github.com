@@ -9,6 +9,10 @@
                class="tag tag-{{ tag }}">{{ tag }}</a>
         {% endfor %}
     </p>
+    <div class="post-meta">
+      <div class="author-image" style="background-image:url({{ post.image }});">
+      </div>
+    </div>
     <!-- <div class="post-meta">
         {% assign author = site.authors | where: 'name', post.author | first %}
         <a href="{{ site.baseurl }}/authors/{{ post.author }}">
