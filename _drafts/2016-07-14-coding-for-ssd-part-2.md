@@ -57,9 +57,9 @@ NAND 플래시 메모리 모듈의 중요한 속성은 수명이 제한적(Weari
 
 |     | SLC | MLC | TLC | HDD | RAM | L1 cache | L2 cache |
 |-----|-----|-----|-----|-----|-----|----------|----------|
-| P/E cycles | 100k | 10k | 5k | * | * | * | * | 
+| P/E cycles | 100k | 10k | 5k | * | * | * | * |
 | Bits per cell | 1 | 2 | 3 | * | * | * | * |
-| Seek latency (μs) | * | * | * | 9000 | * | * | * | 
+| Seek latency (μs) | * | * | * | 9000 | * | * | * |
 | Read latency (μs) | 25 | 50 | 100 | 2000-7000 | 0.04-0.1 | 0.001 | 0.004 |
 | Write latency (μs) | 250 | 900 | 1500 | 2000-7000 | 0.04-0.1 | 0.001 | 0.004 |
 | Erase latency (μs) | 1500 | 3000 | 5000 | * | * | * | * |
@@ -240,7 +240,7 @@ SSD의 성능을 정확하게 예측하는 것은 어려운 부분이다.
 
 ![그림 7: 여러 SSD에서 “pre-conditioning”의 효과](/files/coding_for_ssd_part2_7.jpg)
 그림 제공: StorageReview.com [^26]
- 
+
 그림 7에서 나타나는 현상은 섹션 5.2에서 설명된 것인데, 랜덤 쓰기가 많이 발생해서 SSD가 서스테이닝 모드(Sustaing mode)로 들어가면,
 SSD의 Garbage-collection이 사용자의 요청을 따라가지 못하게 된다.
 사용자의 요청이 들어올때마다 Garbage-collection이 먼저 블록을 지워야(Erase)하기 때문에,
@@ -309,7 +309,7 @@ Jeremiah Peschka[^46] 가 작성한 “IOPS are a scam”라는 문서도 많은
 
 > **This articles are translated to Korean with original author's([Emmanuel Goossaert](http://www.goossaert.com/)) permission. Really appreciate his effort and sharing.**
 >
-> **Original articles :** 
+> **Original articles :**
 >
 > * [Part 1: Introduction and Table of Contents](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
 > * [Part 2: Architecture of an SSD and Benchmarking](http://codecapsule.com/2014/02/12/coding-for-ssds-part-2-architecture-of-an-ssd-and-benchmarking/)
@@ -393,4 +393,3 @@ Jeremiah Peschka[^46] 가 작성한 “IOPS are a scam”라는 문서도 많은
 [^71]: <http://www.youtube.com/watch?v=3s7KG6QwUeQ>  
 [^72]: [Understanding the Robustness of SSDs under Power Fault, Zheng et al., 2013](https://www.usenix.org/conference/fast13/technical-sessions/presentation/zheng) — [discussion on HN](https://news.ycombinator.com/item?id=7047118)  
 [^73]: <http://lkcl.net/reports/ssd_analysis.html> - [discussion on HN](https://news.ycombinator.com/item?id=6973179)  
-
