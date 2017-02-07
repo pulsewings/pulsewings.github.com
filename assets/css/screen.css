@@ -592,8 +592,10 @@ for small screen(<720px):
     white-space: nowrap;
     overflow: hidden;
     /* Add */
-    display: inline-block;
+    font-size: 14px;
+    margin: 20px 200px 0 0;
     float: right;
+    font-weight: 400;
     /* End Add */
 }
 
@@ -1369,7 +1371,7 @@ body.page-template {
         width: 100%;
         /* height: 32px; */ /* @@black 22 -> 32 */
         /* Add */
-        height: 80px;
+        height: 120px;
         /* End Add */
     }
 
@@ -1379,7 +1381,7 @@ body.page-template {
         /* height: 32px;  */ /* @@black 22 -> 32 */
         /* Add */
         width: 100%;
-        height: 80px;
+        height: 120px;
         margin-bottom: 30px;
         /* End Add */
         background-image: url(../images/mo/default_pic_s.png);
@@ -1400,6 +1402,8 @@ body.page-template {
         /* line-height: 32px; */ /* .post-meta height  */
         /* Add */
         line-height: 24px;
+        margin: 12px 3px 0 0px;
+        font-weight: 400;
         /* End Add */
     }
 
