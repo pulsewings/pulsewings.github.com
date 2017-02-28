@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "decision"
+title: "결심할 때도 되었다."
 author: pulsewings
 date: "2017-02-08 10:21:23 +0900"
 tags: [thinking, decision, challenge]
