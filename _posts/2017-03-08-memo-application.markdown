@@ -4,7 +4,6 @@ title: "기록을 위한 툴은 어떤 것이 좋을까?"
 author: pulsewings
 date: "2017-03-03 10:21:23 +0900"
 tags: [thinking, challenge]
-image: /files/covers/long-time-thinking.jpg
 ---
 
 ## 사용중인 메모 or 기록

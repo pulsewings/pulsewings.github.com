@@ -1742,3 +1742,11 @@ body.page-template {
     border: none !important;
     display: inline;
 }*/
+
+.box_done:before {
+  content: "\2611\ ";
+}
+
+.box:before {
+  content: "\2610\ ";
+}

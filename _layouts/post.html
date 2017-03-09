@@ -21,7 +21,8 @@ layout: default
 </div>
 
 <div id="content" class="container post" role="main">
-    <div id="post-content">{{ content }}</div>
+    <!-- <div id="post-content">{{ content }}</div> -->
+    <div id="post-content">{{ content | replace: '<li>[ ]', '<li class = "box">' | replace: '<li>[x]', '<li class = "box_done">'  }}</div>
     <div id="post-footer">
         {% assign author = site.authors | where: 'name', page.author | first %}
         <a id="post-author" href="{{ author.url }}">

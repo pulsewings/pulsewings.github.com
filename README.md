@@ -1,6 +1,12 @@
 tech.kakao.com
 ==============
 
+### 내가 추가한 목록
+
+[지킬 유용한 플러그인 모음](https://github.com/planetjekyll/awesome-jekyll-plugins)
+(https://github.com/digitalsparky/jekyll-minifier)
+-----
+
 > 주의: [GitHub Pages]와 [Jekyll]에 대해서 충분히 숙지할 것.
 > 주의: [Collaborating on projects using issues and pull requests](https://help.github.com/categories/collaborating-on-projects-using-issues-and-pull-requests/)을 정독.
 
@@ -115,4 +121,3 @@ May the **SOURCE** be with you...
 [gfm]: https://guides.github.com/features/mastering-markdown/
 [kramdown]: http://kramdown.gettalong.org
 [rouge]: http://rouge.jneen.net
-
