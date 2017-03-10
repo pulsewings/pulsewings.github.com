@@ -1750,3 +1750,11 @@ body.page-template {
 .box:before {
   content: "\2610\ ";
 }
+
+.record-date {
+  text-align: right;
+}
+
+blockquote p {
+    white-space: pre-line;
+}
