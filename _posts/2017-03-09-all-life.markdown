@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "[001] 오늘 하루 기록을 해보자."
+title: "오늘 하루 기록을 해보자."
 author: pulsewings
 date: "2017-03-09 10:49:07 +0900"
-tags: [life, thinking]
+tags: [life, write-post-every-day]
 ---
 
+[001]
 
 ## 너무 대충 살아온 것 같은 이 느낌
 다른 날보다는 좀 일찍 사무실로 나섰다. 나만의 시간을 조금 더 가지기 위해 선택했다.

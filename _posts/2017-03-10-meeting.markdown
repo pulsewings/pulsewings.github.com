@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "[002] 만남, 그리 나쁘지 않다."
+title: "만남, 그리 나쁘지 않다."
 author: pulsewings
 date: "2017-03-10 00:00:00 +0900"
-tags: [life, thinking]
+tags: [life, write-post-every-day]
 ---
+
+[002]
 
 3일후에 쓴글.
 
