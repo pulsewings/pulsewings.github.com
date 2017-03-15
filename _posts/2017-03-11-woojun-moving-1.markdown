@@ -2,7 +2,7 @@
 layout: post
 title: "[나는] 나의 장점은? - 우준이 이사를 도와주러 가다 1"
 author: pulsewings
-date: "2017-03-14 10:10:40 +0900"
+date: "2017-03-11 00:00:00 +0900"
 tags: [life, self, write-post-every-day]
 ---
 
