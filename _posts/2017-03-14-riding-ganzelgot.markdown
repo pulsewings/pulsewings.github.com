@@ -8,7 +8,6 @@ tags: [life, riding, write-post-every-day]
 
 [007]
 
-## 3월 11일 (토) 간절곶 라이딩 with 상훈, 남균
 
 ## 오랜만의 라이딩
 
@@ -48,3 +47,6 @@ tags: [life, riding, write-post-every-day]
 
 다시 체력을 키우자. 여유를 가질 수 있도록.
 쯔위프트를 다시 결제해야하나.. 말아야하나.. 으흠..! 고민되는군.
+
+
+<div class="record-date">-3월 11일 (토) 간절곶 라이딩 with 상훈, 남균 </div>

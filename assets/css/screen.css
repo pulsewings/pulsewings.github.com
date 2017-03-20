@@ -1758,3 +1758,7 @@ body.page-template {
 blockquote p {
     white-space: pre-line;
 }
+
+#post-content p {
+    white-space: pre-line;
+}
