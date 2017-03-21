@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "todo"
+author: pulsewings
 date: "2017-03-16 00:02:54 +0900"
+tags: [todo, data-analysis]
 ---
 
 
