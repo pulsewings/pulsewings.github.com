@@ -1,0 +1,72 @@
+---
+layout: post
+title: "todo"
+author: pulsewings
+date: "2017-04-04 00:00:00 +0900"
+tags: [todo, data-analysis]
+---
+
+
+# 4월 4일 (화)
+
+- 에스키스타 & 룩스라이크
+  - [ ] 각 청바지별로 디테일한 사진 컷들 페이지 꾸미기
+    - [x] Eskistar VICONIA (http://poetic.kr/shop/shopdetail.html?branduid=1971221&search=%25C0%25FD%25B4%25EB%25B9%25D9%25C1%25F6&sort=&xcode=005&mcode=000&scode=&GfDT=bmx9W1U%3D)
+    - [x] Eskistar JAHEIRA (http://poetic.kr/shop/shopdetail.html?branduid=2017128&search=%25C0%25FD%25B4%25EB%25B9%25D9%25C1%25F6&sort=&xcode=005&mcode=000&scode=&GfDT=bGV%2FWQ%3D%3D)
+    - [x] Eskistar IMOEN (http://poetic.kr/shop/shopdetail.html?branduid=1971369&search=%25C0%25FD%25B4%25EB%25B9%25D9%25C1%25F6&sort=&xcode=005&mcode=000&scode=&GfDT=a253Vg%3D%3D)
+    - [x] Eskistar SAFANA (http://poetic.kr/shop/shopdetail.html?branduid=2015148&search=%25C0%25FD%25B4%25EB%25B9%25D9%25C1%25F6&sort=&xcode=005&mcode=000&scode=&GfDT=bWx3Ul4%3D)
+    - [x] Eskistar NALIA (http://poetic.kr/shop/shopdetail.html?branduid=2039980&search=%25C0%25FD%25B4%25EB%25B9%25D9%25C1%25F6&sort=&xcode=005&mcode=000&scode=&GfDT=bG13Vw%3D%3D)
+    - Eskistar BODHI (http://poetic.kr/shop/shopdetail.html?branduid=2042930&search=%25C0%25FD%25B4%25EB%25B9%25D9%25C1%25F6&sort=&xcode=005&mcode=000&scode=&GfDT=Zm53UQ%3D%3D)
+    - Eskistar SANDRA (http://poetic.kr/shop/shopdetail.html?branduid=2019280&search=%25C0%25FD%25B4%25EB%25B9%25D9%25C1%25F6&sort=&xcode=005&mcode=000&scode=&GfDT=bGx3U14%3D)
+    - Eskistar ALORA (http://poetic.kr/shop/shopdetail.html?branduid=2017526&search=%25C0%25FD%25B4%25EB%25B9%25D9%25C1%25F6&sort=&xcode=005&mcode=000&scode=&GfDT=bmt1W15B)
+    - 개선
+      - 아이폰에서 폰트가 짧려서 보인다거나 하는 경우가 많다. 확인하자.
+
+  - [x] 상품 카테고리 부분에서 평점 수가 이상하게 출력되는 것 수정 **작업완료** (16:00~16:05)
+  - [ ] 에스키스타 구글 분석한 내용 알려주기
+    - 성별 비율이 왜 60:40으로 나오는 것이지?
+    - 구글 분석도구에서는 쿠키를 이용하여 성별을 판단한다고 되어 있는데, 측정되는 남녀비율이 룩스라이크와 같다.
+    - 광고를 모두 여자 타켓으로 했는데, 이렇게 들어오는 것을 보면, 남자들이 관심이 많은 것 같다라고 생각할 수 있을 것 같은데.
+    - 이 측정이 잘못되었다고 생각된다면...? 어떻게 해석해야하지...?
+  - [ ] 에스키스타 상품별로 SEO 설정. focus keyword
+    - 포커스 키워드를 진, 청바지, 데님
+  - 블로그 글을 올리면 어떨까?
+    - 에스키스타 이름의 유래?
+    - 청바지 이름의 변천사?
+    - 청바지에 대한 생각?
+    - 이런 형식의 글들을 써보면 어떨까?
+    - 서비스가 생긴 이유들
+    - 인스타그램의 활용
+    - 그냥 우리들의 이야기를 넣고 싶다.
+    - 작명. 에스키
+    - 발빠른 적용. 가이드. 고객에 맞춰서, 같이 성장.
+  - 상품을 소개하는 글
+    - 29cm처럼 브랜드를 소개하는 것처럼 바지마다 각각 고유한 느낌을 전달해줄 수 있을까? 청바지 그 자체만으로 느낌을 줄 수 있을까?
+  - 마케팅 방법
+    - 재호햄 : 청바지에 이름을 받는다. ~의 청바지. 택도 그 사람 실루엣으로
+
+
+- 생각
+  - 홈페이지 콘텐츠 작업 이후에, 마케팅 작업을 해야하는데, 이 부분을 공부해야하지 않을까?
+  - 바지별 동영상 작업은 어떻게 되어가고 있는가? : 대단이햄한테 물어봐야하는 것
+  - 룩스라이크 상품 선택하는 기능은 개발할 것인가?
+    - 이미지 리소스 문제
+
+- 휴식
+  - 낮잠 :
+  - 화징실 및 산책 :
+
+- 식사
+  - 아침 :
+  - 점심 :
+  - 저녁 :
+
+
+- 개인
+  -
+
+구글 분석도구에서 방문자수의 성별의 비율이 약 56:43 (여자:남자)로 나옴. 룩스라이크도 이와 비슷한 비율. 룩스라이크는 남성 유저들이 클릭한 것으로 예상되어서 그렇다고 하니 이해는 되지만, 에스키스타의 마케팅을 여자 타켓으로 해두었는데도 불구하고, 남성 비율이 높음. 구글분석도구의 오류일 수도 있으나, 성별은 유저의 쿠키정보를 빅데이터 형식으로 분석하여 알아 낸다고 하니, 무시할 만한 수준은 아닌듯. 광고 타켓팅을 여성으로 했으나 남성유저들도 보고 들어왔을 수도 있음. (룩스라이크의 남여 성별이 측정가능한 비율은 전체사용자의 10%, 에스키스타의 남여 성별 측정한 가능한 비율은 전체 사용자의 73%, 꽤나 높은 비율로 남여비율을 측정할 수 있는데, 이 비율을 부정확하다고 보기는 힘듬, 구글인데…?) 결론. 남성들에게 더 어필할 수 있는 서비스일 수도 있다. (투자 이후 테스팅해볼 필요있는 사항인 듯)
+
+## 느낀 것
+
+## 보완할 것들
