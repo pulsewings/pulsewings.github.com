@@ -10,20 +10,15 @@ tags: [todo, data-analysis]
 # 5월 1일 (월)
 
 ### 할일
-- [x] 깃 설정 : Bitbucket, 초기 버전 업로드
-- [x] 백업 플러그인 설치 (~14:30)
-- [x] 테스팅 환경 설정 MAMP (~15:02)
-  - 서버에 있는 백업파일을 복사
-  - ioncube 로더 문제 해결
-- [x] 테마 설치 (~15:18), 테마관련 플러그인 설치
-- [x] 테마 설정
-- [x] 메뉴 설정
 - [ ] 우커머스용 플러그인 테스트
-  - [x] Cart Reports
-  - [x] Customer History
-  - [x] Cost Of Goods
-  - [x] Sales Reports Email
-  - [ ] Smart Coupon <- 뭔가 문제가 있다. 이를 어쩐담? 다시 해봐야겠다.
+  - [x] Smart Coupon
+  - [x] Order Status Manager
+  - [x] Product Reviews Pro (~13:30)
+- [ ] 우커머스 플러그인 업로드 및 설정 (14:23~)
+  - [x] Woocommerce Slack 설정완료
+  - [x] Woocommerce Google Analytics Pro 이후 설정해야한다.
+    - Tracking ID : UA-98410582-1
+- [x] Amazon S3 백업 추가
 - [ ] 기타 플러그인들 설치
 - [ ] 모바일에선 여백이 별로 없게.
 - [ ] 상품의 메인 이미지를 따로 설정할 수 있게
