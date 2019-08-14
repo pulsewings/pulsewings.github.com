@@ -4,7 +4,7 @@ slug: 2019-cycling-training-9th-weeks
 date: 2019-08-12
 generate-card: false
 language: ko
-cover: './8weeks-1.jpg'
+cover: './9weeks_2.jpg'
 tags:
   - bike
 ---

@@ -9,7 +9,7 @@ module.exports = {
   authorDescription: `
   개발을 사랑합니다. 디자인을 좋아합니다. 자전거 타는 것을 좋아합니다.
   이번 인생을 어떻게 사는지 전해드립니다. 머리 속에 떠오르는 생각을 정리하는 곳입니다.
-
+  기존에 진행했던 프로젝트를 간단히 소개합니다. 책을 읽고 떠오른 생각을 기록합니다.
   `,
   siteUrl: 'https://pulsewings.github.io/',
   disqusSiteUrl: 'https://pulsewings.com/',
