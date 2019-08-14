@@ -1,18 +1,18 @@
-import React from 'react'
-import { graphql } from 'gatsby'
+import React from 'react';
+import { graphql } from 'gatsby';
 
-import Layout from '../components/layout'
-import Wrapper from '../components/Wrapper'
-import Hero from '../components/Hero'
-import Article from '../components/Article'
-import PrevNextPost from '../components/PrevNextPost'
-import SEO from '../components/SEO'
-import Disqus from '../components/Disqus'
+import Layout from '../components/layout';
+import Wrapper from '../components/Wrapper';
+import Hero from '../components/Hero';
+import Article from '../components/Article';
+import PrevNextPost from '../components/PrevNextPost';
+import SEO from '../components/SEO';
+import Disqus from '../components/Disqus';
 
 class BlogPostTemplate extends React.Component {
   render() {
-    const post = this.props.data.post
-    const { previous, next } = this.props.pageContext
+    const post = this.props.data.post;
+    const { previous, next } = this.props.pageContext;
 
     return (
       <Layout location={this.props.location}>
@@ -20,12 +20,8 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.excerpt}
           cover={post.frontmatter.cover && post.frontmatter.cover.publicURL}
-          imageFb={
-            post.frontmatter.imageFb && post.frontmatter.imageFb.publicURL
-          }
-          imageTw={
-            post.frontmatter.imageTw && post.frontmatter.imageTw.publicURL
-          }
+          imageFb={post.frontmatter.imageFb && post.frontmatter.imageFb.publicURL}
+          imageTw={post.frontmatter.imageTw && post.frontmatter.imageTw.publicURL}
           lang={post.frontmatter.language}
           path={post.frontmatter.slug}
           isBlogPost
@@ -45,7 +41,7 @@ class BlogPostTemplate extends React.Component {
           <PrevNextPost previous={previous} next={next} />
         </Wrapper>
       </Layout>
-    )
+    );
   }
 }
 
@@ -59,13 +55,15 @@ imageFb {
 }
 */
 
-export default BlogPostTemplate
+export default BlogPostTemplate;
 
+// mdx -> allMarkdownRemark
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
     post: mdx(frontmatter: { slug: { eq: $slug } }) {
       excerpt
       body
+      tableOfContents
       frontmatter {
         title
         date(formatString: "YYYY-MM-DD ")
@@ -78,4 +76,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

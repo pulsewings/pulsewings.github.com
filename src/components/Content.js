@@ -1,11 +1,18 @@
-import React from 'react'
-import styled from 'styled-components'
-import ContentHeader from './ContentHeader'
-import { colors } from '../tokens'
-import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer'
+import React from 'react';
+import styled from 'styled-components';
+import ContentHeader from './ContentHeader';
+import { colors } from '../tokens';
+import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer';
 
 const ContentBody = styled.div`
   line-height: 1.6;
+
+  & > h1 {
+    font-size: 1.8em;
+    padding-top: 3rem;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+  }
 
   & > h2 {
     padding-top: 3rem;
@@ -99,11 +106,11 @@ const ContentBody = styled.div`
       border-bottom: 2px solid ${colors.white};
     }
   }
-`
+`;
 
 class Content extends React.Component {
   render() {
-    const { content, date, tags } = this.props
+    const { content, date, tags } = this.props;
 
     return (
       <section>
@@ -112,8 +119,8 @@ class Content extends React.Component {
           <MDXRenderer>{content}</MDXRenderer>
         </ContentBody>
       </section>
-    )
+    );
   }
 }
 
-export default Content
+export default Content;

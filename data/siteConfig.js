@@ -7,18 +7,16 @@ module.exports = {
   authorAvatar: 'avatar.jpeg', // file in content/images
   multilangPosts: false, // enable/disable flags in post lists
   authorDescription: `
-  개발을 사랑합니다. 자전거를 좋아합니다. 생각을 정리합니다.
-  For the last decade, Maxence Poutord has worked with a variety of web technologies. He is currently focused on front-end development.
-  On his day to day job, he is working as a senior front-end engineer at VSware. He is also a frequent tech speaker and a mentor.
-  As a new digital nomad, he is living where the WIFI and sun is 😎 <br>
-  Do you want to know more? <a href="https://www.maxpou.fr/about" target="_blank">Visit my website!</a>
+  개발을 사랑합니다. 디자인을 좋아합니다. 자전거 타는 것을 좋아합니다.
+  이번 인생을 어떻게 사는지 전해드립니다. 머리 속에 떠오르는 생각을 정리하는 곳입니다.
+
   `,
   siteUrl: 'https://pulsewings.github.io/',
-  disqusSiteUrl: 'https://www.pulsewings.com/',
+  disqusSiteUrl: 'https://pulsewings.com/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
   siteCover: 'cover-baymax.jpeg', // file in content/images
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-145652558-1',
   background_color: '#ffffff',
   theme_color: '#222222',
   display: 'standalone',
@@ -30,29 +28,29 @@ module.exports = {
   headerLinks: [
     {
       label: '일상',
-      url: '/',
+      url: '/'
     },
     {
       label: '마음의 양식',
-      url: '/tag/book',
+      url: '/tags/book'
     },
     {
       label: '자전거',
-      url: '/tag/bike',
+      url: '/tags/bike'
     },
     {
       label: '포트폴리오',
-      url: '/portfolio',
+      url: '/portfolio'
     },
     {
       label: '전체보기',
-      url: '/all-tag-posts',
-    },
+      url: '/all-tag-posts'
+    }
   ],
   // Footer information (ex: Github, Netlify...)
   websiteHost: {
     name: 'GitHub',
-    url: 'https://github.com',
+    url: 'https://github.com'
   },
   footerLinks: [
     {
@@ -60,35 +58,35 @@ module.exports = {
       links: [
         {
           label: 'Blog',
-          url: '/',
+          url: '/'
         },
         {
           label: 'About',
-          url: '/about-gatsby-starter-morning-dew',
+          url: '/about-gatsby-starter-morning-dew'
         },
         {
           label: 'Installation',
-          url: '/how-to-install',
-        },
-      ],
+          url: '/how-to-install'
+        }
+      ]
     },
     {
       sectionName: 'Follow the author',
       links: [
         {
           label: 'Github',
-          url: 'https://github.com/maxpou/gatsby-starter-morning-dew',
+          url: 'https://github.com/maxpou/gatsby-starter-morning-dew'
         },
         {
           label: 'Website',
-          url: 'https://www.maxpou.fr',
+          url: 'https://www.maxpou.fr'
         },
         {
           label: 'Twitter',
-          url: 'https://twitter.com/_maxpou',
-        },
-      ],
-    },
+          url: 'https://twitter.com/_maxpou'
+        }
+      ]
+    }
   ],
-  siteTags: ['programming', 'life', 'bike', 'thinking', 'challenge'],
-}
+  siteTags: ['programming', 'life', 'bike', 'thinking', 'challenge']
+};

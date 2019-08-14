@@ -1,12 +1,12 @@
-const path = require('path')
-const config = require('./data/siteConfig')
+const path = require('path');
+const config = require('./data/siteConfig');
 
 module.exports = {
   siteMetadata: {
     title: config.siteTitle,
     author: config.authorName,
     description: config.siteDescription,
-    ...config,
+    ...config
   },
   pathPrefix: config.pathPrefix,
   plugins: [
@@ -14,35 +14,35 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: 'posts',
-        path: 'content/posts',
-      },
+        path: 'content/posts'
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: 'pages',
-        path: 'content/pages',
-      },
+        path: 'content/pages'
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: 'images',
-        path: 'content/images',
-      },
+        path: 'content/images'
+      }
     },
     {
       resolve: `gatsby-plugin-page-creator`,
       options: {
-        path: path.join(__dirname, `src`, `pages`),
-      },
+        path: path.join(__dirname, `src`, `pages`)
+      }
     },
     {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [`.mdx`, `.md`],
         defaultLayouts: {
-          default: require.resolve('./src/templates/page.js'),
+          default: require.resolve('./src/templates/page.js')
         },
         gatsbyRemarkPlugins: [
           {
@@ -50,23 +50,36 @@ module.exports = {
             options: {
               maxWidth: 590,
               linkImagesToOriginal: false,
-              withWebp: true,
-            },
+              withWebp: true
+            }
           },
           { resolve: 'gatsby-remark-prismjs' },
           { resolve: 'gatsby-remark-responsive-iframe' },
           { resolve: 'gatsby-remark-copy-linked-files' },
           { resolve: 'gatsby-remark-smartypants' },
-          { resolve: 'gatsby-remark-autolink-headers' },
-        ],
-      },
+          {
+            resolve: 'gatsby-remark-autolink-headers'
+            // options: {
+            //   maintainCase: true,
+            //   removeAccents: true,
+            //   enableCustomId: true
+            // }
+          }
+        ]
+      }
     },
     // Reminder (https://github.com/gatsbyjs/gatsby/issues/15486#issuecomment-509405867)
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [`gatsby-remark-images`],
-      },
+        options: {
+          tableOfContents: {
+            heading: null,
+            maxDepth: 6
+          }
+        }
+      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-offline`,
@@ -76,8 +89,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: config.googleAnalyticsId,
-      },
+        trackingId: config.googleAnalyticsId
+      }
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -88,15 +101,15 @@ module.exports = {
         background_color: config.background_color,
         theme_color: config.theme_color,
         display: config.display,
-        icon: config.icon,
-      },
+        icon: config.icon
+      }
     },
     // https://www.gatsbyjs.org/docs/themes/converting-a-starter/#transpiling-your-theme-with-webpack
     {
       resolve: 'gatsby-plugin-compile-es6-packages',
       options: {
-        modules: ['gatsby-starter-morning-dew'],
-      },
-    },
-  ],
-}
+        modules: ['gatsby-starter-morning-dew']
+      }
+    }
+  ]
+};

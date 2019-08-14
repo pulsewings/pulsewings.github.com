@@ -1,10 +1,9 @@
-import React from 'react'
-import { Link } from 'gatsby'
-import Flag from './Flag/Flag'
-import TagList from './TagList'
-import useSiteMetadata from '../hooks/use-site-config'
-import styled from 'styled-components'
-import { colors } from '../tokens'
+import React from 'react';
+import { Link } from 'gatsby';
+import Flag from './Flag/Flag';
+import useSiteMetadata from '../hooks/use-site-config';
+import styled from 'styled-components';
+import { colors } from '../tokens';
 
 // 내가 추가
 const Post = styled.article`
@@ -13,7 +12,7 @@ const Post = styled.article`
   & > header {
     padding: 0;
   }
-`
+`;
 
 const PostDate = styled.time`
   color: ${colors.textLight};
@@ -24,11 +23,11 @@ const PostDate = styled.time`
     content: '';
     margin-right: 0.2rem;
   }
-`
+`;
 
 const PostHeader = styled.header`
   padding: 1em 0;
-`
+`;
 
 const PostTitleLink = styled(Link)`
   font-size: 17px;
@@ -39,15 +38,15 @@ const PostTitleLink = styled(Link)`
   &:hover {
     border-bottom: 1px dotted ${colors.primary};
   }
-`
+`;
 
 const H2Style = {
-  display: 'inline-block',
-}
+  display: 'inline-block'
+};
 
 const AllPostsListItem = props => {
-  const { title, excerpt, slug, date, language, tags } = props
-  const { multilangPosts } = useSiteMetadata()
+  const { title, excerpt, slug, date, language, tags } = props;
+  const { multilangPosts } = useSiteMetadata();
 
   return (
     <Post>
@@ -63,6 +62,6 @@ const AllPostsListItem = props => {
       </PostHeader>
       <footer></footer>
     </Post>
-  )
-}
-export default AllPostsListItem
+  );
+};
+export default AllPostsListItem;
