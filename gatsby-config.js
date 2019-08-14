@@ -56,15 +56,10 @@ module.exports = {
           { resolve: 'gatsby-remark-prismjs' },
           { resolve: 'gatsby-remark-responsive-iframe' },
           { resolve: 'gatsby-remark-copy-linked-files' },
-          { resolve: 'gatsby-remark-smartypants' },
-          {
-            resolve: 'gatsby-remark-autolink-headers'
-            // options: {
-            //   maintainCase: true,
-            //   removeAccents: true,
-            //   enableCustomId: true
-            // }
-          }
+          { resolve: 'gatsby-remark-smartypants' }
+          // { 헤더에 링크거는 것은데 필요없는 것 같아서 제거
+          //   resolve: 'gatsby-remark-autolink-headers'
+          // }
         ]
       }
     },
@@ -145,6 +140,61 @@ module.exports = {
               priority: 0.7
             };
           })
+      }
+    },
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.edges.map(edge => {
+                return Object.assign({}, edge.node.frontmatter, {
+                  description: edge.node.excerpt,
+                  date: edge.node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + '/' + edge.node.frontmatter.slug,
+                  guid: site.siteMetadata.siteUrl + '/' + edge.node.frontmatter.slug,
+                  custom_elements: [{ 'content:encoded': edge.node.html }]
+                });
+              });
+            },
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                ) {
+                  edges {
+                    node {
+                      excerpt
+                      html
+                      path
+                      fields { slug }
+                      frontmatter {
+                        title
+                        date
+                        slug
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: '/rss.xml',
+            title: "Pulsewings's RSS Feed"
+          }
+        ]
       }
     }
   ]

@@ -13,3 +13,4 @@ graphql에 excerpt(truncate: true) 를 붙여준다.
 # 추가 설치
 
 gatsby-plugin-sitemap
+gatsby-plugin-feed

@@ -18,12 +18,12 @@ const ContentBody = styled.div`
     padding-top: 3rem;
     /*margin-top: 3rem;*/
     /*border-top: 1px solid #ececec;*/
-    margin-top: 1.5rem;
-    padding-top: 1.5rem;
+    margin-top: 1rem;
+    padding-top: 1rem;
   }
 
   & > h3 {
-    padding-top: 3rem;
+    padding-top: 1.5rem;
   }
 
   & > p {
@@ -31,6 +31,14 @@ const ContentBody = styled.div`
     font-size: 16px;
     line-height: 28px;
     text-align: justify;
+  }
+
+  & > hr {
+    margin: 20px 0;
+  }
+
+  & .gatsby-resp-image-wrapper {
+    max-width: 940px !important;
   }
 
   & a {
