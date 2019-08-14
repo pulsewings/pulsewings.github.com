@@ -14,14 +14,14 @@ module.exports = {
   siteUrl: 'https://pulsewings.github.io/',
   disqusSiteUrl: 'https://pulsewings.com/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
-  pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
+  pathPrefix: '/', // Note: it must *not* have a trailing slash.
   siteCover: 'cover-baymax.jpeg', // file in content/images
   googleAnalyticsId: 'UA-145652558-1',
   background_color: '#ffffff',
   theme_color: '#222222',
   display: 'standalone',
   icon: 'content/images/baymax.png',
-  postsPerPage: 6,
+  postsPerPage: 10,
   disqusShortname: 'pulsewings',
   headerTitle: '펄스윙즈의 이야기',
   headerLinksIcon: 'baymax.png', //  (leave empty to disable: '')
@@ -50,7 +50,7 @@ module.exports = {
   // Footer information (ex: Github, Netlify...)
   websiteHost: {
     name: 'GitHub',
-    url: 'https://github.com'
+    url: 'https://github.com/pulsewings'
   },
   footerLinks: [
     {
@@ -61,8 +61,8 @@ module.exports = {
           url: '/'
         },
         {
-          label: 'About',
-          url: '/about-gatsby-starter-morning-dew'
+          label: 'Portfolio',
+          url: '/portfolio'
         },
         {
           label: 'Installation',
@@ -75,18 +75,18 @@ module.exports = {
       links: [
         {
           label: 'Github',
-          url: 'https://github.com/maxpou/gatsby-starter-morning-dew'
+          url: 'https://github.com/pulsewings/'
         },
         {
           label: 'Website',
-          url: 'https://www.maxpou.fr'
+          url: 'https://pulsewings.com'
         },
         {
-          label: 'Twitter',
-          url: 'https://twitter.com/_maxpou'
+          label: 'Maeum.st',
+          url: 'https://maeum.st'
         }
       ]
     }
   ],
-  siteTags: ['programming', 'life', 'bike', 'thinking', 'challenge']
+  siteTags: ['life', 'bike', 'thinking', 'challenge', 'programming']
 };
