@@ -1,6 +1,11 @@
 import React, { Fragment } from 'react';
-
+import { Link } from 'gatsby';
+import styled from 'styled-components';
 import AllPostsListItem from './AllPostsListItem';
+
+const TagTitleLink = styled(Link)`
+  color: #555;
+`;
 
 // 내가 추가
 class AllPostsList extends React.Component {
@@ -11,25 +16,29 @@ class AllPostsList extends React.Component {
       margin: '30px 7px 15px 7px'
     };
 
+    const getFilteredPosts = (posts, tag) => {
+      return posts.filter(post => post.node.frontmatter.tags.indexOf(tag) > -1);
+    };
+
     const getPostsByTag = (posts, tag) => {
       return (
         <Fragment>
-          <h2 style={H2Style} to={`/tags/${tag}`}>
-            {tag}
+          <h2 style={H2Style}>
+            <TagTitleLink to={`/tags/${tag}`}>
+              {tag} ({getFilteredPosts(posts, tag).length})
+            </TagTitleLink>
           </h2>
-          {posts
-            .filter(post => post.node.frontmatter.tags.indexOf(tag) > -1)
-            .map(post => {
-              const props = {
-                title: post.node.frontmatter.title,
-                excerpt: post.node.excerpt,
-                slug: post.node.frontmatter.slug,
-                date: post.node.frontmatter.date,
-                language: post.node.frontmatter.language || 'fr',
-                tags: post.node.frontmatter.tags || []
-              };
-              return <AllPostsListItem key={props.slug} {...props} />;
-            })}
+          {getFilteredPosts(posts, tag).map(post => {
+            const props = {
+              title: post.node.frontmatter.title,
+              excerpt: post.node.excerpt,
+              slug: post.node.frontmatter.slug,
+              date: post.node.frontmatter.date,
+              language: post.node.frontmatter.language || 'fr',
+              tags: post.node.frontmatter.tags || []
+            };
+            return <AllPostsListItem key={props.slug} {...props} />;
+          })}
         </Fragment>
       );
     };
