@@ -11,6 +11,8 @@ const Post = styled.article`
 
   & > header {
     padding: 0;
+    display: grid;
+    grid-template-columns: max-content auto;
   }
 `;
 
@@ -18,6 +20,7 @@ const PostDate = styled.time`
   color: ${colors.textLight};
   display: inline-block;
   margin-right: 10px;
+  margin-top: 6px;
 
   &:before {
     content: '';
@@ -34,6 +37,7 @@ const PostTitleLink = styled(Link)`
   display: inline-block;
   color: ${colors.primary};
   margin-right: 5px;
+  line-height: 1.7;
 
   &:hover {
     border-bottom: 1px dotted ${colors.primary};
