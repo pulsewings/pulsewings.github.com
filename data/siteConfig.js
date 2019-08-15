@@ -39,7 +39,7 @@ module.exports = {
       url: '/tags/bike'
     },
     {
-      label: '포트폴리오',
+      label: '프로젝트',
       url: '/portfolio'
     },
     {
@@ -88,5 +88,5 @@ module.exports = {
       ]
     }
   ],
-  siteTags: ['life', 'bike', 'thinking', 'challenge', 'programming']
+  siteTags: ['life', 'bike', 'thinking', 'challenge', 'book']
 };

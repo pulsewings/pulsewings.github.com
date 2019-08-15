@@ -59,6 +59,11 @@ const ContentBody = styled.div`
     margin: 1.75em 0 1.75em -2.2em;
     padding: 0 0 0 1.75em;
     border-left: 0.4em solid rgba(32, 35, 42, 0.85);
+
+    @media (max-width: 780px) {
+      margin: 1.75em 0 1.75em 0;
+      padding: 0 0 0 1em;
+    }
   }
 
   & > blockquote p {
@@ -113,6 +118,10 @@ const ContentBody = styled.div`
       background: #e8e8e8;
       border-bottom: 2px solid ${colors.white};
     }
+  }
+
+  & li {
+    margin-bottom: 8px;
   }
 `;
 

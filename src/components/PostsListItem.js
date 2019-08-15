@@ -1,16 +1,16 @@
-import React from 'react'
-import { Link } from 'gatsby'
-import Flag from './Flag/Flag'
-import TagList from './TagList'
-import useSiteMetadata from '../hooks/use-site-config'
-import styled from 'styled-components'
-import { colors } from '../tokens'
+import React from 'react';
+import { Link } from 'gatsby';
+import Flag from './Flag/Flag';
+import TagList from './TagList';
+import useSiteMetadata from '../hooks/use-site-config';
+import styled from 'styled-components';
+import { colors } from '../tokens';
 
 const Post = styled.article`
   border-bottom: 1px solid rgba(214, 209, 230, 0.5);
   padding-bottom: 1.25rem;
   padding: 20px 0 35px 0px;
-`
+`;
 
 const ReadPost = styled(Link)`
   display: block;
@@ -28,7 +28,7 @@ const ReadPost = styled(Link)`
     border-radius: 0.25rem;
     color: ${colors.textLightest};
   }
-`
+`;
 
 const PostDate = styled.time`
   color: ${colors.textLight};
@@ -40,11 +40,11 @@ const PostDate = styled.time`
     content: '';
     margin-right: 0.2rem;
   }
-`
+`;
 
 const PostHeader = styled.header`
   padding: 1em 0;
-`
+`;
 
 const Excerpt = styled.p`
   line-height: 1.45;
@@ -75,18 +75,22 @@ const Excerpt = styled.p`
     word-wrap: break-word;
     overflow: hidden;
   }
-`
+`;
 
 const PostTitleLink = styled(Link)`
   color: ${colors.primary};
   &:hover {
     border-bottom: 1px dotted ${colors.primary};
   }
-`
+
+  @media (max-width: 780px) {
+    line-height: 1.4;
+  }
+`;
 
 const PostsListItem = props => {
-  const { title, excerpt, slug, date, language, tags } = props
-  const { multilangPosts } = useSiteMetadata()
+  const { title, excerpt, slug, date, language, tags } = props;
+  const { multilangPosts } = useSiteMetadata();
 
   return (
     <Post>
@@ -111,6 +115,6 @@ const PostsListItem = props => {
         */}
       </footer>
     </Post>
-  )
-}
-export default PostsListItem
+  );
+};
+export default PostsListItem;

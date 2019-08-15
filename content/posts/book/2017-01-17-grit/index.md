@@ -1,6 +1,6 @@
 ---
-title: '그릿 - 열정적 끈기의 힘'
-slug: 2017-01-17-grit
+title: '열정적 끈기의 힘 【 그릿 GRIT - 앤절라 더크워스 】'
+slug: 2017-01-17-grit-book-report
 date: 2017-01-17
 generate-card: false
 language: ko
