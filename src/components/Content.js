@@ -41,6 +41,16 @@ const ContentBody = styled.div`
     max-width: 940px !important;
   }
 
+  & .gatsby-resp-image-figure {
+  }
+
+  & .gatsby-resp-image-figcaption {
+    text-align: center;
+    color: #777;
+    margin-top: 5px;
+    font-size: 13px;
+  }
+
   & a {
     border-bottom: 1px dotted rgba(162, 162, 162, 0.8);
 

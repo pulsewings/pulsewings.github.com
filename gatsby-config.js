@@ -48,9 +48,11 @@ module.exports = {
           {
             resolve: 'gatsby-remark-images',
             options: {
-              maxWidth: 590,
+              maxWidth: 940,
               linkImagesToOriginal: false,
-              withWebp: true
+              withWebp: true,
+              showCaptions: true,
+              quality: 100
             }
           },
           { resolve: 'gatsby-remark-prismjs' },
@@ -73,6 +75,9 @@ module.exports = {
             heading: null,
             maxDepth: 6
           }
+          // maxWidth: 940,
+          // showCaptions: true,
+          // markdownCaptions: true
         }
       }
     },
