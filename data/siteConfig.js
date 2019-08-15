@@ -45,6 +45,10 @@ module.exports = {
     {
       label: '전체보기',
       url: '/all-tag-posts'
+    },
+    {
+      label: 'Changelog',
+      url: '/changelog'
     }
   ],
   // Footer information (ex: Github, Netlify...)

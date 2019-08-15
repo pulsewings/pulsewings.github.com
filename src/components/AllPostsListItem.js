@@ -38,6 +38,7 @@ const PostTitleLink = styled(Link)`
   color: ${colors.primary};
   margin-right: 5px;
   line-height: 1.7;
+  border-bottom: 1px solid #fff;
 
   &:hover {
     border-bottom: 1px dotted ${colors.primary};
