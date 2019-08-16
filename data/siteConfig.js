@@ -4,7 +4,7 @@ module.exports = {
     '개발을 사랑합니다. 자전거를 좋아합니다. 생각을 정리합니다. 코드 없는 개발자 블로그',
   authorName: 'Pulsewings',
   twitterUsername: '',
-  authorAvatar: 'avatar.jpeg', // file in content/images
+  authorAvatar: 'avatar.jpg', // file in content/images
   multilangPosts: false, // enable/disable flags in post lists
   authorDescription: `
   개발을 사랑합니다. 디자인을 좋아합니다. 자전거 타는 것을 좋아합니다.
@@ -15,23 +15,27 @@ module.exports = {
   disqusSiteUrl: 'https://pulsewings.com/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/', // Note: it must *not* have a trailing slash.
-  siteCover: 'cover-baymax.jpeg', // file in content/images
+  siteCover: 'cover.jpg', // file in content/images
   googleAnalyticsId: 'UA-145652558-1',
   background_color: '#ffffff',
   theme_color: '#222222',
   display: 'standalone',
-  icon: 'content/images/baymax.png',
+  icon: 'content/images/pulsewings-icon-color.png',
   postsPerPage: 10,
   disqusShortname: 'pulsewings',
-  headerTitle: '펄스윙즈의 이야기',
-  headerLinksIcon: 'baymax.png', //  (leave empty to disable: '')
+  headerTitle: '펄스윙즈의 일상 이야기',
+  headerLinksIcon: 'pulsewings-icon.png', //  (leave empty to disable: '')
   headerLinks: [
     {
       label: '일상',
       url: '/'
     },
     {
-      label: '마음의 양식',
+      label: '생각',
+      url: '/tags/thinking'
+    },
+    {
+      label: '책',
       url: '/tags/book'
     },
     {
@@ -43,7 +47,7 @@ module.exports = {
       url: '/portfolio'
     },
     {
-      label: '전체보기',
+      label: '전체모아보기',
       url: '/all-tag-posts'
     },
     {
@@ -92,5 +96,5 @@ module.exports = {
       ]
     }
   ],
-  siteTags: ['life', 'bike', 'thinking', 'challenge', 'book']
+  siteTags: ['life', 'thinking', 'bike', 'challenge', 'book']
 };

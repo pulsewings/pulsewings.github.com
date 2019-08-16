@@ -1,10 +1,26 @@
 import React, { Fragment } from 'react';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
+import AnchorLink from 'react-anchor-link-smooth-scroll';
 import AllPostsListItem from './AllPostsListItem';
 
 const TagTitleLink = styled(Link)`
   color: #555;
+`;
+
+const AnchorContainer = styled.ul`
+  display: flex;
+  justify-content: space-between;
+  padding-left: 0;
+  margin-bottom: 15px;
+`;
+
+const AnchorTitle = styled.li`
+  display: inline-block;
+  font-size: 16px;
+  & > a {
+    color: #555;
+  }
 `;
 
 // 내가 추가
@@ -15,6 +31,9 @@ class AllPostsList extends React.Component {
     const H2Style = {
       margin: '30px 7px 15px 7px'
     };
+    const DivStyle = {
+      'padding-top': '55px'
+    };
 
     const getFilteredPosts = (posts, tag) => {
       return posts.filter(post => post.node.frontmatter.tags.indexOf(tag) > -1);
@@ -23,28 +42,42 @@ class AllPostsList extends React.Component {
     const getPostsByTag = (posts, tag) => {
       return (
         <Fragment>
-          <h2 style={H2Style}>
-            <TagTitleLink to={`/tags/${tag}`}>
-              {tag} ({getFilteredPosts(posts, tag).length})
-            </TagTitleLink>
-          </h2>
-          {getFilteredPosts(posts, tag).map(post => {
-            const props = {
-              title: post.node.frontmatter.title,
-              excerpt: post.node.excerpt,
-              slug: post.node.frontmatter.slug,
-              date: post.node.frontmatter.date,
-              language: post.node.frontmatter.language || 'fr',
-              tags: post.node.frontmatter.tags || []
-            };
-            return <AllPostsListItem key={props.slug} {...props} />;
-          })}
+          <div id={tag} style={DivStyle}>
+            <h2 style={H2Style}>
+              <TagTitleLink to={`/tags/${tag}`}>
+                {tag} ({getFilteredPosts(posts, tag).length})
+              </TagTitleLink>
+            </h2>
+            {getFilteredPosts(posts, tag).map(post => {
+              const props = {
+                title: post.node.frontmatter.title,
+                excerpt: post.node.excerpt,
+                slug: post.node.frontmatter.slug,
+                date: post.node.frontmatter.date,
+                language: post.node.frontmatter.language || 'fr',
+                tags: post.node.frontmatter.tags || []
+              };
+              return <AllPostsListItem key={props.slug} {...props} />;
+            })}
+          </div>
         </Fragment>
       );
     };
 
     return (
       <Fragment>
+        <AnchorContainer>
+          {siteTags.map(tag => {
+            return (
+              <AnchorTitle>
+                <AnchorLink href={`#${tag}`}>
+                  {tag} ({getFilteredPosts(posts, tag).length})
+                </AnchorLink>
+              </AnchorTitle>
+            );
+          })}
+        </AnchorContainer>
+        <hr></hr>
         {siteTags.map(tag => {
           return getPostsByTag(posts, tag);
         })}

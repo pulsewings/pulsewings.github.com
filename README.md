@@ -19,3 +19,5 @@ gatsby develop -H 0.0.0.0
 여기에 접근하고,
 나의 IP로 접속하면 모바일에서도 확인 가능하다.
 http://172.30.1.19:8000/
+
+react-anchor-link-smooth-scroll
