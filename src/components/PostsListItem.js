@@ -33,7 +33,7 @@ const ReadPost = styled(Link)`
 const PostDate = styled.time`
   color: ${colors.textLight};
   float: right;
-  text-decoration: underline;
+  // text-decoration: underline;
 
   &:before {
     /*content: '🗓';*/
@@ -62,6 +62,7 @@ const Excerpt = styled.p`
   word-wrap: break-word;
   overflow: hidden;
   margin-bottom: 15px;
+  color: #777;
 
   @media (max-width: 780px) {
     margin-top: 0;
@@ -78,9 +79,11 @@ const Excerpt = styled.p`
 `;
 
 const PostTitleLink = styled(Link)`
-  color: ${colors.primary};
+  // color: ${colors.primary};
+  color: #555;
   &:hover {
-    border-bottom: 1px dotted ${colors.primary};
+    // border-bottom: 1px dotted ${colors.primary};
+    border-bottom: 1px dotted #555;
   }
 
   @media (max-width: 780px) {

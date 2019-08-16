@@ -35,13 +35,16 @@ const PostHeader = styled.header`
 const PostTitleLink = styled(Link)`
   font-size: 17px;
   display: inline-block;
-  color: ${colors.primary};
+  // color: ${colors.primary};
+  color: #555;
   margin-right: 5px;
   line-height: 1.7;
   border-bottom: 1px solid #fff;
+  margin-left: 5px;
 
   &:hover {
-    border-bottom: 1px dotted ${colors.primary};
+    // border-bottom: 1px dotted ${colors.primary};
+    border-bottom: 1px dotted #555;
   }
 `;
 
