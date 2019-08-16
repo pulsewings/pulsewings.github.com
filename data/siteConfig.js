@@ -51,6 +51,10 @@ module.exports = {
       url: '/all-tag-posts'
     },
     {
+      label: '연도별',
+      url: '/all-date-posts'
+    },
+    {
       label: 'Changelog',
       url: '/changelog'
     }
@@ -96,5 +100,18 @@ module.exports = {
       ]
     }
   ],
-  siteTags: ['life', 'thinking', 'bike', 'challenge', 'book']
+  siteTags: ['life', 'thinking', 'bike', 'challenge', 'book'],
+  siteYears: [
+    '2019',
+    '2018',
+    '2017',
+    '2016',
+    '2015',
+    '2014',
+    '2013',
+    '2012',
+    '2011',
+    '2010',
+    '2009'
+  ]
 };
