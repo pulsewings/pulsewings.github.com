@@ -14,6 +14,12 @@ const Post = styled.article`
     display: grid;
     grid-template-columns: max-content auto;
   }
+
+  @media (max-width: 780px) {
+    & > header {
+      display: block;
+    }
+  }
 `;
 
 const PostDate = styled.time`
@@ -25,6 +31,11 @@ const PostDate = styled.time`
   &:before {
     content: '';
     margin-right: 0.2rem;
+  }
+
+  @media (max-width: 780px) {
+    font-size: 13px;
+    display: block;
   }
 `;
 
@@ -45,6 +56,11 @@ const PostTitleLink = styled(Link)`
   &:hover {
     // border-bottom: 1px dotted ${colors.primary};
     border-bottom: 1px dotted #555;
+  }
+
+  @media (max-width: 780px) {
+    font-size: 15px;
+    margin-left: 3px;
   }
 `;
 

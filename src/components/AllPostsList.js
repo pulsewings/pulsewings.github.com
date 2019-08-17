@@ -13,6 +13,10 @@ const AnchorContainer = styled.ul`
   justify-content: space-between;
   padding-left: 0;
   margin-bottom: 15px;
+
+  @media (max-width: 780px) {
+    display: inline-block;
+  }
 `;
 
 const AnchorTitle = styled.li`
@@ -28,6 +32,10 @@ const AnchorTitle = styled.li`
     color: #1e1e1e;
     font-size: 12px;
     line-height: 24px;
+  }
+  @media (max-width: 780px) {
+    margin-right: 5px;
+    margin-bottom: 8px;
   }
 `;
 

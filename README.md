@@ -21,3 +21,9 @@ gatsby develop -H 0.0.0.0
 http://172.30.1.19:8000/
 
 react-anchor-link-smooth-scroll
+
+## 모바일에서
+
+@media (max-width: 780px) {
+
+}
