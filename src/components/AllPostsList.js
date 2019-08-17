@@ -20,6 +20,14 @@ const AnchorTitle = styled.li`
   font-size: 16px;
   & > a {
     color: #555;
+    padding: 5px 10px;
+    border: 1px solid #e6e6e6;
+    border-radius: 4px;
+    vertical-align: middle;
+    background-color: #fafafa;
+    color: #1e1e1e;
+    font-size: 12px;
+    line-height: 24px;
   }
 `;
 
