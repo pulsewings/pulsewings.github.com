@@ -5,9 +5,10 @@ cover: ./cover.png
 disqus: true
 ---
 
-# 2019-06-16
+# 2019-08-16
 
 - 불필요하게 폴더를 만들지 않아도 된다. 이미지 혹은 자료들이 따로 없을 때는 마크다운 파일 하나만 만들도록 하자.
+- [Pulse-Beat's Bits-Box](https://pulsebeat.tistory.com/) 블로그글 이전 완료
 
 # 2019-08-16
 
