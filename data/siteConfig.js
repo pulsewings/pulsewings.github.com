@@ -47,7 +47,7 @@ module.exports = {
       url: '/portfolio'
     },
     {
-      label: '전체모아보기',
+      label: '태그별',
       url: '/all-tag-posts'
     },
     {
@@ -100,7 +100,7 @@ module.exports = {
       ]
     }
   ],
-  siteTags: ['life', 'thinking', 'bike', 'challenge', 'book'],
+  siteTags: ['thinking', 'book', 'bike', 'life', 'challenge'],
   siteYears: [
     '2019',
     '2018',
