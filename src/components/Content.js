@@ -26,6 +26,10 @@ const ContentBody = styled.div`
     padding-top: 1.5rem;
   }
 
+  & > h4 {
+    padding-top: 1.5rem;
+  }
+
   & > p {
     margin: 1em 0 0 0;
     font-size: 16px;
@@ -34,7 +38,7 @@ const ContentBody = styled.div`
   }
 
   & > hr {
-    margin: 20px 0;
+    margin: 30px 0;
   }
 
   & .gatsby-resp-image-wrapper {
