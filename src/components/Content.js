@@ -70,8 +70,10 @@ const ContentBody = styled.div`
 
   & > blockquote {
     box-sizing: border-box;
-    margin: 1.75em 0 1.75em -2.2em;
-    padding: 0 0 0 1.75em;
+    // margin: 1.75em 0 1.75em -2.2em;
+    // padding: 0 0 0 1.75em;
+    margin: 1.75em 0 1.75em 0;
+    padding: 0 0 0 1.5em;
     border-left: 0.4em solid rgba(32, 35, 42, 0.85);
 
     @media (max-width: 780px) {
@@ -82,7 +84,7 @@ const ContentBody = styled.div`
 
   & > blockquote p {
     margin: 0.8em 0;
-    font-style: italic;
+    font-style: normal;
   }
 
   & .gatsby-highlight {
