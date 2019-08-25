@@ -1,9 +1,9 @@
-import React, { useState } from 'react'
-import { Link } from 'gatsby'
-import styled from 'styled-components'
-import useSiteMetadata from '../hooks/use-site-config'
-import { colors, media } from '../tokens'
-import useSiteImages from '../hooks/use-site-images'
+import React, { useState } from 'react';
+import { Link } from 'gatsby';
+import styled from 'styled-components';
+import useSiteMetadata from '../hooks/use-site-config';
+import { colors, media } from '../tokens';
+import useSiteImages from '../hooks/use-site-images';
 
 const HeaderWrapper = styled.header`
   top: 0;
@@ -18,7 +18,7 @@ const HeaderWrapper = styled.header`
   @media ${media.medium} {
     position: fixed;
   }
-`
+`;
 
 const HeaderNav = styled.nav`
   font-weight: 700;
@@ -34,7 +34,7 @@ const HeaderNav = styled.nav`
   overflow-y: hidden;
   white-space: nowrap;
   padding: 0px 20px;
-`
+`;
 
 const HeaderLinksContainer = styled.div`
   display: none;
@@ -43,7 +43,7 @@ const HeaderLinksContainer = styled.div`
   @media ${media.medium} {
     display: flex;
   }
-`
+`;
 
 const HeaderLink = styled(Link)`
   position: relative;
@@ -59,21 +59,21 @@ const HeaderLink = styled(Link)`
   & + & {
     margin-left: 0.7rem;
   }
-`
+`;
 
 const HeaderLinkTitle = styled(HeaderLink)`
   padding-left: 0;
-`
+`;
 
 const HeaderLinkTitleContent = styled.span`
   display: block;
   padding-left: 0;
-`
+`;
 
 const HeaderImage = styled.img`
   padding: 4px;
   height: 57px;
-`
+`;
 
 const MobilePanel = styled.div`
   position: absolute;
@@ -88,7 +88,7 @@ const MobilePanel = styled.div`
   @media ${media.medium} {
     display: none;
   }
-`
+`;
 
 const MobileNav = styled.nav`
   max-width: 800px;
@@ -103,7 +103,7 @@ const MobileNav = styled.nav`
     display: flex;
     margin: 10px 0 !important;
   }
-`
+`;
 
 const HeaderLinks = ({ headerLinks }) => {
   return headerLinks.map((headerLink, i) => (
@@ -114,8 +114,8 @@ const HeaderLinks = ({ headerLinks }) => {
     >
       {headerLink.label}
     </HeaderLink>
-  ))
-}
+  ));
+};
 
 const BurgerButton = styled.button`
   z-index: 30;
@@ -133,7 +133,7 @@ const BurgerButton = styled.button`
   @media ${media.medium} {
     display: none;
   }
-`
+`;
 
 const BurgerContent = styled.div`
   width: 24px;
@@ -142,9 +142,7 @@ const BurgerContent = styled.div`
   position: absolute;
   left: 0;
   ${props =>
-    props.isToggledOn
-      ? 'background: transparent'
-      : `background: ${colors.textLightest}`};
+    props.isToggledOn ? 'background: transparent' : `background: ${colors.textLightest}`};
   transition: all 250ms cubic-bezier(0.86, 0, 0.07, 1);
   ::before {
     content: '';
@@ -154,10 +152,7 @@ const BurgerContent = styled.div`
     background: ${colors.textLightest};
     position: absolute;
     left: 0;
-    ${props =>
-      props.isToggledOn
-        ? 'transform: rotate(45deg); top: 0;'
-        : 'transform: rotate(0)'};
+    ${props => (props.isToggledOn ? 'transform: rotate(45deg); top: 0;' : 'transform: rotate(0)')};
     transition: all 250ms cubic-bezier(0.86, 0, 0.07, 1);
   }
   ::after {
@@ -168,24 +163,18 @@ const BurgerContent = styled.div`
     background: white;
     position: absolute;
     left: 0;
-    ${props =>
-      props.isToggledOn
-        ? 'transform: rotate(-45deg); top: 0;'
-        : 'transform: rotate(0)'};
+    ${props => (props.isToggledOn ? 'transform: rotate(-45deg); top: 0;' : 'transform: rotate(0)')};
     transition: all 250ms cubic-bezier(0.86, 0, 0.07, 1);
   }
-`
+`;
 
 const MobileHeader = ({ headerLinks }) => {
-  const [isToggledOn, setToggle] = useState(false)
-  const toggle = () => setToggle(!isToggledOn)
+  const [isToggledOn, setToggle] = useState(false);
+  const toggle = () => setToggle(!isToggledOn);
 
   return (
     <>
-      <BurgerButton
-        onClick={toggle}
-        aria-label={`${isToggledOn ? 'close menu' : 'open menu'}`}
-      >
+      <BurgerButton onClick={toggle} aria-label={`${isToggledOn ? 'close menu' : 'open menu'}`}>
         <BurgerContent isToggledOn={isToggledOn} />
       </BurgerButton>
       {isToggledOn && (
@@ -196,19 +185,13 @@ const MobileHeader = ({ headerLinks }) => {
         </MobilePanel>
       )}
     </>
-  )
-}
+  );
+};
 
 const Header = () => {
-  const {
-    headerLinks,
-    siteTitle,
-    headerTitle,
-    headerLinksIcon,
-  } = useSiteMetadata()
-  const iconSrc = headerLinksIcon
-    ? useSiteImages(headerLinksIcon).fluid.src
-    : null
+  const { headerLinks, siteTitle, headerTitle, headerLinksIcon } = useSiteMetadata();
+  // const iconSrc = headerLinksIcon ? useSiteImages(headerLinksIcon).fluid.src : null;
+  const iconSrc = useSiteImages(headerLinksIcon).fluid.src;
 
   return (
     <HeaderWrapper>
@@ -223,7 +206,7 @@ const Header = () => {
         <MobileHeader headerLinks={headerLinks} />
       </HeaderNav>
     </HeaderWrapper>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

@@ -4,7 +4,7 @@ slug: 2013-06-12-pulsewings-blog
 date: 2013-06-12
 generate-card: false
 language: ko
-cover: './cover.jpg'
+cover: './blog_01.jpg'
 tags:
   - thinking
   - project

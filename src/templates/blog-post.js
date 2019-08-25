@@ -19,7 +19,8 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.excerpt}
-          cover={post.frontmatter.cover && post.frontmatter.cover.publicURL}
+          // cover={post.frontmatter.cover && post.frontmatter.cover.publicURL}
+          cover={post.frontmatter.cover}
           imageFb={post.frontmatter.imageFb && post.frontmatter.imageFb.publicURL}
           imageTw={post.frontmatter.imageTw && post.frontmatter.imageTw.publicURL}
           lang={post.frontmatter.language}
@@ -53,6 +54,11 @@ imageTw {
 imageFb {
   publicURL
 }
+cover {
+  publicURL
+}
+이 부분을
+cover 로 바꿈
 */
 
 export default BlogPostTemplate;
@@ -70,9 +76,7 @@ export const pageQuery = graphql`
         slug
         language
         tags
-        cover {
-          publicURL
-        }
+        cover
       }
     }
   }
