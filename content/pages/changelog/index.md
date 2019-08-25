@@ -5,6 +5,11 @@ cover: ./cover.png
 disqus: true
 ---
 
+# 2019-08-25
+
+- node 최신버전 업데이트 후에 useState 버그 해결
+- node 최신버전 업데이트 후에 cover, publicURL 버그 해결
+
 # 2019-08-22
 
 - 이미지 최적화
