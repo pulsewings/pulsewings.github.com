@@ -4,7 +4,7 @@ slug: 2019-10th-weeks-namsan-bukak-dosunsa-riding
 date: 2019-08-24
 generate-card: false
 language: ko
-cover: './dosunsa.jpg'
+cover: './dosunsa_1.jpg'
 tags:
   - bike
 ---
@@ -57,6 +57,7 @@ tags:
 ---
 
 이번달까지 목표로 했던 9분 30초대로 들어오기도 성공했다.
+
 새로운 기록 북악업힐 9:28
 
 ---

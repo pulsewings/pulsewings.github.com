@@ -4,7 +4,7 @@ slug: 2013-07-21-project-live-wallpaper
 date: 2013-07-21
 generate-card: false
 language: ko
-cover: './cover.jpg'
+cover: './wallpaper_1.jpeg'
 tags:
   - thinking
   - project

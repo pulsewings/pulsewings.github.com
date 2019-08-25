@@ -1,15 +1,15 @@
-import React from 'react'
-import { graphql } from 'gatsby'
+import React from 'react';
+import { graphql } from 'gatsby';
 
-import Layout from '../components/layout'
-import Content from '../components/Content'
-import Wrapper from '../components/Wrapper'
-import Hero from '../components/Hero'
-import SEO from '../components/SEO'
-import Disqus from '../components/Disqus'
+import Layout from '../components/layout';
+import Content from '../components/Content';
+import Wrapper from '../components/Wrapper';
+import Hero from '../components/Hero';
+import SEO from '../components/SEO';
+import Disqus from '../components/Disqus';
 
 export default props => {
-  const page = props.data.page
+  const page = props.data.page;
 
   return (
     <Layout location={props.location}>
@@ -17,11 +17,13 @@ export default props => {
         title={page.frontmatter.title}
         description={page.excerpt}
         path={page.frontmatter.slug}
-        cover={page.frontmatter.cover && page.frontmatter.cover.publicURL}
+        // cover={page.frontmatter.cover && page.frontmatter.cover.publicURL}
+        cover={page.frontmatter.cover}
       />
 
       <Hero
-        heroImg={page.frontmatter.cover && page.frontmatter.cover.publicURL}
+        // heroImg={page.frontmatter.cover && page.frontmatter.cover.publicURL}
+        heroImg={page.frontmatter.cover}
         title={page.frontmatter.title}
       />
 
@@ -37,9 +39,14 @@ export default props => {
         </Wrapper>
       )}
     </Layout>
-  )
-}
+  );
+};
 
+// cover {
+//   publicURL
+// }
+// 이 부분을
+// cover로 바꿈
 export const pageQuery = graphql`
   query($slug: String!) {
     page: mdx(frontmatter: { slug: { eq: $slug } }) {
@@ -50,10 +57,8 @@ export const pageQuery = graphql`
         date(formatString: "YYYY-MM-DD")
         slug
         disqus
-        cover {
-          publicURL
-        }
+        cover
       }
     }
   }
-`
+`;

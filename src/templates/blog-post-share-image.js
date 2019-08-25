@@ -1,13 +1,13 @@
-import React from 'react'
-import { graphql, withPrefix } from 'gatsby'
-import styled from 'styled-components'
-import { GlobalStyle } from '../components/Commons'
-import useSiteMetadata from '../hooks/use-site-config'
+import React from 'react';
+import { graphql, withPrefix } from 'gatsby';
+import styled from 'styled-components';
+import { GlobalStyle } from '../components/Commons';
+import useSiteMetadata from '../hooks/use-site-config';
 
 const Preview = styled.div.attrs({
   width: props => props.width || 440,
   height: props => props.height || 220,
-  hero: props => props.hero || withPrefix(props.siteCover),
+  hero: props => props.hero || withPrefix(props.siteCover)
 })`
   width: ${props => props.width}px;
   height: ${props => props.height}px;
@@ -20,10 +20,10 @@ const Preview = styled.div.attrs({
 
   vertical-align: middle;
   text-align: center;
-`
+`;
 
 const Title = styled.h1.attrs({
-  fontSize: props => (props.type === 'twitter' ? '1.8rem' : '4.8rem'),
+  fontSize: props => (props.type === 'twitter' ? '1.8rem' : '4.8rem')
 })`
   font-weight: 700;
   font-size: ${props => props.fontSize};
@@ -31,10 +31,10 @@ const Title = styled.h1.attrs({
   color: #fff;
   text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.6);
   text-align: center;
-`
+`;
 
 const ReadTime = styled.h2.attrs({
-  fontSize: props => (props.type === 'twitter' ? '1.5rem' : '2rem'),
+  fontSize: props => (props.type === 'twitter' ? '1.5rem' : '2rem')
 })`
   vertical-align: middle;
   font-size: ${props => props.fontSize};
@@ -44,14 +44,15 @@ const ReadTime = styled.h2.attrs({
     padding: 0.4em;
     content: '👁';
   }
-`
+`;
 
 const BlogPostShareImage = props => {
-  const post = props.data.post
-  const { width, height, type } = props.pageContext
-  const heroImg = post.frontmatter.cover && post.frontmatter.cover.publicURL
-  const minute = post.timeToRead === 1 ? 'min' : 'mins'
-  const { siteCover } = useSiteMetadata()
+  const post = props.data.post;
+  const { width, height, type } = props.pageContext;
+  // const heroImg = post.frontmatter.cover && post.frontmatter.cover.publicURL
+  const heroImg = post.frontmatter.cover;
+  const minute = post.timeToRead === 1 ? 'min' : 'mins';
+  const { siteCover } = useSiteMetadata();
 
   return (
     <Preview width={width} height={height} hero={heroImg} siteCover={siteCover}>
@@ -61,10 +62,15 @@ const BlogPostShareImage = props => {
         {post.timeToRead} {minute}
       </ReadTime>
     </Preview>
-  )
-}
+  );
+};
 
-export default BlogPostShareImage
+export default BlogPostShareImage;
+
+// cover {
+//   publicURL
+// }
+// 이 부분을 cover로 바꿈
 
 export const pageQuery = graphql`
   query BlogPostShareImage($slug: String!) {
@@ -72,10 +78,8 @@ export const pageQuery = graphql`
       timeToRead
       frontmatter {
         title
-        cover {
-          publicURL
-        }
+        cover
       }
     }
   }
-`
+`;
