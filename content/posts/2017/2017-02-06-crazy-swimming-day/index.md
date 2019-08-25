@@ -3,7 +3,7 @@ title: '미친듯이 수영하다 - 의식적인 연습의 필요성을 느끼�
 slug: 2017-02-06-crazy-swimming-day
 date: 2017-02-06
 cover: ./cover.jpg
-generate-card: true
+generate-card: false
 language: ko
 tags:
   - blog

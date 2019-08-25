@@ -2,7 +2,7 @@
 title: '[자전거 트레이닝] 남산 삼바리, 비가와도 좋다'
 slug: 2019-namsan-3times
 date: 2019-08-15
-generate-card: true
+generate-card: false
 language: ko
 cover: './namsan_0.jpg'
 tags:
