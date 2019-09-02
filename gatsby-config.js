@@ -184,7 +184,6 @@ module.exports = {
                     node {
                       excerpt
                       html
-                      path
                       fields { slug }
                       frontmatter {
                         title

@@ -11,10 +11,10 @@ module.exports = {
   이번 인생을 어떻게 사는지 전해드립니다. 머리 속에 떠오르는 생각을 정리하는 곳입니다.
   기존에 진행했던 프로젝트를 간단히 소개합니다. 책을 읽고 떠오른 생각을 기록합니다.
   `,
-  siteUrl: 'https://pulsewings.github.io/',
+  siteUrl: 'https://pulsewings.com/',
   disqusSiteUrl: 'https://pulsewings.com/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
-  pathPrefix: '/', // Note: it must *not* have a trailing slash.
+  pathPrefix: '/pulsewings.github.io', // Note: it must *not* have a trailing slash.
   siteCover: 'cover.jpg', // file in content/images
   googleAnalyticsId: 'UA-145652558-1',
   background_color: '#ffffff',
