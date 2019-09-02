@@ -1,12 +1,12 @@
-import React from "react";
-import { graphql, useStaticQuery } from "gatsby";
-import styled from "styled-components";
+import React from 'react';
+import { graphql, useStaticQuery } from 'gatsby';
+import styled from 'styled-components';
 
-import Layout from "../components/layout";
-import Wrapper from "../components/Wrapper";
-import SEO from "../components/SEO";
-import RelatedPosts from "../components/RelatedPosts";
-import { Text } from "../components/Commons";
+import Layout from '../components/layout';
+import Wrapper from '../components/Wrapper';
+import SEO from '../components/SEO';
+import RelatedPosts from '../components/RelatedPosts';
+import { Text } from '../components/Commons';
 
 const MainTitle = styled.h1`
   line-height: 1.5;
@@ -57,11 +57,10 @@ const NotFoundPage = props => {
     <Layout location={props.location} noCover={true}>
       <SEO title="Page Not Found" />
       <Wrapper>
-        <MainTitle>404 Page Not Found</MainTitle>
+        <MainTitle>404 페이지를 찾을 수 없어요.</MainTitle>
         {/*<Ghost>👻</Ghost>*/}
-        <Text>
-          Looks like you've followed a broken link or entered a URL that doesn't
-          exist on this site.
+        <Text style={{ textAlign: 'center' }}>
+          존재하지 않는 URL입니다. <br /> 페이지를 찾을 수 없네요 ㅠ_ㅠ
         </Text>
 
         <SubTitle>Recent Posts</SubTitle>

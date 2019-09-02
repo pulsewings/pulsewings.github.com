@@ -1,8 +1,8 @@
-import React from "react";
-import { StyledLink } from "./Commons";
-import Flag from "./Flag/Flag";
-import useSiteMetadata from "../hooks/use-site-config";
-import styled from "styled-components";
+import React from 'react';
+import { StyledLink } from './Commons';
+import Flag from './Flag/Flag';
+import useSiteMetadata from '../hooks/use-site-config';
+import styled from 'styled-components';
 
 const RelatedPostUl = styled.ul`
   display: grid;
@@ -35,7 +35,14 @@ const RelatedPostLi = styled.li`
     font-size: 12px;
   }
 
-  &:first-child {
+  &:nth-child(n + 3) {
+    & > .next-text,
+    & > .previous-text {
+      display: none;
+    }
+  }
+
+  &:nth-child(odd) {
     text-align: left;
     border-right: 1px solid #ececec;
     padding-right: 10px;
@@ -44,7 +51,7 @@ const RelatedPostLi = styled.li`
       display: none;
     }
   }
-  &:nth-child(2) {
+  &:nth-child(even) {
     text-align: right;
     padding-left: 10px;
 
@@ -63,7 +70,7 @@ const RelatedPosts = props => {
       {posts.map(post => {
         const title = post.node.frontmatter.title;
         const slug = post.node.frontmatter.slug;
-        const language = post.node.frontmatter.language || "en";
+        const language = post.node.frontmatter.language || 'en';
         return (
           <RelatedPostLi key={slug}>
             <p class="previous-text">&lt;&lt; 이전글 </p>
