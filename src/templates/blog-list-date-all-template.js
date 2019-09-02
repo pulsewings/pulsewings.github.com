@@ -11,7 +11,7 @@ class BlogList extends React.Component {
   render() {
     const { title, description, siteYears } = this.props.data.site.siteMetadata;
     const posts = this.props.data.posts.edges;
-    const { pageContext } = this.props;
+    // const { pageContext } = this.props;
 
     return (
       <Layout location={this.props.location}>

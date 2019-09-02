@@ -77,14 +77,14 @@ const Spacer = styled.span`
     }
   }
 `;
-
+/*
 const PageInfo = styled.span`
   order: 2;
   padding: 1em 0;
   @media (max-width: 564px) {
     order: 1;
   }
-`;
+`;*/
 
 const OtherPageBtn = styled(Link)`
   // background-color: ${colors.primary};
@@ -119,14 +119,14 @@ class Pagination extends React.Component {
 
     let pageList = [];
     for (let i = 0; i < nbPages; i++) {
-      if (i + 1 == currentPage) {
-        if (i == 0) {
+      if (i + 1 === currentPage) {
+        if (i === 0) {
           pageList.push(<CurrentPageBtn to={`/`}>{i + 1}</CurrentPageBtn>);
         } else {
           pageList.push(<CurrentPageBtn to={`/pages/${i + 1}`}>{i + 1}</CurrentPageBtn>);
         }
       } else {
-        if (i == 0) {
+        if (i === 0) {
           pageList.push(<OtherPageBtn to={`/`}>{i + 1}</OtherPageBtn>);
         } else {
           pageList.push(<OtherPageBtn to={`/pages/${i + 1}`}>{i + 1}</OtherPageBtn>);

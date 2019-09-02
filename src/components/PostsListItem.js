@@ -11,7 +11,7 @@ const Post = styled.article`
   padding-bottom: 1.25rem;
   padding: 20px 0 35px 0px;
 `;
-
+/*
 const ReadPost = styled(Link)`
   display: block;
   font-size: 0.75rem;
@@ -28,7 +28,7 @@ const ReadPost = styled(Link)`
     border-radius: 0.25rem;
     color: ${colors.textLightest};
   }
-`;
+`;*/
 
 const PostDate = styled.time`
   color: ${colors.textLight};

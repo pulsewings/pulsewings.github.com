@@ -38,8 +38,14 @@ class BlogPostTemplate extends React.Component {
         </Wrapper>
 
         <Wrapper>
-          <Disqus slug={post.frontmatter.slug} title={post.frontmatter.title} />
           <PrevNextPost previous={previous} next={next} />
+        </Wrapper>
+
+        <Wrapper>
+          <Disqus slug={post.frontmatter.slug} title={post.frontmatter.title} />
+          {
+            // <PrevNextPost previous={previous} next={next} />
+          }
         </Wrapper>
       </Layout>
     );

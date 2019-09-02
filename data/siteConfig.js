@@ -14,7 +14,7 @@ module.exports = {
   siteUrl: 'https://pulsewings.com/',
   disqusSiteUrl: 'https://pulsewings.com/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
-  pathPrefix: '/pulsewings.github.io', // Note: it must *not* have a trailing slash.
+  pathPrefix: '/', // Note: it must *not* have a trailing slash.
   siteCover: 'cover.jpg', // file in content/images
   googleAnalyticsId: 'UA-145652558-1',
   background_color: '#ffffff',

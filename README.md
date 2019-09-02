@@ -35,3 +35,4 @@ npm run deploy
 
 fatal: A branch named 'gh-pages' already exists. 문제 발생할 때
 rm -rf node_modules/gh-pages/.cache
+rm -r .cache

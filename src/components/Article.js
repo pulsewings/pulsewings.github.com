@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import Bio from './Bio';
 import Content from './Content';
-import { Link } from 'gatsby';
+// import { Link } from 'gatsby';
 
 const ArticleWrapper = styled.article`
   padding: 0 30px 30px;
@@ -22,7 +22,7 @@ const ArticleFooter = styled.footer`
 class Article extends React.Component {
   render() {
     const { post } = this.props;
-    const tableOfContents = post.tableOfContents;
+    // const tableOfContents = post.tableOfContents;
 
     return (
       <ArticleWrapper>

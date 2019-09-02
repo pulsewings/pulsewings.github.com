@@ -1,13 +1,13 @@
 import React, { Fragment } from 'react';
 import { Link } from 'gatsby';
 import styled from 'styled-components';
-import AnchorLink from 'react-anchor-link-smooth-scroll';
+// import AnchorLink from 'react-anchor-link-smooth-scroll';
 import AllPostsListItem from './AllPostsListItem';
 
 const YearTitleLink = styled(Link)`
   color: #555;
 `;
-
+/*
 const AnchorContainer = styled.ul`
   display: flex;
   justify-content: space-between;
@@ -21,7 +21,7 @@ const AnchorTitle = styled.li`
   & > a {
     color: #555;
   }
-`;
+`;*/
 
 // 내가 추가 : 연도별 정렬 페이지
 class AllDatePostsList extends React.Component {
