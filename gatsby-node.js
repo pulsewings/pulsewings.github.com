@@ -1,21 +1,32 @@
-const { createFilePath } = require('gatsby-source-filesystem');
+const { createFilePath } = require("gatsby-source-filesystem");
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions;
 
-  const BlogPostTemplate = require.resolve('./src/templates/blog-post.js');
-  const BlogPostShareImage = require.resolve('./src/templates/blog-post-share-image.js');
-  const PageTemplate = require.resolve('./src/templates/page.js');
-  const PostsBytagTemplate = require.resolve('./src/templates/tags.js');
-  const ListPostsTemplate = require.resolve('./src/templates/blog-list-template.js');
+  const BlogPostTemplate = require.resolve("./src/templates/blog-post.js");
+  const BlogPostShareImage = require.resolve(
+    "./src/templates/blog-post-share-image.js"
+  );
+  const PageTemplate = require.resolve("./src/templates/page.js");
+  const PostsBytagTemplate = require.resolve("./src/templates/tags.js");
+  const ListPostsTemplate = require.resolve(
+    "./src/templates/blog-list-template.js"
+  );
 
   // ADD
-  const PostsByAllTagTemplate = require.resolve('./src/templates/blog-list-tag-all-template.js');
-  const PostsByAllDateTemplate = require.resolve('./src/templates/blog-list-date-all-template.js');
+  const PostsByAllTagTemplate = require.resolve(
+    "./src/templates/blog-list-tag-all-template.js"
+  );
+  const PostsByAllDateTemplate = require.resolve(
+    "./src/templates/blog-list-date-all-template.js"
+  );
 
   const allMarkdownQuery = await graphql(`
     {
-      allMarkdown: allMdx(sort: { fields: [frontmatter___date], order: DESC }, limit: 1000) {
+      allMarkdown: allMdx(
+        sort: { fields: [frontmatter___date], order: DESC }
+        limit: 1000
+      ) {
         edges {
           node {
             fileAbsolutePath
@@ -47,7 +58,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const markdownFiles = allMarkdownQuery.data.allMarkdown.edges;
 
   const posts = markdownFiles.filter(item =>
-    item.node.fileAbsolutePath.includes('/content/posts/')
+    item.node.fileAbsolutePath.includes("/content/posts/")
   );
 
   // generate paginated post list
@@ -83,7 +94,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     });
 
     // generate post share images (dev only)
-    if (process.env.gatsby_executing_command.includes('develop')) {
+    if (process.env.gatsby_executing_command.includes("develop")) {
       createPage({
         path: `${post.node.frontmatter.slug}/image_tw`,
         component: BlogPostShareImage,
@@ -91,7 +102,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           slug: post.node.frontmatter.slug,
           width: 440,
           height: 220,
-          type: 'twitter'
+          type: "twitter"
         }
       });
       createPage({
@@ -101,7 +112,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           slug: post.node.frontmatter.slug,
           width: 1200,
           height: 630,
-          type: 'facebook'
+          type: "facebook"
         }
       });
     }
@@ -109,7 +120,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   // generate pages
   markdownFiles
-    .filter(item => item.node.fileAbsolutePath.includes('/content/pages/'))
+    .filter(item => item.node.fileAbsolutePath.includes("/content/pages/"))
     .forEach(page => {
       createPage({
         path: page.node.frontmatter.slug,
@@ -123,7 +134,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // generate tags
   markdownFiles
     .filter(item => item.node.frontmatter.tags !== null)
-    .reduce((acc, cur) => [...new Set([...acc, ...cur.node.frontmatter.tags])], [])
+    .reduce(
+      (acc, cur) => [...new Set([...acc, ...cur.node.frontmatter.tags])],
+      []
+    )
     .forEach(uniqTag => {
       createPage({
         path: `tags/${uniqTag}`,
@@ -137,7 +151,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // ADD All Tags
   posts.forEach((post, index, posts) => {
     createPage({
-      path: 'all-tag-posts',
+      path: "all-tag-posts",
       component: PostsByAllTagTemplate,
       context: {
         limit: 1000,
@@ -148,7 +162,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   posts.forEach((post, index, posts) => {
     createPage({
-      path: 'all-date-posts',
+      path: "all-date-posts",
       component: PostsByAllDateTemplate,
       context: {
         limit: 1000,

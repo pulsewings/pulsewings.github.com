@@ -1,12 +1,12 @@
-import React from 'react';
-import { graphql } from 'gatsby';
+import React from "react";
+import { graphql } from "gatsby";
 
-import Layout from '../components/layout';
-import Content from '../components/Content';
-import Wrapper from '../components/Wrapper';
-import Hero from '../components/Hero';
-import SEO from '../components/SEO';
-import Disqus from '../components/Disqus';
+import Layout from "../components/layout";
+import Content from "../components/Content";
+import Wrapper from "../components/Wrapper";
+import Hero from "../components/Hero";
+import SEO from "../components/SEO";
+import Disqus from "../components/Disqus";
 
 export default props => {
   const page = props.data.page;

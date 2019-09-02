@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 // import { withPrefix } from 'gatsby'
-import styled from 'styled-components';
-import useSiteMetadata from '../hooks/use-site-config';
-import useSiteImages from '../hooks/use-site-images';
-import { colors } from '../tokens';
+import styled from "styled-components";
+import useSiteMetadata from "../hooks/use-site-config";
+import useSiteImages from "../hooks/use-site-images";
+import { colors } from "../tokens";
 
 const HeroContainer = styled.div`
   position: relative;

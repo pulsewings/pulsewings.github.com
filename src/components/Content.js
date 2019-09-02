@@ -1,8 +1,8 @@
-import React from 'react';
-import styled from 'styled-components';
-import ContentHeader from './ContentHeader';
-import { colors } from '../tokens';
-import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer';
+import React from "react";
+import styled from "styled-components";
+import ContentHeader from "./ContentHeader";
+import { colors } from "../tokens";
+import MDXRenderer from "gatsby-plugin-mdx/mdx-renderer";
 
 const ContentBody = styled.div`
   line-height: 1.6;

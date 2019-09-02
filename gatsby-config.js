@@ -1,5 +1,5 @@
-const path = require('path');
-const config = require('./data/siteConfig');
+const path = require("path");
+const config = require("./data/siteConfig");
 
 module.exports = {
   siteMetadata: {
@@ -13,22 +13,22 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: 'posts',
-        path: 'content/posts'
+        name: "posts",
+        path: "content/posts"
       }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: 'pages',
-        path: 'content/pages'
+        name: "pages",
+        path: "content/pages"
       }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: 'images',
-        path: 'content/images'
+        name: "images",
+        path: "content/images"
       }
     },
     {
@@ -42,11 +42,11 @@ module.exports = {
       options: {
         extensions: [`.mdx`, `.md`],
         defaultLayouts: {
-          default: require.resolve('./src/templates/page.js')
+          default: require.resolve("./src/templates/page.js")
         },
         gatsbyRemarkPlugins: [
           {
-            resolve: 'gatsby-remark-images',
+            resolve: "gatsby-remark-images",
             options: {
               maxWidth: 940,
               linkImagesToOriginal: false,
@@ -55,10 +55,10 @@ module.exports = {
               quality: 100
             }
           },
-          { resolve: 'gatsby-remark-prismjs' },
-          { resolve: 'gatsby-remark-responsive-iframe' },
-          { resolve: 'gatsby-remark-copy-linked-files' },
-          { resolve: 'gatsby-remark-smartypants' }
+          { resolve: "gatsby-remark-prismjs" },
+          { resolve: "gatsby-remark-responsive-iframe" },
+          { resolve: "gatsby-remark-copy-linked-files" },
+          { resolve: "gatsby-remark-smartypants" }
           // { 헤더에 링크거는 것은데 필요없는 것 같아서 제거
           //   resolve: 'gatsby-remark-autolink-headers'
           // }
@@ -106,9 +106,9 @@ module.exports = {
     },
     // https://www.gatsbyjs.org/docs/themes/converting-a-starter/#transpiling-your-theme-with-webpack
     {
-      resolve: 'gatsby-plugin-compile-es6-packages',
+      resolve: "gatsby-plugin-compile-es6-packages",
       options: {
-        modules: ['gatsby-starter-morning-dew']
+        modules: ["gatsby-starter-morning-dew"]
       }
     },
     // Add
@@ -120,7 +120,7 @@ module.exports = {
         // Exclude specific pages or groups of pages using glob parameters
         // See: https://github.com/isaacs/minimatch
         // The example below will exclude the single `path/to/page` and all routes beginning with `category`
-        exclude: ['/content/_draft', `/content/_todo`],
+        exclude: ["/content/_draft", `/content/_todo`],
         query: `
           {
             site {
@@ -169,9 +169,15 @@ module.exports = {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
                   date: edge.node.frontmatter.date,
-                  url: site.siteMetadata.siteUrl + '/' + edge.node.frontmatter.slug,
-                  guid: site.siteMetadata.siteUrl + '/' + edge.node.frontmatter.slug,
-                  custom_elements: [{ 'content:encoded': edge.node.html }]
+                  url:
+                    site.siteMetadata.siteUrl +
+                    "/" +
+                    edge.node.frontmatter.slug,
+                  guid:
+                    site.siteMetadata.siteUrl +
+                    "/" +
+                    edge.node.frontmatter.slug,
+                  custom_elements: [{ "content:encoded": edge.node.html }]
                 });
               });
             },
@@ -195,7 +201,7 @@ module.exports = {
                 }
               }
             `,
-            output: '/rss.xml',
+            output: "/rss.xml",
             title: "Pulsewings's RSS Feed"
           }
         ]

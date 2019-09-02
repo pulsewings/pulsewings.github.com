@@ -1,9 +1,9 @@
-import React from 'react'
-import styled from 'styled-components'
-import { Text } from './Commons'
-import useSiteMetadata from '../hooks/use-site-config'
-import useSiteImages from '../hooks/use-site-images'
-import { colors } from '../tokens'
+import React from "react";
+import styled from "styled-components";
+import { Text } from "./Commons";
+import useSiteMetadata from "../hooks/use-site-config";
+import useSiteImages from "../hooks/use-site-images";
+import { colors } from "../tokens";
 
 const BioWrapper = styled.div`
   & .author-image {
@@ -45,7 +45,7 @@ const BioWrapper = styled.div`
     margin: -100px auto 0 auto;
     box-shadow: none;
   }
-`
+`;
 
 const BioText = styled(Text)`
   & a {
@@ -54,11 +54,11 @@ const BioText = styled(Text)`
   & a:hover {
     border-bottom-style: solid;
   }
-`
+`;
 
 const Bio = () => {
-  const { authorAvatar, authorName, authorDescription } = useSiteMetadata()
-  const { fixed } = useSiteImages(authorAvatar)
+  const { authorAvatar, authorName, authorDescription } = useSiteMetadata();
+  const { fixed } = useSiteImages(authorAvatar);
 
   return (
     <BioWrapper>
@@ -74,7 +74,7 @@ const Bio = () => {
         <BioText dangerouslySetInnerHTML={{ __html: authorDescription }} />
       </section>
     </BioWrapper>
-  )
-}
+  );
+};
 
-export default Bio
+export default Bio;

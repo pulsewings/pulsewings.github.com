@@ -1,7 +1,7 @@
-import React, { Fragment } from 'react';
-import styled from 'styled-components';
-import TagList from './TagList';
-import { colors } from '../tokens';
+import React, { Fragment } from "react";
+import styled from "styled-components";
+import TagList from "./TagList";
+import { colors } from "../tokens";
 
 const Header = styled.header`
   margin-bottom: 2rem;

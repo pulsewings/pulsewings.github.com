@@ -20,7 +20,7 @@
  */
 export default {
   colors: {
-    primary: '#6bd1c5',
-    primaryAlpha: '#6bd1c5',
-  },
-}
+    primary: "#6bd1c5",
+    primaryAlpha: "#6bd1c5"
+  }
+};

@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
-import { Link } from 'gatsby';
-import styled from 'styled-components';
-import useSiteMetadata from '../hooks/use-site-config';
-import { colors, media } from '../tokens';
-import useSiteImages from '../hooks/use-site-images';
+import React, { useState } from "react";
+import { Link } from "gatsby";
+import styled from "styled-components";
+import useSiteMetadata from "../hooks/use-site-config";
+import { colors, media } from "../tokens";
+import useSiteImages from "../hooks/use-site-images";
 
 const HeaderWrapper = styled.header`
   top: 0;
@@ -142,28 +142,36 @@ const BurgerContent = styled.div`
   position: absolute;
   left: 0;
   ${props =>
-    props.isToggledOn ? 'background: transparent' : `background: ${colors.textLightest}`};
+    props.isToggledOn
+      ? "background: transparent"
+      : `background: ${colors.textLightest}`};
   transition: all 250ms cubic-bezier(0.86, 0, 0.07, 1);
   ::before {
-    content: '';
+    content: "";
     top: -8px;
     width: 24px;
     height: 2px;
     background: ${colors.textLightest};
     position: absolute;
     left: 0;
-    ${props => (props.isToggledOn ? 'transform: rotate(45deg); top: 0;' : 'transform: rotate(0)')};
+    ${props =>
+      props.isToggledOn
+        ? "transform: rotate(45deg); top: 0;"
+        : "transform: rotate(0)"};
     transition: all 250ms cubic-bezier(0.86, 0, 0.07, 1);
   }
   ::after {
     top: 8px;
-    content: '';
+    content: "";
     width: 24px;
     height: 2px;
     background: white;
     position: absolute;
     left: 0;
-    ${props => (props.isToggledOn ? 'transform: rotate(-45deg); top: 0;' : 'transform: rotate(0)')};
+    ${props =>
+      props.isToggledOn
+        ? "transform: rotate(-45deg); top: 0;"
+        : "transform: rotate(0)"};
     transition: all 250ms cubic-bezier(0.86, 0, 0.07, 1);
   }
 `;
@@ -174,7 +182,10 @@ const MobileHeader = ({ headerLinks }) => {
 
   return (
     <>
-      <BurgerButton onClick={toggle} aria-label={`${isToggledOn ? 'close menu' : 'open menu'}`}>
+      <BurgerButton
+        onClick={toggle}
+        aria-label={`${isToggledOn ? "close menu" : "open menu"}`}
+      >
         <BurgerContent isToggledOn={isToggledOn} />
       </BurgerButton>
       {isToggledOn && (
@@ -189,7 +200,12 @@ const MobileHeader = ({ headerLinks }) => {
 };
 
 const Header = () => {
-  const { headerLinks, siteTitle, headerTitle, headerLinksIcon } = useSiteMetadata();
+  const {
+    headerLinks,
+    siteTitle,
+    headerTitle,
+    headerLinksIcon
+  } = useSiteMetadata();
   // const iconSrc = headerLinksIcon ? useSiteImages(headerLinksIcon).fluid.src : null;
   const iconSrc = useSiteImages(headerLinksIcon).fluid.src;
 

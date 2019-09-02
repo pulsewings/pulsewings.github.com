@@ -1,8 +1,8 @@
-import React, { Fragment } from 'react';
-import { Link } from 'gatsby';
-import styled from 'styled-components';
-import AnchorLink from 'react-anchor-link-smooth-scroll';
-import AllPostsListItem from './AllPostsListItem';
+import React, { Fragment } from "react";
+import { Link } from "gatsby";
+import styled from "styled-components";
+import AnchorLink from "react-anchor-link-smooth-scroll";
+import AllPostsListItem from "./AllPostsListItem";
 
 const TagTitleLink = styled(Link)`
   color: #555;
@@ -45,10 +45,10 @@ class AllPostsList extends React.Component {
     const { posts, siteTags } = this.props;
 
     const H2Style = {
-      margin: '30px 7px 15px 7px'
+      margin: "30px 7px 15px 7px"
     };
     const DivStyle = {
-      'padding-top': '55px'
+      "padding-top": "55px"
     };
 
     const getFilteredPosts = (posts, tag) => {
@@ -70,7 +70,7 @@ class AllPostsList extends React.Component {
                 excerpt: post.node.excerpt,
                 slug: post.node.frontmatter.slug,
                 date: post.node.frontmatter.date,
-                language: post.node.frontmatter.language || 'fr',
+                language: post.node.frontmatter.language || "fr",
                 tags: post.node.frontmatter.tags || []
               };
               return <AllPostsListItem key={props.slug} {...props} />;

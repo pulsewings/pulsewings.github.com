@@ -1,13 +1,13 @@
-import React, { Fragment } from 'react'
-import { Link } from 'gatsby'
-import styled from 'styled-components'
-import { colors } from '../tokens'
+import React, { Fragment } from "react";
+import { Link } from "gatsby";
+import styled from "styled-components";
+import { colors } from "../tokens";
 
 const ListContainer = styled.div`
   display: inline;
   margin: 0 0.5rem 0 0;
   color: ${colors.textLight};
-`
+`;
 
 const TagListItem = styled(Link)`
   margin-left: 0.3rem;
@@ -29,11 +29,11 @@ const TagListItem = styled(Link)`
   font-size: 12px;
   line-height: 24px;
   margin: 0 5px 5px 0;
-`
+`;
 
 class TagList extends React.Component {
   render() {
-    const { tags, icon } = this.props
+    const { tags, icon } = this.props;
 
     return (
       <ListContainer>
@@ -42,12 +42,12 @@ class TagList extends React.Component {
           return (
             <Fragment key={`tag-list-${i}`}>
               <TagListItem to={`/tags/${tag}`}>{tag}</TagListItem>
-              {i < tags.length - 1 ? ' ' : ''}
+              {i < tags.length - 1 ? " " : ""}
             </Fragment>
-          )
+          );
         })}
       </ListContainer>
-    )
+    );
   }
 }
-export default TagList
+export default TagList;

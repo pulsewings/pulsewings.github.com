@@ -1,11 +1,11 @@
-import React from 'react';
-import { graphql } from 'gatsby';
+import React from "react";
+import { graphql } from "gatsby";
 
-import Layout from '../components/layout';
-import Wrapper from '../components/Wrapper';
-import Hero from '../components/Hero';
-import AllDatePostsList from '../components/AllDatePostsList';
-import SEO from '../components/SEO';
+import Layout from "../components/layout";
+import Wrapper from "../components/Wrapper";
+import Hero from "../components/Hero";
+import AllDatePostsList from "../components/AllDatePostsList";
+import SEO from "../components/SEO";
 
 class BlogList extends React.Component {
   render() {

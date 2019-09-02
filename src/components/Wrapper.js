@@ -1,8 +1,8 @@
-import styled from 'styled-components'
-import { colors } from '../tokens'
+import styled from "styled-components";
+import { colors } from "../tokens";
 
 const Wrapper = styled.main.attrs({
-  role: 'main',
+  role: "main"
 })`
   position: relative;
   border-radius: 5px;
@@ -19,6 +19,6 @@ const Wrapper = styled.main.attrs({
     width: 100%;
     padding: 25px;
   }
-`
+`;
 
-export default Wrapper
+export default Wrapper;

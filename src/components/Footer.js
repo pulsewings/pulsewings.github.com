@@ -1,8 +1,8 @@
-import React from 'react'
-import { Link } from 'gatsby'
-import styled from 'styled-components'
-import useSiteMetadata from '../hooks/use-site-config'
-import { colors } from '../tokens'
+import React from "react";
+import { Link } from "gatsby";
+import styled from "styled-components";
+import useSiteMetadata from "../hooks/use-site-config";
+import { colors } from "../tokens";
 
 const FooterWrapper = styled.footer`
   text-align: left;
@@ -73,20 +73,20 @@ const FooterWrapper = styled.footer`
       width: 100%;
     }
   }
-`
+`;
 
 const Footer = () => {
-  const { authorName, websiteHost, footerLinks } = useSiteMetadata()
+  const { authorName, websiteHost, footerLinks } = useSiteMetadata();
 
   const FooterItem = ({ item }) => {
-    if (item.url.startsWith('/')) {
+    if (item.url.startsWith("/")) {
       return (
         <span className="footer-item">
           <Link className="footer-link" to={item.url}>
             {item.label}
           </Link>
         </span>
-      )
+      );
     }
     return (
       <span className="footer-item">
@@ -94,8 +94,8 @@ const Footer = () => {
           {item.label}
         </a>
       </span>
-    )
-  }
+    );
+  };
 
   const FooterColumn = ({ column }) => {
     return (
@@ -104,11 +104,11 @@ const Footer = () => {
           {column.sectionName}
         </h5>
         {column.links.map((item, i) => {
-          return <FooterItem item={item} key={`footer-column-item-${i}`} />
+          return <FooterItem item={item} key={`footer-column-item-${i}`} />;
         })}
       </div>
-    )
-  }
+    );
+  };
 
   return (
     <FooterWrapper>
@@ -118,14 +118,14 @@ const Footer = () => {
             {authorName} © {new Date().getFullYear()}
           </h5>
           <p className="footer-item-text">
-            Built with{' '}
+            Built with{" "}
             <a className="footer-link" href="https://www.gatsbyjs.org">
               Gatsby
             </a>
             .
           </p>
           <p className="footer-item-text">
-            Theme using{' '}
+            Theme using{" "}
             <a
               className="footer-link"
               href="https://github.com/maxpou/gatsby-starter-morning-dew"
@@ -135,7 +135,7 @@ const Footer = () => {
             .
           </p>
           <p className="footer-item-text">
-            Hosted with <span className="footer-heart">❤</span> by{' '}
+            Hosted with <span className="footer-heart">❤</span> by{" "}
             <a className="footer-link" href={websiteHost.url}>
               {websiteHost.name}
             </a>
@@ -143,11 +143,11 @@ const Footer = () => {
           </p>
         </div>
         {footerLinks.map((column, i) => {
-          return <FooterColumn column={column} key={`footer-column-${i}`} />
+          return <FooterColumn column={column} key={`footer-column-${i}`} />;
         })}
       </nav>
     </FooterWrapper>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

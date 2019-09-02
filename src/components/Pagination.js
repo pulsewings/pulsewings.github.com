@@ -1,7 +1,7 @@
-import React from 'react';
-import { Link } from 'gatsby';
-import styled from 'styled-components';
-import { colors } from '../tokens';
+import React from "react";
+import { Link } from "gatsby";
+import styled from "styled-components";
+import { colors } from "../tokens";
 
 const PaginationWrapper = styled.nav`
   display: flex;
@@ -115,7 +115,7 @@ const CurrentPageBtn = styled(OtherPageBtn)`
 class Pagination extends React.Component {
   render() {
     const { currentPage, nbPages } = this.props;
-    const previousUrl = currentPage === 2 ? '/' : `/pages/${currentPage - 1}`;
+    const previousUrl = currentPage === 2 ? "/" : `/pages/${currentPage - 1}`;
 
     let pageList = [];
     for (let i = 0; i < nbPages; i++) {
@@ -123,13 +123,17 @@ class Pagination extends React.Component {
         if (i === 0) {
           pageList.push(<CurrentPageBtn to={`/`}>{i + 1}</CurrentPageBtn>);
         } else {
-          pageList.push(<CurrentPageBtn to={`/pages/${i + 1}`}>{i + 1}</CurrentPageBtn>);
+          pageList.push(
+            <CurrentPageBtn to={`/pages/${i + 1}`}>{i + 1}</CurrentPageBtn>
+          );
         }
       } else {
         if (i === 0) {
           pageList.push(<OtherPageBtn to={`/`}>{i + 1}</OtherPageBtn>);
         } else {
-          pageList.push(<OtherPageBtn to={`/pages/${i + 1}`}>{i + 1}</OtherPageBtn>);
+          pageList.push(
+            <OtherPageBtn to={`/pages/${i + 1}`}>{i + 1}</OtherPageBtn>
+          );
         }
       }
     }

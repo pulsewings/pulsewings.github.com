@@ -1,7 +1,7 @@
-import React from 'react';
-import styled from 'styled-components';
-import Bio from './Bio';
-import Content from './Content';
+import React from "react";
+import styled from "styled-components";
+import Bio from "./Bio";
+import Content from "./Content";
 // import { Link } from 'gatsby';
 
 const ArticleWrapper = styled.article`
@@ -35,7 +35,11 @@ class Article extends React.Component {
             );
           })*/}
         </ul>
-        <Content content={post.body} date={post.frontmatter.date} tags={post.frontmatter.tags} />
+        <Content
+          content={post.body}
+          date={post.frontmatter.date}
+          tags={post.frontmatter.tags}
+        />
         <ArticleFooter>
           <Bio />
         </ArticleFooter>

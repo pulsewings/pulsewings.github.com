@@ -1,9 +1,9 @@
-import React from 'react';
-import { Link } from 'gatsby';
-import Flag from './Flag/Flag';
-import useSiteMetadata from '../hooks/use-site-config';
-import styled from 'styled-components';
-import { colors } from '../tokens';
+import React from "react";
+import { Link } from "gatsby";
+import Flag from "./Flag/Flag";
+import useSiteMetadata from "../hooks/use-site-config";
+import styled from "styled-components";
+import { colors } from "../tokens";
 
 // 내가 추가
 const Post = styled.article`
@@ -29,7 +29,7 @@ const PostDate = styled.time`
   margin-top: 6px;
 
   &:before {
-    content: '';
+    content: "";
     margin-right: 0.2rem;
   }
 
@@ -65,7 +65,7 @@ const PostTitleLink = styled(Link)`
 `;
 
 const H2Style = {
-  display: 'inline-block'
+  display: "inline-block"
 };
 
 const AllPostsListItem = props => {

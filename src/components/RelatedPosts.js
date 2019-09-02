@@ -1,8 +1,8 @@
-import React from 'react';
-import { StyledLink } from './Commons';
-import Flag from './Flag/Flag';
-import useSiteMetadata from '../hooks/use-site-config';
-import styled from 'styled-components';
+import React from "react";
+import { StyledLink } from "./Commons";
+import Flag from "./Flag/Flag";
+import useSiteMetadata from "../hooks/use-site-config";
+import styled from "styled-components";
 
 const RelatedPostUl = styled.ul`
   display: grid;
@@ -63,7 +63,7 @@ const RelatedPosts = props => {
       {posts.map(post => {
         const title = post.node.frontmatter.title;
         const slug = post.node.frontmatter.slug;
-        const language = post.node.frontmatter.language || 'en';
+        const language = post.node.frontmatter.language || "en";
         return (
           <RelatedPostLi key={slug}>
             <p class="previous-text">&lt;&lt; 이전글 </p>

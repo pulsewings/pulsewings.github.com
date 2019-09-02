@@ -1,8 +1,8 @@
-import React from 'react';
-import { graphql, withPrefix } from 'gatsby';
-import styled from 'styled-components';
-import { GlobalStyle } from '../components/Commons';
-import useSiteMetadata from '../hooks/use-site-config';
+import React from "react";
+import { graphql, withPrefix } from "gatsby";
+import styled from "styled-components";
+import { GlobalStyle } from "../components/Commons";
+import useSiteMetadata from "../hooks/use-site-config";
 
 const Preview = styled.div.attrs({
   width: props => props.width || 440,
@@ -23,7 +23,7 @@ const Preview = styled.div.attrs({
 `;
 
 const Title = styled.h1.attrs({
-  fontSize: props => (props.type === 'twitter' ? '1.8rem' : '4.8rem')
+  fontSize: props => (props.type === "twitter" ? "1.8rem" : "4.8rem")
 })`
   font-weight: 700;
   font-size: ${props => props.fontSize};
@@ -34,7 +34,7 @@ const Title = styled.h1.attrs({
 `;
 
 const ReadTime = styled.h2.attrs({
-  fontSize: props => (props.type === 'twitter' ? '1.5rem' : '2rem')
+  fontSize: props => (props.type === "twitter" ? "1.5rem" : "2rem")
 })`
   vertical-align: middle;
   font-size: ${props => props.fontSize};
@@ -42,7 +42,7 @@ const ReadTime = styled.h2.attrs({
   color: #fff;
   ::before {
     padding: 0.4em;
-    content: '👁';
+    content: "👁";
   }
 `;
 
@@ -51,7 +51,7 @@ const BlogPostShareImage = props => {
   const { width, height, type } = props.pageContext;
   // const heroImg = post.frontmatter.cover && post.frontmatter.cover.publicURL
   const heroImg = post.frontmatter.cover;
-  const minute = post.timeToRead === 1 ? 'min' : 'mins';
+  const minute = post.timeToRead === 1 ? "min" : "mins";
   const { siteCover } = useSiteMetadata();
 
   return (

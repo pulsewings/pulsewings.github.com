@@ -1,12 +1,12 @@
-import React from 'react';
-import { graphql, useStaticQuery } from 'gatsby';
-import styled from 'styled-components';
+import React from "react";
+import { graphql, useStaticQuery } from "gatsby";
+import styled from "styled-components";
 
-import Layout from '../components/layout';
-import Wrapper from '../components/Wrapper';
-import SEO from '../components/SEO';
-import RelatedPosts from '../components/RelatedPosts';
-import { Text } from '../components/Commons';
+import Layout from "../components/layout";
+import Wrapper from "../components/Wrapper";
+import SEO from "../components/SEO";
+import RelatedPosts from "../components/RelatedPosts";
+import { Text } from "../components/Commons";
 
 const MainTitle = styled.h1`
   line-height: 1.5;
@@ -60,7 +60,8 @@ const NotFoundPage = props => {
         <MainTitle>404 Page Not Found</MainTitle>
         {/*<Ghost>👻</Ghost>*/}
         <Text>
-          Looks like you've followed a broken link or entered a URL that doesn't exist on this site.
+          Looks like you've followed a broken link or entered a URL that doesn't
+          exist on this site.
         </Text>
 
         <SubTitle>Recent Posts</SubTitle>

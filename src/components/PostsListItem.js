@@ -1,10 +1,10 @@
-import React from 'react';
-import { Link } from 'gatsby';
-import Flag from './Flag/Flag';
-import TagList from './TagList';
-import useSiteMetadata from '../hooks/use-site-config';
-import styled from 'styled-components';
-import { colors } from '../tokens';
+import React from "react";
+import { Link } from "gatsby";
+import Flag from "./Flag/Flag";
+import TagList from "./TagList";
+import useSiteMetadata from "../hooks/use-site-config";
+import styled from "styled-components";
+import { colors } from "../tokens";
 
 const Post = styled.article`
   border-bottom: 1px solid rgba(214, 209, 230, 0.5);
@@ -37,7 +37,7 @@ const PostDate = styled.time`
 
   &:before {
     /*content: '🗓';*/
-    content: '';
+    content: "";
     margin-right: 0.2rem;
   }
 `;
