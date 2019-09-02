@@ -27,7 +27,7 @@ module.exports = {
   headerLinksIcon: 'pulsewings-icon.png', //  (leave empty to disable: '')
   headerLinks: [
     {
-      label: '일상',
+      label: '전체',
       url: '/'
     },
     {
@@ -42,10 +42,10 @@ module.exports = {
       label: '자전거',
       url: '/tags/bike'
     },
-    {
+    /* {
       label: '프로젝트',
       url: '/portfolio'
-    },
+    },*/
     {
       label: '태그별',
       url: '/all-tag-posts'
@@ -69,16 +69,16 @@ module.exports = {
       sectionName: 'Explore',
       links: [
         {
-          label: 'Blog',
-          url: '/'
+          label: '생각',
+          url: '/tags/thinking'
         },
         {
-          label: 'Portfolio',
-          url: '/portfolio'
+          label: '책',
+          url: '/tags/book'
         },
         {
-          label: 'Installation',
-          url: '/how-to-install'
+          label: '자전거',
+          url: '/tags/bike'
         }
       ]
     },
@@ -90,7 +90,7 @@ module.exports = {
           url: 'https://github.com/pulsewings/'
         },
         {
-          label: 'Website',
+          label: 'Homepage',
           url: 'https://pulsewings.com'
         },
         {
@@ -100,7 +100,7 @@ module.exports = {
       ]
     }
   ],
-  siteTags: ['thinking', 'book', 'bike', 'life', 'challenge'],
+  siteTags: ['thinking', 'book', 'bike'],
   siteYears: [
     '2019',
     '2018',
