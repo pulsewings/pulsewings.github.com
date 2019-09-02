@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-morning-dew",
-  "version": "0.0.0-development",
-  "description": "Starter Morning Dew Blog",
+  "name": "pulsewings-blog",
+  "version": "0.0.1-production",
+  "description": "Pulsewings's blog",
   "keywords": [
     "blog",
     "gatsby",
@@ -9,16 +9,16 @@
     "gatsby-theme",
     "starter"
   ],
-  "homepage": "https://github.com/maxpou/gatsby-starter-morning-dew#readme",
+  "homepage": "https://github.com/pulsewings/pulsewings.github.git#readme",
   "bugs": {
-    "url": "https://github.com/maxpou/gatsby-starter-morning-dew/issues"
+    "url": "https://github.com/pulsewings/pulsewings.github.git/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxpou/gatsby-starter-morning-dew.git"
+    "url": "https://github.com/pulsewings/pulsewings.github.git"
   },
   "license": "MIT",
-  "author": "Maxence Poutord <maxence.poutord@gmail.com>",
+  "author": "Namhyoung Kim <pulsewings@gmail.com>",
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
@@ -30,7 +30,7 @@
     "semantic-release": "semantic-release",
     "start": "gatsby develop",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\"",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "dependencies": {
     "@mdx-js/mdx": "^1.0.23",

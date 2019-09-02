@@ -27,3 +27,11 @@ react-anchor-link-smooth-scroll
 @media (max-width: 780px) {
 
 }
+
+## Delpoy
+
+https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/
+npm run deploy
+
+fatal: A branch named 'gh-pages' already exists. 문제 발생할 때
+rm -rf node_modules/gh-pages/.cache
