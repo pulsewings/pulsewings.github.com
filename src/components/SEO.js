@@ -8,7 +8,8 @@ const SEO = props => {
   const { siteTitle, siteUrl, siteCover, siteDescription, twitterUsername } = useSiteMetadata();
 
   const title = props.title ? `${props.title} | ${siteTitle}` : siteTitle;
-  const formatedSiteUrl = siteUrl.substring(0, siteUrl.length - 1);
+  // const formatedSiteUrl = siteUrl.substring(0, siteUrl.length - 1);
+  const formatedSiteUrl = siteUrl;
   const imagePath = props.imageFb || props.cover || withPrefix(siteCover);
   const imagePathTwitter = props.imageTw || props.cover || withPrefix(siteCover);
   const image = `${formatedSiteUrl}${imagePath}`;
