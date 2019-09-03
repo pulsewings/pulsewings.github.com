@@ -4,7 +4,6 @@ slug: 2013-07-18-waist-neck-shoulder
 date: 2013-07-18
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

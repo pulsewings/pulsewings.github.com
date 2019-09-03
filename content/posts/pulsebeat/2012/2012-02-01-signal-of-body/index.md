@@ -4,7 +4,6 @@ slug: 2012-02-01-signal-of-body
 date: 2012-02-01
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

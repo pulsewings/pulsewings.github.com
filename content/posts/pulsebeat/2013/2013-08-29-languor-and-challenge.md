@@ -4,7 +4,6 @@ slug: 2013-08-29-languor-and-challenge
 date: 2013-08-29
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

@@ -5,7 +5,6 @@ slug: 2010-11-16-company-value
 date: 2010-11-16
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

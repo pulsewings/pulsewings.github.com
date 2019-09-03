@@ -4,7 +4,6 @@ slug: 2011-05-16-past-present-furture
 date: 2011-05-16
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

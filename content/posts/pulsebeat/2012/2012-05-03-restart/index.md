@@ -4,7 +4,6 @@ slug: 2012-05-03-restart
 date: 2012-05-03
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

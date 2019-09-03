@@ -4,7 +4,6 @@ slug: 2012-02-27-am-i-doing-well
 date: 2012-02-27
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

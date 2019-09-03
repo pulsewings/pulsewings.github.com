@@ -4,7 +4,6 @@ slug: 2012-10-24-funny-game
 date: 2012-10-24
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

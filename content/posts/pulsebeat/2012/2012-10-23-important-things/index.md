@@ -4,7 +4,6 @@ slug: 2012-10-23-important-things
 date: 2012-10-23
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

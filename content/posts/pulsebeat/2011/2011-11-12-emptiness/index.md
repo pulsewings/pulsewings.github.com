@@ -4,7 +4,6 @@ slug: 2011-11-12-emptiness
 date: 2011-11-12
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

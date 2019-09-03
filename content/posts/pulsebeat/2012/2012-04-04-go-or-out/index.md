@@ -4,7 +4,6 @@ slug: 2012-04-04-go-or-out
 date: 2012-04-04
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

@@ -4,7 +4,6 @@ slug: 2012-06-18-decision-time
 date: 2012-06-18
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

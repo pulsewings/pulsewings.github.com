@@ -4,7 +4,6 @@ slug: 2011-05-05-heartbroken
 date: 2011-05-05
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

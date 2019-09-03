@@ -4,7 +4,6 @@ slug: 2012-05-17-leave-the-world
 date: 2012-05-17
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

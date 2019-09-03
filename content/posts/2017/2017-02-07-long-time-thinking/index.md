@@ -2,7 +2,7 @@
 title: '나의 의견을 말할 때, 설득을 하려 노력하는가? 그리고 오랜 고민이 꼭 좋은가?'
 slug: 2017-02-07-long-time-thinking
 date: 2017-02-07
-cover: ./cover.jpg
+cover: './cover.jpg'
 generate-card: false
 language: ko
 tags:

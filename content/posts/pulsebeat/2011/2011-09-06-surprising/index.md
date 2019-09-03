@@ -4,7 +4,6 @@ slug: 2011-09-06-surprising
 date: 2011-09-06
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

@@ -1,13 +1,13 @@
-import React from "react";
-import { graphql } from "gatsby";
+import React from 'react';
+import { graphql } from 'gatsby';
 
-import Layout from "../components/layout";
-import Wrapper from "../components/Wrapper";
-import Hero from "../components/Hero";
-import Article from "../components/Article";
-import PrevNextPost from "../components/PrevNextPost";
-import SEO from "../components/SEO";
-import Disqus from "../components/Disqus";
+import Layout from '../components/layout';
+import Wrapper from '../components/Wrapper';
+import Hero from '../components/Hero';
+import Article from '../components/Article';
+import PrevNextPost from '../components/PrevNextPost';
+import SEO from '../components/SEO';
+import Disqus from '../components/Disqus';
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -19,14 +19,9 @@ class BlogPostTemplate extends React.Component {
         <SEO
           title={post.frontmatter.title}
           description={post.excerpt}
-          // cover={post.frontmatter.cover && post.frontmatter.cover.publicURL}
-          cover={post.frontmatter.cover}
-          imageFb={
-            post.frontmatter.imageFb && post.frontmatter.imageFb.publicURL
-          }
-          imageTw={
-            post.frontmatter.imageTw && post.frontmatter.imageTw.publicURL
-          }
+          cover={post.frontmatter.cover && post.frontmatter.cover.publicURL}
+          imageFb={post.frontmatter.imageFb && post.frontmatter.imageFb.publicURL}
+          imageTw={post.frontmatter.imageTw && post.frontmatter.imageTw.publicURL}
           lang={post.frontmatter.language}
           path={post.frontmatter.slug}
           isBlogPost
@@ -86,7 +81,9 @@ export const pageQuery = graphql`
         slug
         language
         tags
-        cover
+        cover {
+          publicURL
+        }
       }
     }
   }

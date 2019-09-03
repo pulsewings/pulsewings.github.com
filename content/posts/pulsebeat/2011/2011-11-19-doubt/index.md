@@ -4,7 +4,6 @@ slug: 2011-11-19-doubt
 date: 2011-11-19
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

@@ -4,7 +4,6 @@ slug: 2012-02-14-team-progress
 date: 2012-02-14
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

@@ -4,7 +4,6 @@ slug: 2012-11-22-request-and-rejection
 date: 2012-11-22
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

@@ -4,7 +4,6 @@ slug: 2011-03-21-company-turing-point
 date: 2011-03-21
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

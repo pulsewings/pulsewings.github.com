@@ -4,7 +4,6 @@ slug: 2011-04-11-wandering
 date: 2011-04-11
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

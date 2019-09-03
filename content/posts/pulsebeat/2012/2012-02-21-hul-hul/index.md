@@ -4,7 +4,6 @@ slug: 2012-02-21-hul-hul
 date: 2012-02-21
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

@@ -4,7 +4,6 @@ slug: 2013-08-14-have-no-idea
 date: 2013-08-14
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

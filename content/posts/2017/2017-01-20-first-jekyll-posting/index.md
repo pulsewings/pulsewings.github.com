@@ -2,7 +2,7 @@
 title: 다시 시작하는 블로깅?
 slug: 2017-01-20-first-jekyll-posting
 date: 2017-01-20
-cover: ./cover.jpg
+cover: './cover.jpg'
 generate-card: false
 language: ko
 tags:

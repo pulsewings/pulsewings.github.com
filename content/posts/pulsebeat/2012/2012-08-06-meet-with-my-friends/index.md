@@ -4,7 +4,6 @@ slug: 2012-08-06-meet-with-my-friends
 date: 2012-08-06
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

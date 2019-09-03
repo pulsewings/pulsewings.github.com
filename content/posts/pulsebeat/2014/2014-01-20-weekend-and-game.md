@@ -4,7 +4,6 @@ slug: 2014-01-20-weekend-and-game
 date: 2014-01-20
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

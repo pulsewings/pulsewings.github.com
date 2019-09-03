@@ -1,8 +1,8 @@
-import React from "react";
-import { graphql, withPrefix } from "gatsby";
-import styled from "styled-components";
-import { GlobalStyle } from "../components/Commons";
-import useSiteMetadata from "../hooks/use-site-config";
+import React from 'react';
+import { graphql, withPrefix } from 'gatsby';
+import styled from 'styled-components';
+import { GlobalStyle } from '../components/Commons';
+import useSiteMetadata from '../hooks/use-site-config';
 
 const Preview = styled.div.attrs({
   width: props => props.width || 440,
@@ -23,7 +23,7 @@ const Preview = styled.div.attrs({
 `;
 
 const Title = styled.h1.attrs({
-  fontSize: props => (props.type === "twitter" ? "1.8rem" : "4.8rem")
+  fontSize: props => (props.type === 'twitter' ? '1.8rem' : '4.8rem')
 })`
   font-weight: 700;
   font-size: ${props => props.fontSize};
@@ -34,7 +34,7 @@ const Title = styled.h1.attrs({
 `;
 
 const ReadTime = styled.h2.attrs({
-  fontSize: props => (props.type === "twitter" ? "1.5rem" : "2rem")
+  fontSize: props => (props.type === 'twitter' ? '1.5rem' : '2rem')
 })`
   vertical-align: middle;
   font-size: ${props => props.fontSize};
@@ -42,16 +42,15 @@ const ReadTime = styled.h2.attrs({
   color: #fff;
   ::before {
     padding: 0.4em;
-    content: "👁";
+    content: '👁';
   }
 `;
 
 const BlogPostShareImage = props => {
   const post = props.data.post;
   const { width, height, type } = props.pageContext;
-  // const heroImg = post.frontmatter.cover && post.frontmatter.cover.publicURL
-  const heroImg = post.frontmatter.cover;
-  const minute = post.timeToRead === 1 ? "min" : "mins";
+  const heroImg = post.frontmatter.cover && post.frontmatter.cover.publicURL;
+  const minute = post.timeToRead === 1 ? 'min' : 'mins';
   const { siteCover } = useSiteMetadata();
 
   return (
@@ -67,18 +66,15 @@ const BlogPostShareImage = props => {
 
 export default BlogPostShareImage;
 
-// cover {
-//   publicURL
-// }
-// 이 부분을 cover로 바꿈
-
 export const pageQuery = graphql`
   query BlogPostShareImage($slug: String!) {
     post: mdx(frontmatter: { slug: { eq: $slug } }) {
       timeToRead
       frontmatter {
         title
-        cover
+        cover {
+          publicURL
+        }
       }
     }
   }

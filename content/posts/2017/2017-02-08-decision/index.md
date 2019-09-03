@@ -2,7 +2,7 @@
 title: '결심할 때도 되었다.'
 slug: 2017-02-08-decision
 date: 2017-02-08
-cover: ./cover.jpg
+cover: './cover.jpg'
 generate-card: false
 language: ko
 tags:

@@ -4,7 +4,6 @@ slug: 2014-01-07-necessity-of-studying-english
 date: 2014-01-07
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

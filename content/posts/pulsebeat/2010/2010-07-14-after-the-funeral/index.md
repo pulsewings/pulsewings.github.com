@@ -4,7 +4,7 @@ slug: 2010-07-14-after-the-funeral
 date: 2010-07-14
 generate-card: false
 language: ko
-cover: './cover1.jpg'
+cover: './cover.jpg'
 tags:
   - thinking
 ---

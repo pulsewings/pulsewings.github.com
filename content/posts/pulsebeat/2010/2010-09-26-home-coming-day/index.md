@@ -4,7 +4,6 @@ slug: 2010-09-26-home-coming-day
 date: 2010-09-26
 generate-card: false
 language: ko
-cover: './cover1.jpg'
 tags:
   - thinking
 ---

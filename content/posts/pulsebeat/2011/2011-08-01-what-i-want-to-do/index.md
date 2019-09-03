@@ -4,7 +4,6 @@ slug: 2011-08-01-what-i-want-to-do
 date: 2011-08-01
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

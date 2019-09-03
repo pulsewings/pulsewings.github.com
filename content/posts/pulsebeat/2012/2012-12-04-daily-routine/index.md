@@ -4,7 +4,6 @@ slug: 2012-12-04-daily-routine
 date: 2012-12-04
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

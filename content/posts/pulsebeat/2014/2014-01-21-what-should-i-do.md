@@ -4,7 +4,6 @@ slug: 2014-01-21-what-should-i-do
 date: 2014-01-21
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

@@ -4,7 +4,6 @@ slug: 2013-10-04-mind-and-what-how
 date: 2013-10-04
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

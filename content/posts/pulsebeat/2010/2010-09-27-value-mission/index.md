@@ -4,7 +4,6 @@ slug: 2010-09-27-value-mission
 date: 2010-09-27
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

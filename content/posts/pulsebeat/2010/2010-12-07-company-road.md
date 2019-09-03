@@ -4,7 +4,6 @@ slug: 2010-12-07-company-road
 date: 2010-12-07
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

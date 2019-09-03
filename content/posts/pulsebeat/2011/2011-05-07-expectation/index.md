@@ -4,7 +4,6 @@ slug: 2011-05-07-expectation
 date: 2011-05-07
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

@@ -4,7 +4,6 @@ slug: 2011-05-10-leave
 date: 2011-05-10
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

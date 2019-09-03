@@ -4,7 +4,6 @@ slug: 2011-09-05-uncomfortable-question
 date: 2011-09-05
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

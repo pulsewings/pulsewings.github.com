@@ -4,7 +4,6 @@ slug: 2011-03-29-movement
 date: 2011-03-29
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

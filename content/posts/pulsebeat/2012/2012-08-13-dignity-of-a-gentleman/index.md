@@ -4,7 +4,6 @@ slug: 2012-08-13-dignity-of-a-gentleman
 date: 2012-08-13
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

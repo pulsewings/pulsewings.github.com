@@ -4,7 +4,6 @@ slug: 2013-06-17-military-memories
 date: 2013-06-17
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

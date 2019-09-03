@@ -4,7 +4,6 @@ slug: 2011-04-04-keep-going
 date: 2011-04-04
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

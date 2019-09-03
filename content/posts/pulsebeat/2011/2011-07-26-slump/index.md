@@ -4,7 +4,6 @@ slug: 2011-07-26-slump
 date: 2011-07-26
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

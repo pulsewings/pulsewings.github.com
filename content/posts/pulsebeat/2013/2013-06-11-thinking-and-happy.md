@@ -4,7 +4,6 @@ slug: 2013-06-11-thinking-and-happy
 date: 2013-06-11
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

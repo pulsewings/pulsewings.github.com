@@ -4,7 +4,6 @@ slug: 2012-11-01-swimming-lession
 date: 2012-11-01
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

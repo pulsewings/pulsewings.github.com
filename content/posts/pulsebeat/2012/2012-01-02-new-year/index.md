@@ -4,7 +4,6 @@ slug: 2012-01-02-new-year
 date: 2012-01-02
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

@@ -4,7 +4,6 @@ slug: 2011-03-24-elementary-school-student
 date: 2011-03-24
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

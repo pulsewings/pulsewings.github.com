@@ -5,6 +5,10 @@ slug: changelog
 disqus: true
 ---
 
+# 2019-09-03
+
+- cover, publicURL 버그를 수정하였다. 기존에 문서에 cover의 주소에 이미지가 없을 경우 발생하는 문제를 해결
+
 # 2019-09-02
 
 - life, challenge 태그를 thinking 태그로 통합

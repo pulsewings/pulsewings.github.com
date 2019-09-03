@@ -1,7 +1,6 @@
 ---
 title: 어떻게 설치하나요?
 slug: install
-cover: ./cover.png
 disqus: true
 ---
 

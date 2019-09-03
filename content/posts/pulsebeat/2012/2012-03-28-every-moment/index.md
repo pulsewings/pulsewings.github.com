@@ -4,7 +4,6 @@ slug: 2012-03-28-every-moment
 date: 2012-03-28
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

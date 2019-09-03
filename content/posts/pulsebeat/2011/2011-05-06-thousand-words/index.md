@@ -4,7 +4,6 @@ slug: 2011-05-06-thousand-words
 date: 2011-05-06
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

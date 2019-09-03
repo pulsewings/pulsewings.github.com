@@ -4,7 +4,6 @@ slug: 2013-10-21-my-own-life
 date: 2013-10-21
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

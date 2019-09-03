@@ -4,7 +4,6 @@ slug: 2013-01-15-what-is-that
 date: 2013-01-15
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

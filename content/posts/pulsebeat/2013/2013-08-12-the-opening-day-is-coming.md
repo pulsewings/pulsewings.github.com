@@ -4,7 +4,6 @@ slug: 2013-08-12-the-opening-day-is-coming
 date: 2013-08-12
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

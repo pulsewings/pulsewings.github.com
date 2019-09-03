@@ -2,7 +2,7 @@
 title: '블로그에 대한 부담감'
 slug: 2017-01-21-how-do-you-do
 date: 2017-01-21
-cover: ./cover.jpg
+cover: './cover.jpg'
 generate-card: false
 language: ko
 tags:

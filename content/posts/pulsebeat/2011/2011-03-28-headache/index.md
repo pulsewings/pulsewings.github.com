@@ -4,7 +4,6 @@ slug: 2011-03-28-headache
 date: 2011-03-28
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

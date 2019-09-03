@@ -4,7 +4,6 @@ slug: 2012-04-15-meet-with-sengmyeng
 date: 2012-04-15
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---

@@ -4,7 +4,6 @@ slug: 2013-01-21-yes-yes-yes
 date: 2013-01-21
 generate-card: false
 language: ko
-cover: './cover.jpg'
 tags:
   - thinking
 ---
