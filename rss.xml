@@ -1,39 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pulsewings's RSS Feed]]></title><description><![CDATA[개발을 사랑합니다. 자전거를 좋아합니다. 생각을 정리합니다. 코드 없는 개발자 블로그]]></description><link>https://pulsewings.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 02 Sep 2019 12:36:41 GMT</lastBuildDate><item><title><![CDATA[About gatsby-starter-morning-dew]]></title><description><![CDATA[Build Status Netlify Status code style: prettier Maintainability semantic-release…]]></description><link>https://pulsewings.com/about-gatsby-starter-morning-dew</link><guid isPermaLink="false">https://pulsewings.com/about-gatsby-starter-morning-dew</guid><content:encoded>&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/maxpou/gatsby-starter-morning-dew&quot;&gt;&lt;img src=&quot;https://travis-ci.org/maxpou/gatsby-starter-morning-dew.svg?branch=master&quot; alt=&quot;Build Status&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://app.netlify.com/sites/gatsby-starter-morning-dew/deploys&quot;&gt;&lt;img src=&quot;https://api.netlify.com/api/v1/badges/d68027bd-19b5-44fd-a2a3-d1f05fc8201e/deploy-status&quot; alt=&quot;Netlify Status&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/prettier/prettier&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square&quot; alt=&quot;code style: prettier&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://codeclimate.com/github/maxpou/gatsby-starter-morning-dew/maintainability&quot;&gt;&lt;img src=&quot;https://api.codeclimate.com/v1/badges/e09f1ac1a5cdb2987a6f/maintainability&quot; alt=&quot;Maintainability&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/semantic-release/semantic-release&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg&quot; alt=&quot;semantic-release&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;펄스윙즈&lt;/h2&gt;
-&lt;p&gt;내가 사랑하는 글들을 적스빈다. 어떻게 하는지 궁금합니다. 느리진 않을까? 걱정됩니다만, 그냥 하면 되지 않겠습니까?
-감사합니다.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://maxpou.github.io/gatsby-starter-morning-dew/&quot;&gt;Demo website.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Tv4SFqT.png&quot; alt=&quot;screenshot&quot;&gt;&lt;/p&gt;
-&lt;h2&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;💜 Gatsby v2&lt;/a&gt; / React 16&lt;/li&gt;
-&lt;li&gt;🔍 SEO optimized&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;💌 Write posts/pages in Markdown or &lt;a href=&quot;https://mdxjs.com/&quot;&gt;MDX&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;🎨 Code syntax highlight&lt;/li&gt;
-&lt;li&gt;📚 Multilang support (blog post)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;📱 Mobile Friendly (Responsive design)&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;✨ PWA ready&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;✈️ Offline support&lt;/li&gt;
-&lt;li&gt;📃 Manifest support&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;./data/siteConfig.js&quot;&gt;🔧 Fully configurable (see data/siteConfig.js)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 Disqus support&lt;/li&gt;
-&lt;li&gt;💅 css-in-js (with &lt;a href=&quot;https://www.styled-components.com&quot;&gt;styled-components&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;🧙‍♀️ Use it as a starter or &lt;a href=&quot;https://www.gatsbyjs.org/blog/2018-11-11-introducing-gatsby-themes/&quot;&gt;as a theme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🔖 Groups post with tags&lt;/li&gt;
-&lt;li&gt;📊 Google Analytics support&lt;/li&gt;
-&lt;li&gt;🐦 post preview image generation (Twitter, Facebook)&lt;/li&gt;
-&lt;li&gt;💎 Developer tools (eslint, prettier)&lt;/li&gt;
-&lt;li&gt;👷 Travis CI support&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;https://lighthouse.now.sh/?perf=100&amp;#x26;pwa=100&amp;#x26;a11y=100&amp;#x26;bp=100&amp;#x26;seo=100&quot; alt=&quot;Lighthouse scores (locally :bowtie:)&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[내가 살아온 날들]]></title><description><![CDATA[…]]></description><link>https://pulsewings.com/portfolio</link><guid isPermaLink="false">https://pulsewings.com/portfolio</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pulsewings's RSS Feed]]></title><description><![CDATA[개발을 사랑합니다. 자전거를 좋아합니다. 생각을 정리합니다. 코드 없는 개발자 블로그]]></description><link>https://pulsewings.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 03 Sep 2019 13:23:02 GMT</lastBuildDate><item><title><![CDATA[내가 살아온 날들]]></title><description><![CDATA[…]]></description><link>https://pulsewings.com/portfolio</link><guid isPermaLink="false">https://pulsewings.com/portfolio</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;이 페이지는 꾸준히 업데이트하는 중이다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
@@ -227,7 +192,11 @@
 &lt;hr&gt;
 &lt;h1&gt;대학교&lt;/h1&gt;
 &lt;h2&gt;스택&lt;/h2&gt;
-&lt;h2&gt;&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[Changelog]]></title><description><![CDATA[2019-09-02 life, challenge 태그를 thinking 태그로 통합 홈페이지 공개 작업 pulsewings.com 도메인 구입 및 연결 github pages 용 deploy 기능 추가 github pages 의 SSL…]]></description><link>https://pulsewings.com/changelog</link><guid isPermaLink="false">https://pulsewings.com/changelog</guid><content:encoded>&lt;h1&gt;2019-09-02&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[Changelog]]></title><description><![CDATA[2019-09-03 cover, publicURL 버그를 수정하였다. 기존에 문서에 cover의 주소에 이미지가 없을 경우 발생하는 문제를 해결 2019-09-02 life, challenge 태그를 thinking…]]></description><link>https://pulsewings.com/changelog</link><guid isPermaLink="false">https://pulsewings.com/changelog</guid><content:encoded>&lt;h1&gt;2019-09-03&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;cover, publicURL 버그를 수정하였다. 기존에 문서에 cover의 주소에 이미지가 없을 경우 발생하는 문제를 해결&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;2019-09-02&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;life, challenge 태그를 thinking 태그로 통합&lt;/li&gt;
 &lt;li&gt;홈페이지 공개 작업&lt;/li&gt;
@@ -304,11 +273,228 @@
 &lt;li&gt;이전에 운영했던 네이버 블로그, 티스토리 블로그, 워드프레스 블로그, 구글 드라이브, 데이원, 구글킵, 노션에 저장해두었던 글들을 조금씩 여기 블로그로 옮기기로 했다. 한 곳에 잘 모아서 보여주고 싶은 바람이 있다. 오프라인에도 글들이 있지만, 일단 제외한다.&lt;/li&gt;
 &lt;li&gt;프로그래밍 관련글들은 옮기지 않는다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[[자전거 트레이닝] 11주차]]></title><description><![CDATA[10주차 : 8월 26일(월) ~ 9월 1일(일) 서른여섯번째, 8월 2…]]></description><link>https://pulsewings.com/2019-cycling-training-11th-weeks</link><guid isPermaLink="false">https://pulsewings.com/2019-cycling-training-11th-weeks</guid><pubDate>Mon, 26 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;10주차 : 8월 26일(월) ~ 9월 1일(일)&lt;/h1&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[[함께 라이딩] 2019 오크밸리 그란폰도]]></title><description><![CDATA[남산-북악산-도선사 라이딩 오랜만에 나들이다. 여름 휴가 대신 자전거 대회에 참여하기로 했다. 서울팀과 부산팀이 함께 하는 날이다.…]]></description><link>https://pulsewings.com/2019-oak-valley-granfondo</link><guid isPermaLink="false">https://pulsewings.com/2019-oak-valley-granfondo</guid><pubDate>Sat, 31 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;남산-북악산-도선사 라이딩&lt;/h1&gt;
+&lt;p&gt;오랜만에 나들이다. 여름 휴가 대신 자전거 대회에 참여하기로 했다. 서울팀과 부산팀이 함께 하는 날이다. 1년에 한 두 번쯤 다같이 모여 그란폰도에 참여한다. 다같이 모이는 날이 많지 않기 때문에 더 재밌고 보람차다.&lt;/p&gt;
+&lt;p&gt;같은 취미를 공유한다는 건 참 좋은 것 같다. 같이 땀흘리고, 같이 자전거에 대해 이야기 하면 시간이 후딱 같다. 같은 목적지를 향해, 같은 길을, 함께 간다. 힘든 과정을 공유한다. 그래서 서로가 이해가 된다. 공감이 가능하다. 라이딩 끝냈을 때의 기쁨이 배가 된다. 고통은 반으로 줄어든다. 그래서 더 즐겁고, 재밌다.&lt;/p&gt;
+&lt;p&gt;이번 라이딩은 모두가 함께 가서 좋았다. 포기하지 않았고, 팀을 위해 희생했으며, 협력했다. 그 자체로 성공적이다. 함께 할 수 있을 때 많이 함께 하자.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0180b5299cea41dcb1e3c741f71795ca/2b40c/oak_1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.09765625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBP/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHmvCjSRt//xAAYEAADAQEAAAAAAAAAAAAAAAABAhESAP/aAAgBAQABBQLSr12kMMLKcku1/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECERP/2gAIAQMBAT8Bly3hxs//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAECAQE/AUe2l//EABsQAAIBBQAAAAAAAAAAAAAAAAARARAhMVFh/9oACAEBAAY/Ak5sLRCOwYp//8QAHBAAAgIDAQEAAAAAAAAAAAAAAREAITFBUXGR/9oACAEBAAE/ISKp25mUgoFns7ALUAzYvkGsZCzGqS8n/9oADAMBAAIAAwAAABDw3//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFB/9oACAEDAQE/EFvQ5qR//8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAIAQIBAT8QEML/AP/EAB0QAQEAAgEFAAAAAAAAAAAAAAERACExQVFxkcH/2gAIAQEAAT8QHEIrETz6vfGiLk38preEgAAun3CJQ3SIFNh03ecqwsEbJxDGKgmgDP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;대회 시작 전&quot;
+        title=&quot;대회 시작 전&quot;
+        src=&quot;/static/0180b5299cea41dcb1e3c741f71795ca/21c6c/oak_1.jpg&quot;
+        srcset=&quot;/static/0180b5299cea41dcb1e3c741f71795ca/65b1f/oak_1.jpg 235w,
+/static/0180b5299cea41dcb1e3c741f71795ca/9f638/oak_1.jpg 470w,
+/static/0180b5299cea41dcb1e3c741f71795ca/21c6c/oak_1.jpg 940w,
+/static/0180b5299cea41dcb1e3c741f71795ca/47ec1/oak_1.jpg 1410w,
+/static/0180b5299cea41dcb1e3c741f71795ca/335f9/oak_1.jpg 1880w,
+/static/0180b5299cea41dcb1e3c741f71795ca/2b40c/oak_1.jpg 2048w&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/25a1a7260cc32b088bec477888f48ff5/2b40c/oak_2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwACBP/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABNQ6ArVi//8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECESESIv/aAAgBAQABBQJ4/XKmxbMqz//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AUf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFX/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAEREiAiMqH/2gAIAQEABj8CaQmRvyn/xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhMUGB/9oACAEBAAE/IbdtqzInm59gyqlQkL3GW11idM//2gAMAwEAAgADAAAAEPPv/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQMBAT8Qg//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEVH/2gAIAQIBAT8Qdldv/8QAHBABAQACAwEBAAAAAAAAAAAAAREAITFBUYHw/9oACAEBAAE/EEVAWFl09/ucYkRuItT3vB5AJFZcvC38xme73EoNeYpn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;숭숭 잘간다&quot;
+        title=&quot;숭숭 잘간다&quot;
+        src=&quot;/static/25a1a7260cc32b088bec477888f48ff5/21c6c/oak_2.jpg&quot;
+        srcset=&quot;/static/25a1a7260cc32b088bec477888f48ff5/65b1f/oak_2.jpg 235w,
+/static/25a1a7260cc32b088bec477888f48ff5/9f638/oak_2.jpg 470w,
+/static/25a1a7260cc32b088bec477888f48ff5/21c6c/oak_2.jpg 940w,
+/static/25a1a7260cc32b088bec477888f48ff5/47ec1/oak_2.jpg 1410w,
+/static/25a1a7260cc32b088bec477888f48ff5/335f9/oak_2.jpg 1880w,
+/static/25a1a7260cc32b088bec477888f48ff5/2b40c/oak_2.jpg 2048w&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/947a8ccf89d96a4edc3a8053617d73a0/0a443/oak_3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACA//EABYBAQEBAAAAAAAAAAAAAAAAAAECAP/aAAwDAQACEAMQAAABWDYpU3GnLFvFlOjf/8QAHRAAAgEEAwAAAAAAAAAAAAAAAQIAAxESMhAiM//aAAgBAQABBQKolExR3ZbFlLTJVhY8MMmC3FT2bVdP/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAh/9oACAEDAQE/ASP/xAAXEQADAQAAAAAAAAAAAAAAAAAAEBES/9oACAECAQE/AYZVP//EAB8QAAICAQQDAAAAAAAAAAAAAAABESECECMxcVGBkf/aAAgBAQAGPwKaT7Ixa+nJJJXBuOiYheC0elpj0f/EAB0QAAICAwADAAAAAAAAAAAAAAERACExQVFhkaH/2gAIAQEAAT8h0gBZCMOouoApJgpgCRk9j2HD3PLRLsu4ApgHEDYS+QiTekehDvPgT//aAAwDAQACAAMAAAAQ4B9D/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARQf/aAAgBAwEBPxDTpMWy/8QAGREAAgMBAAAAAAAAAAAAAAAAAAEQETFR/9oACAECAQE/EKvIrox//8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBUWFxobH/2gAIAQEAAT8QcBgTUPUFcJsoLTzmWLoH19lvnlllhruZJlpDx4Yu5uBW4TczReTlugcs05U9B29szDVh0SEKUMOA4om3o+wgBgPyn//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;뻗은 은호&quot;
+        title=&quot;뻗은 은호&quot;
+        src=&quot;/static/947a8ccf89d96a4edc3a8053617d73a0/21c6c/oak_3.jpg&quot;
+        srcset=&quot;/static/947a8ccf89d96a4edc3a8053617d73a0/65b1f/oak_3.jpg 235w,
+/static/947a8ccf89d96a4edc3a8053617d73a0/9f638/oak_3.jpg 470w,
+/static/947a8ccf89d96a4edc3a8053617d73a0/21c6c/oak_3.jpg 940w,
+/static/947a8ccf89d96a4edc3a8053617d73a0/47ec1/oak_3.jpg 1410w,
+/static/947a8ccf89d96a4edc3a8053617d73a0/0a443/oak_3.jpg 1536w&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/14514dafe2024434d3a91a0251fda86a/d5d61/oak_6.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 152.8358208955224%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAfABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAGimxBZrDp49MUqONf/xAAbEAACAwEBAQAAAAAAAAAAAAABAgADERITMv/aAAgBAQABBQIWFn3ltWJ9aWKVIy8rlNXUNKz3rguqhYT/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAXEQEAAwAAAAAAAAAAAAAAAAABABAR/9oACAECAQE/AQZl/wD/xAAeEAADAAIBBQAAAAAAAAAAAAAAARECMRAhIjJxof/aAAgBAQAGPwLu2VriiXTRbPZYZZNSvXHl8IsjZ//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQdFRcfD/2gAIAQEAAT8hoeULbIvmfVyg0VK9UrW+/UGIPxCSWhcArCwizqYeyPTa1hlyP//aAAwDAQACAAMAAAAQwCTA/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAwEBPxCEyo//xAAYEQADAQEAAAAAAAAAAAAAAAAAARFREP/aAAgBAgEBPxBhl7yPD//EACAQAQACAgIBBQAAAAAAAAAAAAEAESFBMVFxYYGRofH/2gAIAQEAAT8QRsglu6uLJG3Ss4ioPZ6IWCUosbPK+CKfmpqgVro0+5xk4nSfDxD1Uio6ICF3DzXLAAdN5m9wM/hKQiqAWX2gzenTP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;그래도 한번 찍혔군. 호~&quot;
+        title=&quot;그래도 한번 찍혔군. 호~&quot;
+        src=&quot;/static/14514dafe2024434d3a91a0251fda86a/21c6c/oak_6.jpg&quot;
+        srcset=&quot;/static/14514dafe2024434d3a91a0251fda86a/65b1f/oak_6.jpg 235w,
+/static/14514dafe2024434d3a91a0251fda86a/9f638/oak_6.jpg 470w,
+/static/14514dafe2024434d3a91a0251fda86a/21c6c/oak_6.jpg 940w,
+/static/14514dafe2024434d3a91a0251fda86a/d5d61/oak_6.jpg 1340w&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8bb0223172f3fc3ec09d4efa95219ed6/2b40c/oak_7.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.09765625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAHEu9jgyyv/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQITAxT/2gAIAQEAAQUCpEzZmmeaRcoSxk//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGI/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHBAAAgICAwAAAAAAAAAAAAAAAAERIQIxQYGS/9oACAEBAAY/AlDlkFYz2W2Vyby9H//EAB0QAQACAQUBAAAAAAAAAAAAAAEAEVEhMUFhcdH/2gAIAQEAAT8hzgxNBlv1AI+ikAbUxCBOTcB+qf/aAAwDAQACAAMAAAAQnw//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPxAl/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERUWH/2gAIAQIBAT8QasnD/8QAHRABAQACAgMBAAAAAAAAAAAAAREAMSGBQVGR0f/aAAgBAQABPxC5Etsa9Ybh4qhNOa9YvQQEJXpx4rbVl+YA0iCF73gEJHg/TP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;실려가는 것을 거부하는 남균&quot;
+        title=&quot;실려가는 것을 거부하는 남균&quot;
+        src=&quot;/static/8bb0223172f3fc3ec09d4efa95219ed6/21c6c/oak_7.jpg&quot;
+        srcset=&quot;/static/8bb0223172f3fc3ec09d4efa95219ed6/65b1f/oak_7.jpg 235w,
+/static/8bb0223172f3fc3ec09d4efa95219ed6/9f638/oak_7.jpg 470w,
+/static/8bb0223172f3fc3ec09d4efa95219ed6/21c6c/oak_7.jpg 940w,
+/static/8bb0223172f3fc3ec09d4efa95219ed6/47ec1/oak_7.jpg 1410w,
+/static/8bb0223172f3fc3ec09d4efa95219ed6/335f9/oak_7.jpg 1880w,
+/static/8bb0223172f3fc3ec09d4efa95219ed6/2b40c/oak_7.jpg 2048w&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5e8f573be6ac30ef7919e9f6af5f8e25/2b40c/oak_10.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAAByzh0RRhxP//EABkQAQEAAwEAAAAAAAAAAAAAAAECAAMhE//aAAgBAQABBQIjPNbd1yw91OX1/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEDESH/2gAIAQMBAT8BvBSM/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAESMf/aAAgBAgEBPwHF5f/EABkQAAIDAQAAAAAAAAAAAAAAAAABESAhQf/aAAgBAQAGPwLDrIdP/8QAGBABAAMBAAAAAAAAAAAAAAAAAQARITH/2gAIAQEAAT8hwtHIH9HkRZpErsRLvZgXcn//2gAMAwEAAgADAAAAEGDf/8QAGREAAgMBAAAAAAAAAAAAAAAAABEBITGR/9oACAEDAQE/ELMJZHD/xAAWEQEBAQAAAAAAAAAAAAAAAAARECH/2gAIAQIBAT8QHkf/xAAbEAEBAAIDAQAAAAAAAAAAAAABEQAhQVFhkf/aAAgBAQABPxBtqdjcU7uDiKBTQDi9YWQ+JbfuU1WS+ZWlHOEEinaZ/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;양말 받고 세상 행복해하는 상훈&quot;
+        title=&quot;양말 받고 세상 행복해하는 상훈&quot;
+        src=&quot;/static/5e8f573be6ac30ef7919e9f6af5f8e25/21c6c/oak_10.jpg&quot;
+        srcset=&quot;/static/5e8f573be6ac30ef7919e9f6af5f8e25/65b1f/oak_10.jpg 235w,
+/static/5e8f573be6ac30ef7919e9f6af5f8e25/9f638/oak_10.jpg 470w,
+/static/5e8f573be6ac30ef7919e9f6af5f8e25/21c6c/oak_10.jpg 940w,
+/static/5e8f573be6ac30ef7919e9f6af5f8e25/47ec1/oak_10.jpg 1410w,
+/static/5e8f573be6ac30ef7919e9f6af5f8e25/335f9/oak_10.jpg 1880w,
+/static/5e8f573be6ac30ef7919e9f6af5f8e25/2b40c/oak_10.jpg 2048w&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ff0d133a289a0eb56d9e6ae02dbb5a77/2b40c/oak_11.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB03LMqVD/xAAZEAACAwEAAAAAAAAAAAAAAAABAgMREwD/2gAIAQEAAQUCEjHt5L3k5ka85rRSF//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAgEBPwGtP//EABwQAAICAgMAAAAAAAAAAAAAAAABESECEDFxwf/aAAgBAQAGPwJXrnElLqyfRJo//8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERITFBUYH/2gAIAQEAAT8hp8YWdsbcn4jmEs6rngXETU6MFFqsn//aAAwDAQACAAMAAAAQjA//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8QmI//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxBl/8QAHhABAQABAwUAAAAAAAAAAAAAAREAMUFhIVGRodH/2gAIAQEAAT8QrqGgriuAgBdn1xicIZqy4JS0gNRN3v1xM3SKCIPy+cRAGoW85//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;드디어 찍은 단체 사진&quot;
+        title=&quot;드디어 찍은 단체 사진&quot;
+        src=&quot;/static/ff0d133a289a0eb56d9e6ae02dbb5a77/21c6c/oak_11.jpg&quot;
+        srcset=&quot;/static/ff0d133a289a0eb56d9e6ae02dbb5a77/65b1f/oak_11.jpg 235w,
+/static/ff0d133a289a0eb56d9e6ae02dbb5a77/9f638/oak_11.jpg 470w,
+/static/ff0d133a289a0eb56d9e6ae02dbb5a77/21c6c/oak_11.jpg 940w,
+/static/ff0d133a289a0eb56d9e6ae02dbb5a77/47ec1/oak_11.jpg 1410w,
+/static/ff0d133a289a0eb56d9e6ae02dbb5a77/335f9/oak_11.jpg 1880w,
+/static/ff0d133a289a0eb56d9e6ae02dbb5a77/2b40c/oak_11.jpg 2048w&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[자전거 트레이닝] 11주차]]></title><description><![CDATA[10주차 : 8월 26일(월) ~ 9월 1일(일) 서른여섯번째, 8월 2…]]></description><link>https://pulsewings.com/2019-cycling-training-11th-weeks</link><guid isPermaLink="false">https://pulsewings.com/2019-cycling-training-11th-weeks</guid><pubDate>Mon, 26 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;10주차 : 8월 26일(월) ~ 9월 1일(일)&lt;/h1&gt;
 &lt;h2&gt;서른여섯번째, 8월 26일(월)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -325,14 +511,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Pettit&quot;
         title=&quot;Pettit&quot;
-        src=&quot;/static/78aed7568b14985d5ec406fc0f44a765/a111b/11weeks_1.jpg&quot;
-        srcset=&quot;/static/78aed7568b14985d5ec406fc0f44a765/aca85/11weeks_1.jpg 163w,
-/static/78aed7568b14985d5ec406fc0f44a765/0954f/11weeks_1.jpg 325w,
-/static/78aed7568b14985d5ec406fc0f44a765/a111b/11weeks_1.jpg 650w,
-/static/78aed7568b14985d5ec406fc0f44a765/ce471/11weeks_1.jpg 975w,
-/static/78aed7568b14985d5ec406fc0f44a765/bee4e/11weeks_1.jpg 1300w,
+        src=&quot;/static/78aed7568b14985d5ec406fc0f44a765/21c6c/11weeks_1.jpg&quot;
+        srcset=&quot;/static/78aed7568b14985d5ec406fc0f44a765/65b1f/11weeks_1.jpg 235w,
+/static/78aed7568b14985d5ec406fc0f44a765/9f638/11weeks_1.jpg 470w,
+/static/78aed7568b14985d5ec406fc0f44a765/21c6c/11weeks_1.jpg 940w,
+/static/78aed7568b14985d5ec406fc0f44a765/47ec1/11weeks_1.jpg 1410w,
+/static/78aed7568b14985d5ec406fc0f44a765/335f9/11weeks_1.jpg 1880w,
 /static/78aed7568b14985d5ec406fc0f44a765/2b40c/11weeks_1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -369,7 +555,7 @@
 &lt;h2&gt;서른일곱번째, 8월 28일(수)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -386,14 +572,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Beech&quot;
         title=&quot;Beech&quot;
-        src=&quot;/static/f14dae01f123697006032336b6c5355d/a111b/11weeks_2.jpg&quot;
-        srcset=&quot;/static/f14dae01f123697006032336b6c5355d/aca85/11weeks_2.jpg 163w,
-/static/f14dae01f123697006032336b6c5355d/0954f/11weeks_2.jpg 325w,
-/static/f14dae01f123697006032336b6c5355d/a111b/11weeks_2.jpg 650w,
-/static/f14dae01f123697006032336b6c5355d/ce471/11weeks_2.jpg 975w,
-/static/f14dae01f123697006032336b6c5355d/bee4e/11weeks_2.jpg 1300w,
+        src=&quot;/static/f14dae01f123697006032336b6c5355d/21c6c/11weeks_2.jpg&quot;
+        srcset=&quot;/static/f14dae01f123697006032336b6c5355d/65b1f/11weeks_2.jpg 235w,
+/static/f14dae01f123697006032336b6c5355d/9f638/11weeks_2.jpg 470w,
+/static/f14dae01f123697006032336b6c5355d/21c6c/11weeks_2.jpg 940w,
+/static/f14dae01f123697006032336b6c5355d/47ec1/11weeks_2.jpg 1410w,
+/static/f14dae01f123697006032336b6c5355d/335f9/11weeks_2.jpg 1880w,
 /static/f14dae01f123697006032336b6c5355d/2b40c/11weeks_2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -430,7 +616,7 @@
 &lt;h2&gt;서른여덟번째, 8월 30일(금)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -447,14 +633,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Andrews&quot;
         title=&quot;Andrews&quot;
-        src=&quot;/static/1cb4368d5fea84faf0f778bd0d66591d/a111b/11weeks_3.jpg&quot;
-        srcset=&quot;/static/1cb4368d5fea84faf0f778bd0d66591d/aca85/11weeks_3.jpg 163w,
-/static/1cb4368d5fea84faf0f778bd0d66591d/0954f/11weeks_3.jpg 325w,
-/static/1cb4368d5fea84faf0f778bd0d66591d/a111b/11weeks_3.jpg 650w,
-/static/1cb4368d5fea84faf0f778bd0d66591d/ce471/11weeks_3.jpg 975w,
-/static/1cb4368d5fea84faf0f778bd0d66591d/bee4e/11weeks_3.jpg 1300w,
+        src=&quot;/static/1cb4368d5fea84faf0f778bd0d66591d/21c6c/11weeks_3.jpg&quot;
+        srcset=&quot;/static/1cb4368d5fea84faf0f778bd0d66591d/65b1f/11weeks_3.jpg 235w,
+/static/1cb4368d5fea84faf0f778bd0d66591d/9f638/11weeks_3.jpg 470w,
+/static/1cb4368d5fea84faf0f778bd0d66591d/21c6c/11weeks_3.jpg 940w,
+/static/1cb4368d5fea84faf0f778bd0d66591d/47ec1/11weeks_3.jpg 1410w,
+/static/1cb4368d5fea84faf0f778bd0d66591d/335f9/11weeks_3.jpg 1880w,
 /static/1cb4368d5fea84faf0f778bd0d66591d/2b40c/11weeks_3.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -795,7 +981,7 @@
 &lt;p&gt;아침 일곱시 반까지 한남대교 밑에서 보기로 했다. 여섯시쯤 일어났는데, 온몸이 찌뿌둥해서 잠깐만 누워있다가 일어나기로 했다. 이런. 다시 눈을 뜨니 7시 5분이었다. 허둥지둥 일어나서 간단히 먹고 씼고 라이딩 준비를 했다. 그러는 동안 상훈이도 일어났다. 나보다 늦는 사람이 있군. 휴, 그나마 다행이다. 만날 때마다 지각하는 사람이 간식을 사곤 했는데, 오늘도 상훈이가 사겠군. 유후&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -812,14 +998,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;한남나들목에서 기다림&quot;
         title=&quot;한남나들목에서 기다림&quot;
-        src=&quot;/static/d121ca3e88302773888bd4ed8bdeedfe/a111b/dosunsa_1.jpg&quot;
-        srcset=&quot;/static/d121ca3e88302773888bd4ed8bdeedfe/aca85/dosunsa_1.jpg 163w,
-/static/d121ca3e88302773888bd4ed8bdeedfe/0954f/dosunsa_1.jpg 325w,
-/static/d121ca3e88302773888bd4ed8bdeedfe/a111b/dosunsa_1.jpg 650w,
-/static/d121ca3e88302773888bd4ed8bdeedfe/ce471/dosunsa_1.jpg 975w,
-/static/d121ca3e88302773888bd4ed8bdeedfe/bee4e/dosunsa_1.jpg 1300w,
+        src=&quot;/static/d121ca3e88302773888bd4ed8bdeedfe/21c6c/dosunsa_1.jpg&quot;
+        srcset=&quot;/static/d121ca3e88302773888bd4ed8bdeedfe/65b1f/dosunsa_1.jpg 235w,
+/static/d121ca3e88302773888bd4ed8bdeedfe/9f638/dosunsa_1.jpg 470w,
+/static/d121ca3e88302773888bd4ed8bdeedfe/21c6c/dosunsa_1.jpg 940w,
+/static/d121ca3e88302773888bd4ed8bdeedfe/47ec1/dosunsa_1.jpg 1410w,
+/static/d121ca3e88302773888bd4ed8bdeedfe/335f9/dosunsa_1.jpg 1880w,
 /static/d121ca3e88302773888bd4ed8bdeedfe/2b40c/dosunsa_1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -827,7 +1013,7 @@
 &lt;p&gt;날이 참 좋다. 햇빛이 쨍쨍하게 비치지도 않고, 시원한 바람이 땀을 식혀줘서 좋다. 라이딩하기 딱 좋은 날씨다. 한남대교를 건너, 만나기로한 장소에 가다보니, 동호회에서 단체로 라이딩을 하고 있었다. 비록 따로 라이딩을 하고 있지만, 같은 취미를 즐기고 있다는 것이 반갑다. 뭔가 모르게 힘이 더 난다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -844,21 +1030,21 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;브레이크 위치 조정중인 으노&quot;
         title=&quot;브레이크 위치 조정중인 으노&quot;
-        src=&quot;/static/c3e1b8ec282c1fb6408346ad76e06d39/a111b/dosunsa_2.jpg&quot;
-        srcset=&quot;/static/c3e1b8ec282c1fb6408346ad76e06d39/aca85/dosunsa_2.jpg 163w,
-/static/c3e1b8ec282c1fb6408346ad76e06d39/0954f/dosunsa_2.jpg 325w,
-/static/c3e1b8ec282c1fb6408346ad76e06d39/a111b/dosunsa_2.jpg 650w,
-/static/c3e1b8ec282c1fb6408346ad76e06d39/ce471/dosunsa_2.jpg 975w,
-/static/c3e1b8ec282c1fb6408346ad76e06d39/bee4e/dosunsa_2.jpg 1300w,
+        src=&quot;/static/c3e1b8ec282c1fb6408346ad76e06d39/21c6c/dosunsa_2.jpg&quot;
+        srcset=&quot;/static/c3e1b8ec282c1fb6408346ad76e06d39/65b1f/dosunsa_2.jpg 235w,
+/static/c3e1b8ec282c1fb6408346ad76e06d39/9f638/dosunsa_2.jpg 470w,
+/static/c3e1b8ec282c1fb6408346ad76e06d39/21c6c/dosunsa_2.jpg 940w,
+/static/c3e1b8ec282c1fb6408346ad76e06d39/47ec1/dosunsa_2.jpg 1410w,
+/static/c3e1b8ec282c1fb6408346ad76e06d39/335f9/dosunsa_2.jpg 1880w,
 /static/c3e1b8ec282c1fb6408346ad76e06d39/2b40c/dosunsa_2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -875,14 +1061,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;상훈이 올 때까지 기다리는 중&quot;
         title=&quot;상훈이 올 때까지 기다리는 중&quot;
-        src=&quot;/static/c47bb922d53347b7240c47cc7098624a/a111b/dosunsa_3.jpg&quot;
-        srcset=&quot;/static/c47bb922d53347b7240c47cc7098624a/aca85/dosunsa_3.jpg 163w,
-/static/c47bb922d53347b7240c47cc7098624a/0954f/dosunsa_3.jpg 325w,
-/static/c47bb922d53347b7240c47cc7098624a/a111b/dosunsa_3.jpg 650w,
-/static/c47bb922d53347b7240c47cc7098624a/ce471/dosunsa_3.jpg 975w,
-/static/c47bb922d53347b7240c47cc7098624a/bee4e/dosunsa_3.jpg 1300w,
+        src=&quot;/static/c47bb922d53347b7240c47cc7098624a/21c6c/dosunsa_3.jpg&quot;
+        srcset=&quot;/static/c47bb922d53347b7240c47cc7098624a/65b1f/dosunsa_3.jpg 235w,
+/static/c47bb922d53347b7240c47cc7098624a/9f638/dosunsa_3.jpg 470w,
+/static/c47bb922d53347b7240c47cc7098624a/21c6c/dosunsa_3.jpg 940w,
+/static/c47bb922d53347b7240c47cc7098624a/47ec1/dosunsa_3.jpg 1410w,
+/static/c47bb922d53347b7240c47cc7098624a/335f9/dosunsa_3.jpg 1880w,
 /static/c47bb922d53347b7240c47cc7098624a/2b40c/dosunsa_3.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -890,7 +1076,7 @@
 &lt;p&gt;상훈이는 장염인지 화장실에 들렸다 온다고 더 늦었다. 그동안 은호랑 농구장에서 뺑뺑이를 돌며 놀았다. 은호는 이것저것 자전거를 가지고 노는 것을 좋아한다. 오늘도 어김없이 공구를 빌려 브레이크 부분을 손보고 있다. 그런 것 보면 난 자전거 기계에 대한 관심은 별로 없는 것 같다. 그냥 페달을 밟고, 함께 라이딩하는 것이 좋을 뿐. 이 점에 있어서는 상훈이와 비슷하다. 좋은 자전거에 대한 욕심이 없다. 그래도 자전거를 꾸준히 타다보니, 자전거에 대한 지식을 습득하게 된다. 오늘은 브레이크 손잡이와 핸들의 간격을 조절할 수 있다는 것을 알게 되었다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -907,14 +1093,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;으노 화장실 간 사이, 도착한 상훈&quot;
         title=&quot;으노 화장실 간 사이, 도착한 상훈&quot;
-        src=&quot;/static/67c0f420bf4b234ccc6ec038fd4058c0/a111b/dosunsa_4.jpg&quot;
-        srcset=&quot;/static/67c0f420bf4b234ccc6ec038fd4058c0/aca85/dosunsa_4.jpg 163w,
-/static/67c0f420bf4b234ccc6ec038fd4058c0/0954f/dosunsa_4.jpg 325w,
-/static/67c0f420bf4b234ccc6ec038fd4058c0/a111b/dosunsa_4.jpg 650w,
-/static/67c0f420bf4b234ccc6ec038fd4058c0/ce471/dosunsa_4.jpg 975w,
-/static/67c0f420bf4b234ccc6ec038fd4058c0/bee4e/dosunsa_4.jpg 1300w,
+        src=&quot;/static/67c0f420bf4b234ccc6ec038fd4058c0/21c6c/dosunsa_4.jpg&quot;
+        srcset=&quot;/static/67c0f420bf4b234ccc6ec038fd4058c0/65b1f/dosunsa_4.jpg 235w,
+/static/67c0f420bf4b234ccc6ec038fd4058c0/9f638/dosunsa_4.jpg 470w,
+/static/67c0f420bf4b234ccc6ec038fd4058c0/21c6c/dosunsa_4.jpg 940w,
+/static/67c0f420bf4b234ccc6ec038fd4058c0/47ec1/dosunsa_4.jpg 1410w,
 /static/67c0f420bf4b234ccc6ec038fd4058c0/3999e/dosunsa_4.jpg 1539w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -923,7 +1108,7 @@
 남산까지 가는내내 몸이 안풀린다는 느낌이었다. 뻐근한 느낌. 그래도 기왕 온 김에 열심히 달려봐야지. 은호가 먼저 출발하고, 내가 출발했다. 저번에 상훈이와 남산을 올랐을 때, 괜히 상훈이 신경쓴다고 오버페이스를 했었다. (그래도 PR은 세웠었지만..) 그래서 오늘은 페달링과 숨내쉬는 것에만 신경을 썼다. 그래서 그런지 남산 도착 100미터 정도 전까지도 상훈이가 내 뒤에 있다는 것을 알지 못했다. 쵯- 나를 쓰윽 지나간다. 그려 잘가. 셋이 비슷한 시점에 도착했다. 바로 북악산으로 고고.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -940,21 +1125,21 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;남산 업힐하고 뻗는 나, 으노, 그 모습 보고 좋아하는 상훈&quot;
         title=&quot;남산 업힐하고 뻗는 나, 으노, 그 모습 보고 좋아하는 상훈&quot;
-        src=&quot;/static/84f03fd5213fd3345e6b6736c4c484de/a111b/dosunsa_5.jpg&quot;
-        srcset=&quot;/static/84f03fd5213fd3345e6b6736c4c484de/aca85/dosunsa_5.jpg 163w,
-/static/84f03fd5213fd3345e6b6736c4c484de/0954f/dosunsa_5.jpg 325w,
-/static/84f03fd5213fd3345e6b6736c4c484de/a111b/dosunsa_5.jpg 650w,
-/static/84f03fd5213fd3345e6b6736c4c484de/ce471/dosunsa_5.jpg 975w,
-/static/84f03fd5213fd3345e6b6736c4c484de/bee4e/dosunsa_5.jpg 1300w,
+        src=&quot;/static/84f03fd5213fd3345e6b6736c4c484de/21c6c/dosunsa_5.jpg&quot;
+        srcset=&quot;/static/84f03fd5213fd3345e6b6736c4c484de/65b1f/dosunsa_5.jpg 235w,
+/static/84f03fd5213fd3345e6b6736c4c484de/9f638/dosunsa_5.jpg 470w,
+/static/84f03fd5213fd3345e6b6736c4c484de/21c6c/dosunsa_5.jpg 940w,
+/static/84f03fd5213fd3345e6b6736c4c484de/47ec1/dosunsa_5.jpg 1410w,
+/static/84f03fd5213fd3345e6b6736c4c484de/335f9/dosunsa_5.jpg 1880w,
 /static/84f03fd5213fd3345e6b6736c4c484de/2b40c/dosunsa_5.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -971,14 +1156,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;북악산 가는 돌담길&quot;
         title=&quot;북악산 가는 돌담길&quot;
-        src=&quot;/static/d69fc97aae01cbb28fefb9973101cc79/a111b/dosunsa_6.jpg&quot;
-        srcset=&quot;/static/d69fc97aae01cbb28fefb9973101cc79/aca85/dosunsa_6.jpg 163w,
-/static/d69fc97aae01cbb28fefb9973101cc79/0954f/dosunsa_6.jpg 325w,
-/static/d69fc97aae01cbb28fefb9973101cc79/a111b/dosunsa_6.jpg 650w,
-/static/d69fc97aae01cbb28fefb9973101cc79/ce471/dosunsa_6.jpg 975w,
-/static/d69fc97aae01cbb28fefb9973101cc79/bee4e/dosunsa_6.jpg 1300w,
+        src=&quot;/static/d69fc97aae01cbb28fefb9973101cc79/21c6c/dosunsa_6.jpg&quot;
+        srcset=&quot;/static/d69fc97aae01cbb28fefb9973101cc79/65b1f/dosunsa_6.jpg 235w,
+/static/d69fc97aae01cbb28fefb9973101cc79/9f638/dosunsa_6.jpg 470w,
+/static/d69fc97aae01cbb28fefb9973101cc79/21c6c/dosunsa_6.jpg 940w,
+/static/d69fc97aae01cbb28fefb9973101cc79/47ec1/dosunsa_6.jpg 1410w,
 /static/d69fc97aae01cbb28fefb9973101cc79/0a443/dosunsa_6.jpg 1536w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -987,7 +1171,7 @@
 &lt;p&gt;도선사 가는 길이 험난 했다. 네이버 지도를 보면서 갔지만, 초행길이다보니 조금 헤맸다. 그래도 무사히 도선사 도착. 업힐을 바로 시작했다. 처음으로 온 것이라 기록보단 완주가 목표였다. 경사도 30% 이라던데.. (지금와서 검색해보니 평균경사도가 13%다.) 뭔가모를 기억의 오류.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1004,21 +1188,20 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;도선사 정상에서 1&quot;
         title=&quot;도선사 정상에서 1&quot;
-        src=&quot;/static/371371f1768421f513dcee165e10b8cb/a111b/dosunsa_7.jpg&quot;
-        srcset=&quot;/static/371371f1768421f513dcee165e10b8cb/aca85/dosunsa_7.jpg 163w,
-/static/371371f1768421f513dcee165e10b8cb/0954f/dosunsa_7.jpg 325w,
-/static/371371f1768421f513dcee165e10b8cb/a111b/dosunsa_7.jpg 650w,
-/static/371371f1768421f513dcee165e10b8cb/ce471/dosunsa_7.jpg 975w,
-/static/371371f1768421f513dcee165e10b8cb/bee4e/dosunsa_7.jpg 1300w,
+        src=&quot;/static/371371f1768421f513dcee165e10b8cb/21c6c/dosunsa_7.jpg&quot;
+        srcset=&quot;/static/371371f1768421f513dcee165e10b8cb/65b1f/dosunsa_7.jpg 235w,
+/static/371371f1768421f513dcee165e10b8cb/9f638/dosunsa_7.jpg 470w,
+/static/371371f1768421f513dcee165e10b8cb/21c6c/dosunsa_7.jpg 940w,
+/static/371371f1768421f513dcee165e10b8cb/47ec1/dosunsa_7.jpg 1410w,
 /static/371371f1768421f513dcee165e10b8cb/9c588/dosunsa_7.jpg 1533w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1035,14 +1218,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;도선사 정상에서 2&quot;
         title=&quot;도선사 정상에서 2&quot;
-        src=&quot;/static/b21845035b004c4f21b94fb628a72762/a111b/dosunsa_8.jpg&quot;
-        srcset=&quot;/static/b21845035b004c4f21b94fb628a72762/aca85/dosunsa_8.jpg 163w,
-/static/b21845035b004c4f21b94fb628a72762/0954f/dosunsa_8.jpg 325w,
-/static/b21845035b004c4f21b94fb628a72762/a111b/dosunsa_8.jpg 650w,
-/static/b21845035b004c4f21b94fb628a72762/ce471/dosunsa_8.jpg 975w,
-/static/b21845035b004c4f21b94fb628a72762/bee4e/dosunsa_8.jpg 1300w,
+        src=&quot;/static/b21845035b004c4f21b94fb628a72762/21c6c/dosunsa_8.jpg&quot;
+        srcset=&quot;/static/b21845035b004c4f21b94fb628a72762/65b1f/dosunsa_8.jpg 235w,
+/static/b21845035b004c4f21b94fb628a72762/9f638/dosunsa_8.jpg 470w,
+/static/b21845035b004c4f21b94fb628a72762/21c6c/dosunsa_8.jpg 940w,
+/static/b21845035b004c4f21b94fb628a72762/47ec1/dosunsa_8.jpg 1410w,
 /static/b21845035b004c4f21b94fb628a72762/9c588/dosunsa_8.jpg 1533w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1085,7 +1267,7 @@
 &lt;h2&gt;서른두번째, 8월 19일(월)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1102,14 +1284,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Spencer +2&quot;
         title=&quot;Spencer +2&quot;
-        src=&quot;/static/4ac66c0a2e7608fdaaacb6fd39b59421/a111b/10weeks_1.jpg&quot;
-        srcset=&quot;/static/4ac66c0a2e7608fdaaacb6fd39b59421/aca85/10weeks_1.jpg 163w,
-/static/4ac66c0a2e7608fdaaacb6fd39b59421/0954f/10weeks_1.jpg 325w,
-/static/4ac66c0a2e7608fdaaacb6fd39b59421/a111b/10weeks_1.jpg 650w,
-/static/4ac66c0a2e7608fdaaacb6fd39b59421/ce471/10weeks_1.jpg 975w,
-/static/4ac66c0a2e7608fdaaacb6fd39b59421/bee4e/10weeks_1.jpg 1300w,
+        src=&quot;/static/4ac66c0a2e7608fdaaacb6fd39b59421/21c6c/10weeks_1.jpg&quot;
+        srcset=&quot;/static/4ac66c0a2e7608fdaaacb6fd39b59421/65b1f/10weeks_1.jpg 235w,
+/static/4ac66c0a2e7608fdaaacb6fd39b59421/9f638/10weeks_1.jpg 470w,
+/static/4ac66c0a2e7608fdaaacb6fd39b59421/21c6c/10weeks_1.jpg 940w,
+/static/4ac66c0a2e7608fdaaacb6fd39b59421/47ec1/10weeks_1.jpg 1410w,
+/static/4ac66c0a2e7608fdaaacb6fd39b59421/335f9/10weeks_1.jpg 1880w,
 /static/4ac66c0a2e7608fdaaacb6fd39b59421/2b40c/10weeks_1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1147,7 +1329,7 @@
 &lt;h2&gt;서른세번째, 8월 21일(수)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1164,14 +1346,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Lamarck&quot;
         title=&quot;Lamarck&quot;
-        src=&quot;/static/01ed404abc1209cc1d9b3130d97fd81e/a111b/10weeks_2.jpg&quot;
-        srcset=&quot;/static/01ed404abc1209cc1d9b3130d97fd81e/aca85/10weeks_2.jpg 163w,
-/static/01ed404abc1209cc1d9b3130d97fd81e/0954f/10weeks_2.jpg 325w,
-/static/01ed404abc1209cc1d9b3130d97fd81e/a111b/10weeks_2.jpg 650w,
-/static/01ed404abc1209cc1d9b3130d97fd81e/ce471/10weeks_2.jpg 975w,
-/static/01ed404abc1209cc1d9b3130d97fd81e/bee4e/10weeks_2.jpg 1300w,
+        src=&quot;/static/01ed404abc1209cc1d9b3130d97fd81e/21c6c/10weeks_2.jpg&quot;
+        srcset=&quot;/static/01ed404abc1209cc1d9b3130d97fd81e/65b1f/10weeks_2.jpg 235w,
+/static/01ed404abc1209cc1d9b3130d97fd81e/9f638/10weeks_2.jpg 470w,
+/static/01ed404abc1209cc1d9b3130d97fd81e/21c6c/10weeks_2.jpg 940w,
+/static/01ed404abc1209cc1d9b3130d97fd81e/47ec1/10weeks_2.jpg 1410w,
+/static/01ed404abc1209cc1d9b3130d97fd81e/335f9/10weeks_2.jpg 1880w,
 /static/01ed404abc1209cc1d9b3130d97fd81e/2b40c/10weeks_2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1211,7 +1393,7 @@
 &lt;h2&gt;서른네번째, 8월 23일(금)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1228,14 +1410,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Leconte&quot;
         title=&quot;Leconte&quot;
-        src=&quot;/static/703ba75924d064e748a0a91c3bc11001/a111b/10weeks_3.jpg&quot;
-        srcset=&quot;/static/703ba75924d064e748a0a91c3bc11001/aca85/10weeks_3.jpg 163w,
-/static/703ba75924d064e748a0a91c3bc11001/0954f/10weeks_3.jpg 325w,
-/static/703ba75924d064e748a0a91c3bc11001/a111b/10weeks_3.jpg 650w,
-/static/703ba75924d064e748a0a91c3bc11001/ce471/10weeks_3.jpg 975w,
-/static/703ba75924d064e748a0a91c3bc11001/bee4e/10weeks_3.jpg 1300w,
+        src=&quot;/static/703ba75924d064e748a0a91c3bc11001/21c6c/10weeks_3.jpg&quot;
+        srcset=&quot;/static/703ba75924d064e748a0a91c3bc11001/65b1f/10weeks_3.jpg 235w,
+/static/703ba75924d064e748a0a91c3bc11001/9f638/10weeks_3.jpg 470w,
+/static/703ba75924d064e748a0a91c3bc11001/21c6c/10weeks_3.jpg 940w,
+/static/703ba75924d064e748a0a91c3bc11001/47ec1/10weeks_3.jpg 1410w,
+/static/703ba75924d064e748a0a91c3bc11001/335f9/10weeks_3.jpg 1880w,
 /static/703ba75924d064e748a0a91c3bc11001/2b40c/10weeks_3.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1367,7 +1549,7 @@
 &lt;h2&gt;서른번째, 8월 15일(월)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1384,14 +1566,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;한남나들목에서의 기다림&quot;
         title=&quot;한남나들목에서의 기다림&quot;
-        src=&quot;/static/3f1f61354092d8ec456a089b40f93bac/a111b/namsan_1.jpg&quot;
-        srcset=&quot;/static/3f1f61354092d8ec456a089b40f93bac/aca85/namsan_1.jpg 163w,
-/static/3f1f61354092d8ec456a089b40f93bac/0954f/namsan_1.jpg 325w,
-/static/3f1f61354092d8ec456a089b40f93bac/a111b/namsan_1.jpg 650w,
-/static/3f1f61354092d8ec456a089b40f93bac/ce471/namsan_1.jpg 975w,
-/static/3f1f61354092d8ec456a089b40f93bac/bee4e/namsan_1.jpg 1300w,
+        src=&quot;/static/3f1f61354092d8ec456a089b40f93bac/21c6c/namsan_1.jpg&quot;
+        srcset=&quot;/static/3f1f61354092d8ec456a089b40f93bac/65b1f/namsan_1.jpg 235w,
+/static/3f1f61354092d8ec456a089b40f93bac/9f638/namsan_1.jpg 470w,
+/static/3f1f61354092d8ec456a089b40f93bac/21c6c/namsan_1.jpg 940w,
+/static/3f1f61354092d8ec456a089b40f93bac/47ec1/namsan_1.jpg 1410w,
+/static/3f1f61354092d8ec456a089b40f93bac/335f9/namsan_1.jpg 1880w,
 /static/3f1f61354092d8ec456a089b40f93bac/2b40c/namsan_1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1402,7 +1584,7 @@
 &lt;p&gt;바로 남산으로 향했다. 남산까지 가는 길에 상훈이는 온갖 밑밥을 다 깐다. 잠을 별로 못잤다. 힘이 하나도 없다. 힘이 안들어간다. 물이 조금밖에 없다. 밥도 안먹고 왔다. 그러면서도 잘 탈꺼면 호들갑은. 그러려니 한다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1419,14 +1601,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;남산 정산에서 힘들어서 뻗음&quot;
         title=&quot;남산 정산에서 힘들어서 뻗음&quot;
-        src=&quot;/static/14ca09ef9a059c2777c66a43f35055a5/a111b/namsan_2.jpg&quot;
-        srcset=&quot;/static/14ca09ef9a059c2777c66a43f35055a5/aca85/namsan_2.jpg 163w,
-/static/14ca09ef9a059c2777c66a43f35055a5/0954f/namsan_2.jpg 325w,
-/static/14ca09ef9a059c2777c66a43f35055a5/a111b/namsan_2.jpg 650w,
-/static/14ca09ef9a059c2777c66a43f35055a5/ce471/namsan_2.jpg 975w,
-/static/14ca09ef9a059c2777c66a43f35055a5/bee4e/namsan_2.jpg 1300w,
+        src=&quot;/static/14ca09ef9a059c2777c66a43f35055a5/21c6c/namsan_2.jpg&quot;
+        srcset=&quot;/static/14ca09ef9a059c2777c66a43f35055a5/65b1f/namsan_2.jpg 235w,
+/static/14ca09ef9a059c2777c66a43f35055a5/9f638/namsan_2.jpg 470w,
+/static/14ca09ef9a059c2777c66a43f35055a5/21c6c/namsan_2.jpg 940w,
+/static/14ca09ef9a059c2777c66a43f35055a5/47ec1/namsan_2.jpg 1410w,
+/static/14ca09ef9a059c2777c66a43f35055a5/335f9/namsan_2.jpg 1880w,
 /static/14ca09ef9a059c2777c66a43f35055a5/2b40c/namsan_2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1434,7 +1616,7 @@
 &lt;p&gt;최근 라이딩에서 상훈이 북악 기록을 깨보려고 했었지만, 계속 실패했었다. 상훈이는 북악 기록을 세운 뒤에도 출퇴근 라이딩으로 단련이 되었을터였다. 그래서 나의 남산 기록도 가볍게 제껴질 것이라 예상했다. 그래도 혹시나 하는 마음에 열심히 페달을 굴렸다. 상훈이가 뒤에서 따라온다고 하니 오버페이스한 것 같다. 후반에 힘이 딸렸다. 중반 이후에 상훈이는 날 가볍게 제치고 쓩슝 달려간다. 아이고, 힘들어라. 역시나. 상훈이는 이쪽 동네 굇수다. 한달만에 탄다고 하는 은호. 몸이 가벼워서 그런지 공백기간이 있는 데도 불구하고, 잘 탄다. 다들 남산 6분대에 들어왔다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1451,21 +1633,20 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;상훈 안경을 써봄1&quot;
         title=&quot;상훈 안경을 써봄1&quot;
-        src=&quot;/static/d1a9240095d38538152c9b4d5682ddbf/a111b/namsan_3.jpg&quot;
-        srcset=&quot;/static/d1a9240095d38538152c9b4d5682ddbf/aca85/namsan_3.jpg 163w,
-/static/d1a9240095d38538152c9b4d5682ddbf/0954f/namsan_3.jpg 325w,
-/static/d1a9240095d38538152c9b4d5682ddbf/a111b/namsan_3.jpg 650w,
-/static/d1a9240095d38538152c9b4d5682ddbf/ce471/namsan_3.jpg 975w,
-/static/d1a9240095d38538152c9b4d5682ddbf/bee4e/namsan_3.jpg 1300w,
+        src=&quot;/static/d1a9240095d38538152c9b4d5682ddbf/21c6c/namsan_3.jpg&quot;
+        srcset=&quot;/static/d1a9240095d38538152c9b4d5682ddbf/65b1f/namsan_3.jpg 235w,
+/static/d1a9240095d38538152c9b4d5682ddbf/9f638/namsan_3.jpg 470w,
+/static/d1a9240095d38538152c9b4d5682ddbf/21c6c/namsan_3.jpg 940w,
+/static/d1a9240095d38538152c9b4d5682ddbf/47ec1/namsan_3.jpg 1410w,
 /static/d1a9240095d38538152c9b4d5682ddbf/0a443/namsan_3.jpg 1536w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1482,21 +1663,20 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;상훈 안경을 써봄2&quot;
         title=&quot;상훈 안경을 써봄2&quot;
-        src=&quot;/static/6bd28880ab4bf6c6deabeada15dc6bb9/a111b/namsan_4.jpg&quot;
-        srcset=&quot;/static/6bd28880ab4bf6c6deabeada15dc6bb9/aca85/namsan_4.jpg 163w,
-/static/6bd28880ab4bf6c6deabeada15dc6bb9/0954f/namsan_4.jpg 325w,
-/static/6bd28880ab4bf6c6deabeada15dc6bb9/a111b/namsan_4.jpg 650w,
-/static/6bd28880ab4bf6c6deabeada15dc6bb9/ce471/namsan_4.jpg 975w,
-/static/6bd28880ab4bf6c6deabeada15dc6bb9/bee4e/namsan_4.jpg 1300w,
+        src=&quot;/static/6bd28880ab4bf6c6deabeada15dc6bb9/21c6c/namsan_4.jpg&quot;
+        srcset=&quot;/static/6bd28880ab4bf6c6deabeada15dc6bb9/65b1f/namsan_4.jpg 235w,
+/static/6bd28880ab4bf6c6deabeada15dc6bb9/9f638/namsan_4.jpg 470w,
+/static/6bd28880ab4bf6c6deabeada15dc6bb9/21c6c/namsan_4.jpg 940w,
+/static/6bd28880ab4bf6c6deabeada15dc6bb9/47ec1/namsan_4.jpg 1410w,
 /static/6bd28880ab4bf6c6deabeada15dc6bb9/0a443/namsan_4.jpg 1536w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1513,14 +1693,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;나를 제껴서 기분 좋은 것 같은 상훈&quot;
         title=&quot;나를 제껴서 기분 좋은 것 같은 상훈&quot;
-        src=&quot;/static/21340e9cc6f7dbcc27e710cddf6bc993/a111b/namsan_5_1.jpg&quot;
-        srcset=&quot;/static/21340e9cc6f7dbcc27e710cddf6bc993/aca85/namsan_5_1.jpg 163w,
-/static/21340e9cc6f7dbcc27e710cddf6bc993/0954f/namsan_5_1.jpg 325w,
-/static/21340e9cc6f7dbcc27e710cddf6bc993/a111b/namsan_5_1.jpg 650w,
-/static/21340e9cc6f7dbcc27e710cddf6bc993/ce471/namsan_5_1.jpg 975w,
-/static/21340e9cc6f7dbcc27e710cddf6bc993/bee4e/namsan_5_1.jpg 1300w,
+        src=&quot;/static/21340e9cc6f7dbcc27e710cddf6bc993/21c6c/namsan_5_1.jpg&quot;
+        srcset=&quot;/static/21340e9cc6f7dbcc27e710cddf6bc993/65b1f/namsan_5_1.jpg 235w,
+/static/21340e9cc6f7dbcc27e710cddf6bc993/9f638/namsan_5_1.jpg 470w,
+/static/21340e9cc6f7dbcc27e710cddf6bc993/21c6c/namsan_5_1.jpg 940w,
+/static/21340e9cc6f7dbcc27e710cddf6bc993/47ec1/namsan_5_1.jpg 1410w,
+/static/21340e9cc6f7dbcc27e710cddf6bc993/335f9/namsan_5_1.jpg 1880w,
 /static/21340e9cc6f7dbcc27e710cddf6bc993/2b40c/namsan_5_1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1530,7 +1710,7 @@
 오늘은 살살살 내리는 빗방울, 선선한 바람과 산속에서 느껴지는 개운함이 너무 좋았다. 그리고 이 공간을 함께 할 수 있는 사람들이 있다는 것이 제일 좋았다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1547,21 +1727,20 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;광복절은 맞아 열심히 사진찍어준 은호에게 감사&quot;
         title=&quot;광복절은 맞아 열심히 사진찍어준 은호에게 감사&quot;
-        src=&quot;/static/71fe3db16d34064beea97cf16b1dff34/a111b/namsan_6.jpg&quot;
-        srcset=&quot;/static/71fe3db16d34064beea97cf16b1dff34/aca85/namsan_6.jpg 163w,
-/static/71fe3db16d34064beea97cf16b1dff34/0954f/namsan_6.jpg 325w,
-/static/71fe3db16d34064beea97cf16b1dff34/a111b/namsan_6.jpg 650w,
-/static/71fe3db16d34064beea97cf16b1dff34/ce471/namsan_6.jpg 975w,
-/static/71fe3db16d34064beea97cf16b1dff34/bee4e/namsan_6.jpg 1300w,
+        src=&quot;/static/71fe3db16d34064beea97cf16b1dff34/21c6c/namsan_6.jpg&quot;
+        srcset=&quot;/static/71fe3db16d34064beea97cf16b1dff34/65b1f/namsan_6.jpg 235w,
+/static/71fe3db16d34064beea97cf16b1dff34/9f638/namsan_6.jpg 470w,
+/static/71fe3db16d34064beea97cf16b1dff34/21c6c/namsan_6.jpg 940w,
+/static/71fe3db16d34064beea97cf16b1dff34/47ec1/namsan_6.jpg 1410w,
 /static/71fe3db16d34064beea97cf16b1dff34/9c588/namsan_6.jpg 1533w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1578,14 +1757,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;잠수교에서 오늘 멤버컷&quot;
         title=&quot;잠수교에서 오늘 멤버컷&quot;
-        src=&quot;/static/b0ee0f30743bb413b6f198f9140833b9/a111b/namsan_7.jpg&quot;
-        srcset=&quot;/static/b0ee0f30743bb413b6f198f9140833b9/aca85/namsan_7.jpg 163w,
-/static/b0ee0f30743bb413b6f198f9140833b9/0954f/namsan_7.jpg 325w,
-/static/b0ee0f30743bb413b6f198f9140833b9/a111b/namsan_7.jpg 650w,
-/static/b0ee0f30743bb413b6f198f9140833b9/ce471/namsan_7.jpg 975w,
-/static/b0ee0f30743bb413b6f198f9140833b9/bee4e/namsan_7.jpg 1300w,
+        src=&quot;/static/b0ee0f30743bb413b6f198f9140833b9/21c6c/namsan_7.jpg&quot;
+        srcset=&quot;/static/b0ee0f30743bb413b6f198f9140833b9/65b1f/namsan_7.jpg 235w,
+/static/b0ee0f30743bb413b6f198f9140833b9/9f638/namsan_7.jpg 470w,
+/static/b0ee0f30743bb413b6f198f9140833b9/21c6c/namsan_7.jpg 940w,
+/static/b0ee0f30743bb413b6f198f9140833b9/47ec1/namsan_7.jpg 1410w,
 /static/b0ee0f30743bb413b6f198f9140833b9/acda2/namsan_7.jpg 1538w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1624,7 +1802,7 @@
 &lt;h2&gt;스물여덟번째, 8월 12일(월)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1641,14 +1819,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Mills&quot;
         title=&quot;Mills&quot;
-        src=&quot;/static/f23e63ea384b945afa9c3f0664acbdb3/a111b/9weeks_1.jpg&quot;
-        srcset=&quot;/static/f23e63ea384b945afa9c3f0664acbdb3/aca85/9weeks_1.jpg 163w,
-/static/f23e63ea384b945afa9c3f0664acbdb3/0954f/9weeks_1.jpg 325w,
-/static/f23e63ea384b945afa9c3f0664acbdb3/a111b/9weeks_1.jpg 650w,
-/static/f23e63ea384b945afa9c3f0664acbdb3/ce471/9weeks_1.jpg 975w,
-/static/f23e63ea384b945afa9c3f0664acbdb3/bee4e/9weeks_1.jpg 1300w,
+        src=&quot;/static/f23e63ea384b945afa9c3f0664acbdb3/21c6c/9weeks_1.jpg&quot;
+        srcset=&quot;/static/f23e63ea384b945afa9c3f0664acbdb3/65b1f/9weeks_1.jpg 235w,
+/static/f23e63ea384b945afa9c3f0664acbdb3/9f638/9weeks_1.jpg 470w,
+/static/f23e63ea384b945afa9c3f0664acbdb3/21c6c/9weeks_1.jpg 940w,
+/static/f23e63ea384b945afa9c3f0664acbdb3/47ec1/9weeks_1.jpg 1410w,
+/static/f23e63ea384b945afa9c3f0664acbdb3/335f9/9weeks_1.jpg 1880w,
 /static/f23e63ea384b945afa9c3f0664acbdb3/2b40c/9weeks_1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1684,7 +1862,7 @@
 &lt;h2&gt;스물아홉번째, 8월 14일(수)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1701,14 +1879,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Darwin&quot;
         title=&quot;Darwin&quot;
-        src=&quot;/static/aabfca6f78e18be051ba4c6e562427df/a111b/9weeks_2.jpg&quot;
-        srcset=&quot;/static/aabfca6f78e18be051ba4c6e562427df/aca85/9weeks_2.jpg 163w,
-/static/aabfca6f78e18be051ba4c6e562427df/0954f/9weeks_2.jpg 325w,
-/static/aabfca6f78e18be051ba4c6e562427df/a111b/9weeks_2.jpg 650w,
-/static/aabfca6f78e18be051ba4c6e562427df/ce471/9weeks_2.jpg 975w,
-/static/aabfca6f78e18be051ba4c6e562427df/bee4e/9weeks_2.jpg 1300w,
+        src=&quot;/static/aabfca6f78e18be051ba4c6e562427df/21c6c/9weeks_2.jpg&quot;
+        srcset=&quot;/static/aabfca6f78e18be051ba4c6e562427df/65b1f/9weeks_2.jpg 235w,
+/static/aabfca6f78e18be051ba4c6e562427df/9f638/9weeks_2.jpg 470w,
+/static/aabfca6f78e18be051ba4c6e562427df/21c6c/9weeks_2.jpg 940w,
+/static/aabfca6f78e18be051ba4c6e562427df/47ec1/9weeks_2.jpg 1410w,
+/static/aabfca6f78e18be051ba4c6e562427df/335f9/9weeks_2.jpg 1880w,
 /static/aabfca6f78e18be051ba4c6e562427df/2b40c/9weeks_2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1744,7 +1922,7 @@
 &lt;h2&gt;서른한번째, 8월 16일(금)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1761,14 +1939,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Mary Austin -1&quot;
         title=&quot;Mary Austin -1&quot;
-        src=&quot;/static/c4dd8630f198d173eddbf189b38ca85d/a111b/9weeks_3.jpg&quot;
-        srcset=&quot;/static/c4dd8630f198d173eddbf189b38ca85d/aca85/9weeks_3.jpg 163w,
-/static/c4dd8630f198d173eddbf189b38ca85d/0954f/9weeks_3.jpg 325w,
-/static/c4dd8630f198d173eddbf189b38ca85d/a111b/9weeks_3.jpg 650w,
-/static/c4dd8630f198d173eddbf189b38ca85d/ce471/9weeks_3.jpg 975w,
-/static/c4dd8630f198d173eddbf189b38ca85d/bee4e/9weeks_3.jpg 1300w,
+        src=&quot;/static/c4dd8630f198d173eddbf189b38ca85d/21c6c/9weeks_3.jpg&quot;
+        srcset=&quot;/static/c4dd8630f198d173eddbf189b38ca85d/65b1f/9weeks_3.jpg 235w,
+/static/c4dd8630f198d173eddbf189b38ca85d/9f638/9weeks_3.jpg 470w,
+/static/c4dd8630f198d173eddbf189b38ca85d/21c6c/9weeks_3.jpg 940w,
+/static/c4dd8630f198d173eddbf189b38ca85d/47ec1/9weeks_3.jpg 1410w,
+/static/c4dd8630f198d173eddbf189b38ca85d/335f9/9weeks_3.jpg 1880w,
 /static/c4dd8630f198d173eddbf189b38ca85d/2b40c/9weeks_3.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1807,7 +1985,7 @@
 &lt;h2&gt;스물입곱번째, 8월 11일(일)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1824,14 +2002,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;남북악산 라이딩&quot;
         title=&quot;남북악산 라이딩&quot;
-        src=&quot;/static/d66cdce9baefe7fa0298adef9ccc7e78/a111b/namsan_1.jpg&quot;
-        srcset=&quot;/static/d66cdce9baefe7fa0298adef9ccc7e78/aca85/namsan_1.jpg 163w,
-/static/d66cdce9baefe7fa0298adef9ccc7e78/0954f/namsan_1.jpg 325w,
-/static/d66cdce9baefe7fa0298adef9ccc7e78/a111b/namsan_1.jpg 650w,
-/static/d66cdce9baefe7fa0298adef9ccc7e78/ce471/namsan_1.jpg 975w,
-/static/d66cdce9baefe7fa0298adef9ccc7e78/bee4e/namsan_1.jpg 1300w,
+        src=&quot;/static/d66cdce9baefe7fa0298adef9ccc7e78/21c6c/namsan_1.jpg&quot;
+        srcset=&quot;/static/d66cdce9baefe7fa0298adef9ccc7e78/65b1f/namsan_1.jpg 235w,
+/static/d66cdce9baefe7fa0298adef9ccc7e78/9f638/namsan_1.jpg 470w,
+/static/d66cdce9baefe7fa0298adef9ccc7e78/21c6c/namsan_1.jpg 940w,
+/static/d66cdce9baefe7fa0298adef9ccc7e78/47ec1/namsan_1.jpg 1410w,
+/static/d66cdce9baefe7fa0298adef9ccc7e78/335f9/namsan_1.jpg 1880w,
 /static/d66cdce9baefe7fa0298adef9ccc7e78/2b40c/namsan_1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -1841,7 +2019,7 @@
 역시 라이딩 중에 마시는 음료는 꿀맛이다. 오늘도 1+1 게토레이를 사서 마셨다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1858,21 +2036,21 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;남북악산 라이딩&quot;
         title=&quot;남북악산 라이딩&quot;
-        src=&quot;/static/e9bf3c2abfa0d8f840b0c864ea52d879/a111b/namsan_2.jpg&quot;
-        srcset=&quot;/static/e9bf3c2abfa0d8f840b0c864ea52d879/aca85/namsan_2.jpg 163w,
-/static/e9bf3c2abfa0d8f840b0c864ea52d879/0954f/namsan_2.jpg 325w,
-/static/e9bf3c2abfa0d8f840b0c864ea52d879/a111b/namsan_2.jpg 650w,
-/static/e9bf3c2abfa0d8f840b0c864ea52d879/ce471/namsan_2.jpg 975w,
-/static/e9bf3c2abfa0d8f840b0c864ea52d879/bee4e/namsan_2.jpg 1300w,
+        src=&quot;/static/e9bf3c2abfa0d8f840b0c864ea52d879/21c6c/namsan_2.jpg&quot;
+        srcset=&quot;/static/e9bf3c2abfa0d8f840b0c864ea52d879/65b1f/namsan_2.jpg 235w,
+/static/e9bf3c2abfa0d8f840b0c864ea52d879/9f638/namsan_2.jpg 470w,
+/static/e9bf3c2abfa0d8f840b0c864ea52d879/21c6c/namsan_2.jpg 940w,
+/static/e9bf3c2abfa0d8f840b0c864ea52d879/47ec1/namsan_2.jpg 1410w,
+/static/e9bf3c2abfa0d8f840b0c864ea52d879/335f9/namsan_2.jpg 1880w,
 /static/e9bf3c2abfa0d8f840b0c864ea52d879/2b40c/namsan_2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -1889,14 +2067,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;남북악산 라이딩&quot;
         title=&quot;남북악산 라이딩&quot;
-        src=&quot;/static/a48010a5fb7233fe14e0d87c475012ea/a111b/namsan_3.jpg&quot;
-        srcset=&quot;/static/a48010a5fb7233fe14e0d87c475012ea/aca85/namsan_3.jpg 163w,
-/static/a48010a5fb7233fe14e0d87c475012ea/0954f/namsan_3.jpg 325w,
-/static/a48010a5fb7233fe14e0d87c475012ea/a111b/namsan_3.jpg 650w,
-/static/a48010a5fb7233fe14e0d87c475012ea/ce471/namsan_3.jpg 975w,
-/static/a48010a5fb7233fe14e0d87c475012ea/bee4e/namsan_3.jpg 1300w,
+        src=&quot;/static/a48010a5fb7233fe14e0d87c475012ea/21c6c/namsan_3.jpg&quot;
+        srcset=&quot;/static/a48010a5fb7233fe14e0d87c475012ea/65b1f/namsan_3.jpg 235w,
+/static/a48010a5fb7233fe14e0d87c475012ea/9f638/namsan_3.jpg 470w,
+/static/a48010a5fb7233fe14e0d87c475012ea/21c6c/namsan_3.jpg 940w,
+/static/a48010a5fb7233fe14e0d87c475012ea/47ec1/namsan_3.jpg 1410w,
+/static/a48010a5fb7233fe14e0d87c475012ea/335f9/namsan_3.jpg 1880w,
 /static/a48010a5fb7233fe14e0d87c475012ea/2b40c/namsan_3.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2009,7 +2187,7 @@
 &lt;h2&gt;스물네번째, 8월 5일(월)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2026,14 +2204,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Bluebell&quot;
         title=&quot;Bluebell&quot;
-        src=&quot;/static/ad0f879960a87b8dc42dad37d452e3b1/a111b/8weeks-1.jpg&quot;
-        srcset=&quot;/static/ad0f879960a87b8dc42dad37d452e3b1/aca85/8weeks-1.jpg 163w,
-/static/ad0f879960a87b8dc42dad37d452e3b1/0954f/8weeks-1.jpg 325w,
-/static/ad0f879960a87b8dc42dad37d452e3b1/a111b/8weeks-1.jpg 650w,
-/static/ad0f879960a87b8dc42dad37d452e3b1/ce471/8weeks-1.jpg 975w,
-/static/ad0f879960a87b8dc42dad37d452e3b1/bee4e/8weeks-1.jpg 1300w,
+        src=&quot;/static/ad0f879960a87b8dc42dad37d452e3b1/21c6c/8weeks-1.jpg&quot;
+        srcset=&quot;/static/ad0f879960a87b8dc42dad37d452e3b1/65b1f/8weeks-1.jpg 235w,
+/static/ad0f879960a87b8dc42dad37d452e3b1/9f638/8weeks-1.jpg 470w,
+/static/ad0f879960a87b8dc42dad37d452e3b1/21c6c/8weeks-1.jpg 940w,
+/static/ad0f879960a87b8dc42dad37d452e3b1/47ec1/8weeks-1.jpg 1410w,
+/static/ad0f879960a87b8dc42dad37d452e3b1/335f9/8weeks-1.jpg 1880w,
 /static/ad0f879960a87b8dc42dad37d452e3b1/2b40c/8weeks-1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2069,7 +2247,7 @@
 &lt;h2&gt;스물다섯번째, 8월 7일(수)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2086,14 +2264,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Jepson&quot;
         title=&quot;Jepson&quot;
-        src=&quot;/static/308310fa143da6ad4f293b25f1868589/a111b/8weeks-2.jpg&quot;
-        srcset=&quot;/static/308310fa143da6ad4f293b25f1868589/aca85/8weeks-2.jpg 163w,
-/static/308310fa143da6ad4f293b25f1868589/0954f/8weeks-2.jpg 325w,
-/static/308310fa143da6ad4f293b25f1868589/a111b/8weeks-2.jpg 650w,
-/static/308310fa143da6ad4f293b25f1868589/ce471/8weeks-2.jpg 975w,
-/static/308310fa143da6ad4f293b25f1868589/bee4e/8weeks-2.jpg 1300w,
+        src=&quot;/static/308310fa143da6ad4f293b25f1868589/21c6c/8weeks-2.jpg&quot;
+        srcset=&quot;/static/308310fa143da6ad4f293b25f1868589/65b1f/8weeks-2.jpg 235w,
+/static/308310fa143da6ad4f293b25f1868589/9f638/8weeks-2.jpg 470w,
+/static/308310fa143da6ad4f293b25f1868589/21c6c/8weeks-2.jpg 940w,
+/static/308310fa143da6ad4f293b25f1868589/47ec1/8weeks-2.jpg 1410w,
+/static/308310fa143da6ad4f293b25f1868589/335f9/8weeks-2.jpg 1880w,
 /static/308310fa143da6ad4f293b25f1868589/2b40c/8weeks-2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2131,7 +2309,7 @@
 &lt;h2&gt;스물여섯번째, 8월 9일(금)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2148,14 +2326,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Palisade&quot;
         title=&quot;Palisade&quot;
-        src=&quot;/static/ee1313c278e9e4556f0f74ef9bec8bc8/a111b/8weeks-3.jpg&quot;
-        srcset=&quot;/static/ee1313c278e9e4556f0f74ef9bec8bc8/aca85/8weeks-3.jpg 163w,
-/static/ee1313c278e9e4556f0f74ef9bec8bc8/0954f/8weeks-3.jpg 325w,
-/static/ee1313c278e9e4556f0f74ef9bec8bc8/a111b/8weeks-3.jpg 650w,
-/static/ee1313c278e9e4556f0f74ef9bec8bc8/ce471/8weeks-3.jpg 975w,
-/static/ee1313c278e9e4556f0f74ef9bec8bc8/bee4e/8weeks-3.jpg 1300w,
+        src=&quot;/static/ee1313c278e9e4556f0f74ef9bec8bc8/21c6c/8weeks-3.jpg&quot;
+        srcset=&quot;/static/ee1313c278e9e4556f0f74ef9bec8bc8/65b1f/8weeks-3.jpg 235w,
+/static/ee1313c278e9e4556f0f74ef9bec8bc8/9f638/8weeks-3.jpg 470w,
+/static/ee1313c278e9e4556f0f74ef9bec8bc8/21c6c/8weeks-3.jpg 940w,
+/static/ee1313c278e9e4556f0f74ef9bec8bc8/47ec1/8weeks-3.jpg 1410w,
+/static/ee1313c278e9e4556f0f74ef9bec8bc8/335f9/8weeks-3.jpg 1880w,
 /static/ee1313c278e9e4556f0f74ef9bec8bc8/2b40c/8weeks-3.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2291,7 +2469,7 @@
 &lt;h2&gt;스물세번째, 8월 3일(토)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2308,14 +2486,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;자전거도 타고, 나도 탄다. 남산북악 라이딩&quot;
         title=&quot;자전거도 타고, 나도 탄다. 남산북악 라이딩&quot;
-        src=&quot;/static/0e606a3ebaa32a5a6b9fb7988f3770b7/a111b/bukak-1.jpg&quot;
-        srcset=&quot;/static/0e606a3ebaa32a5a6b9fb7988f3770b7/aca85/bukak-1.jpg 163w,
-/static/0e606a3ebaa32a5a6b9fb7988f3770b7/0954f/bukak-1.jpg 325w,
-/static/0e606a3ebaa32a5a6b9fb7988f3770b7/a111b/bukak-1.jpg 650w,
-/static/0e606a3ebaa32a5a6b9fb7988f3770b7/ce471/bukak-1.jpg 975w,
-/static/0e606a3ebaa32a5a6b9fb7988f3770b7/bee4e/bukak-1.jpg 1300w,
+        src=&quot;/static/0e606a3ebaa32a5a6b9fb7988f3770b7/21c6c/bukak-1.jpg&quot;
+        srcset=&quot;/static/0e606a3ebaa32a5a6b9fb7988f3770b7/65b1f/bukak-1.jpg 235w,
+/static/0e606a3ebaa32a5a6b9fb7988f3770b7/9f638/bukak-1.jpg 470w,
+/static/0e606a3ebaa32a5a6b9fb7988f3770b7/21c6c/bukak-1.jpg 940w,
+/static/0e606a3ebaa32a5a6b9fb7988f3770b7/47ec1/bukak-1.jpg 1410w,
+/static/0e606a3ebaa32a5a6b9fb7988f3770b7/335f9/bukak-1.jpg 1880w,
 /static/0e606a3ebaa32a5a6b9fb7988f3770b7/2b40c/bukak-1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2325,7 +2503,7 @@
 &lt;p&gt;역시 남산답게, 이른 시간인데도 사람들이 많다. 덕분에 외롭지 않은 라이딩이다. 졸졸 따라가며 남산 입구까지 도착. 호흡을 가다듬고, 페달링을 시작했다. 이전에 왔을 때보다 확실히 수월하다. 굿굳. 근육을 이리썼다, 저리썼다 해봤다. 마지막엔 댄싱으로 마무리했다. 쉬지 않고, 다운힐을 하고 나서, 한바퀴 더 돌았다. 시간이 지날 수록 체력도 떨어지고, 점점 더 더워진다. 편의점에서 시원한 콜라를 먹어야겠다 생각했다. 어라? 남산 정상에 도착했는데, 편의점 문이 안열려있있다. 주말엔 안하는 것인가...?&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2342,14 +2520,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;자전거도 타고, 나도 탄다. 남산북악 라이딩&quot;
         title=&quot;자전거도 타고, 나도 탄다. 남산북악 라이딩&quot;
-        src=&quot;/static/39e5e970cb0a96f465591f0ceb83bb4a/a111b/bukak-2.jpg&quot;
-        srcset=&quot;/static/39e5e970cb0a96f465591f0ceb83bb4a/aca85/bukak-2.jpg 163w,
-/static/39e5e970cb0a96f465591f0ceb83bb4a/0954f/bukak-2.jpg 325w,
-/static/39e5e970cb0a96f465591f0ceb83bb4a/a111b/bukak-2.jpg 650w,
-/static/39e5e970cb0a96f465591f0ceb83bb4a/ce471/bukak-2.jpg 975w,
-/static/39e5e970cb0a96f465591f0ceb83bb4a/bee4e/bukak-2.jpg 1300w,
+        src=&quot;/static/39e5e970cb0a96f465591f0ceb83bb4a/21c6c/bukak-2.jpg&quot;
+        srcset=&quot;/static/39e5e970cb0a96f465591f0ceb83bb4a/65b1f/bukak-2.jpg 235w,
+/static/39e5e970cb0a96f465591f0ceb83bb4a/9f638/bukak-2.jpg 470w,
+/static/39e5e970cb0a96f465591f0ceb83bb4a/21c6c/bukak-2.jpg 940w,
+/static/39e5e970cb0a96f465591f0ceb83bb4a/47ec1/bukak-2.jpg 1410w,
+/static/39e5e970cb0a96f465591f0ceb83bb4a/335f9/bukak-2.jpg 1880w,
 /static/39e5e970cb0a96f465591f0ceb83bb4a/2b40c/bukak-2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2389,7 +2567,7 @@
 &lt;h2&gt;스무번째, 7월 29일(월)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2406,14 +2584,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Taylor -2&quot;
         title=&quot;Taylor -2&quot;
-        src=&quot;/static/75026f6ab27ebbf2302e8248cc01c4c1/a111b/7weeks-1.jpg&quot;
-        srcset=&quot;/static/75026f6ab27ebbf2302e8248cc01c4c1/aca85/7weeks-1.jpg 163w,
-/static/75026f6ab27ebbf2302e8248cc01c4c1/0954f/7weeks-1.jpg 325w,
-/static/75026f6ab27ebbf2302e8248cc01c4c1/a111b/7weeks-1.jpg 650w,
-/static/75026f6ab27ebbf2302e8248cc01c4c1/ce471/7weeks-1.jpg 975w,
-/static/75026f6ab27ebbf2302e8248cc01c4c1/bee4e/7weeks-1.jpg 1300w,
+        src=&quot;/static/75026f6ab27ebbf2302e8248cc01c4c1/21c6c/7weeks-1.jpg&quot;
+        srcset=&quot;/static/75026f6ab27ebbf2302e8248cc01c4c1/65b1f/7weeks-1.jpg 235w,
+/static/75026f6ab27ebbf2302e8248cc01c4c1/9f638/7weeks-1.jpg 470w,
+/static/75026f6ab27ebbf2302e8248cc01c4c1/21c6c/7weeks-1.jpg 940w,
+/static/75026f6ab27ebbf2302e8248cc01c4c1/47ec1/7weeks-1.jpg 1410w,
+/static/75026f6ab27ebbf2302e8248cc01c4c1/335f9/7weeks-1.jpg 1880w,
 /static/75026f6ab27ebbf2302e8248cc01c4c1/2b40c/7weeks-1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2450,7 +2628,7 @@
 &lt;h2&gt;스물한번째, 7월 31일(수)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2467,14 +2645,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Donner&quot;
         title=&quot;Donner&quot;
-        src=&quot;/static/d16b6085c79f9ffeb96eb642228bdfc7/a111b/7weeks-2.jpg&quot;
-        srcset=&quot;/static/d16b6085c79f9ffeb96eb642228bdfc7/aca85/7weeks-2.jpg 163w,
-/static/d16b6085c79f9ffeb96eb642228bdfc7/0954f/7weeks-2.jpg 325w,
-/static/d16b6085c79f9ffeb96eb642228bdfc7/a111b/7weeks-2.jpg 650w,
-/static/d16b6085c79f9ffeb96eb642228bdfc7/ce471/7weeks-2.jpg 975w,
-/static/d16b6085c79f9ffeb96eb642228bdfc7/bee4e/7weeks-2.jpg 1300w,
+        src=&quot;/static/d16b6085c79f9ffeb96eb642228bdfc7/21c6c/7weeks-2.jpg&quot;
+        srcset=&quot;/static/d16b6085c79f9ffeb96eb642228bdfc7/65b1f/7weeks-2.jpg 235w,
+/static/d16b6085c79f9ffeb96eb642228bdfc7/9f638/7weeks-2.jpg 470w,
+/static/d16b6085c79f9ffeb96eb642228bdfc7/21c6c/7weeks-2.jpg 940w,
+/static/d16b6085c79f9ffeb96eb642228bdfc7/47ec1/7weeks-2.jpg 1410w,
+/static/d16b6085c79f9ffeb96eb642228bdfc7/335f9/7weeks-2.jpg 1880w,
 /static/d16b6085c79f9ffeb96eb642228bdfc7/2b40c/7weeks-2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2512,7 +2690,7 @@
 &lt;h2&gt;스물두번째, 8월 2일(금)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2529,14 +2707,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Clark&quot;
         title=&quot;Clark&quot;
-        src=&quot;/static/421da8ed495e5ad68de701d1b5615eb3/a111b/7weeks-4.jpg&quot;
-        srcset=&quot;/static/421da8ed495e5ad68de701d1b5615eb3/aca85/7weeks-4.jpg 163w,
-/static/421da8ed495e5ad68de701d1b5615eb3/0954f/7weeks-4.jpg 325w,
-/static/421da8ed495e5ad68de701d1b5615eb3/a111b/7weeks-4.jpg 650w,
-/static/421da8ed495e5ad68de701d1b5615eb3/ce471/7weeks-4.jpg 975w,
-/static/421da8ed495e5ad68de701d1b5615eb3/bee4e/7weeks-4.jpg 1300w,
+        src=&quot;/static/421da8ed495e5ad68de701d1b5615eb3/21c6c/7weeks-4.jpg&quot;
+        srcset=&quot;/static/421da8ed495e5ad68de701d1b5615eb3/65b1f/7weeks-4.jpg 235w,
+/static/421da8ed495e5ad68de701d1b5615eb3/9f638/7weeks-4.jpg 470w,
+/static/421da8ed495e5ad68de701d1b5615eb3/21c6c/7weeks-4.jpg 940w,
+/static/421da8ed495e5ad68de701d1b5615eb3/47ec1/7weeks-4.jpg 1410w,
+/static/421da8ed495e5ad68de701d1b5615eb3/335f9/7weeks-4.jpg 1880w,
 /static/421da8ed495e5ad68de701d1b5615eb3/2b40c/7weeks-4.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2591,7 +2769,7 @@
 &lt;h2&gt;열입곱번째, 7월 22일(월)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2608,14 +2786,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Ramp Test&quot;
         title=&quot;Ramp Test&quot;
-        src=&quot;/static/871789ba684b0e8d80a683962bc0e94d/a111b/6weeks-1.jpg&quot;
-        srcset=&quot;/static/871789ba684b0e8d80a683962bc0e94d/aca85/6weeks-1.jpg 163w,
-/static/871789ba684b0e8d80a683962bc0e94d/0954f/6weeks-1.jpg 325w,
-/static/871789ba684b0e8d80a683962bc0e94d/a111b/6weeks-1.jpg 650w,
-/static/871789ba684b0e8d80a683962bc0e94d/ce471/6weeks-1.jpg 975w,
-/static/871789ba684b0e8d80a683962bc0e94d/bee4e/6weeks-1.jpg 1300w,
+        src=&quot;/static/871789ba684b0e8d80a683962bc0e94d/21c6c/6weeks-1.jpg&quot;
+        srcset=&quot;/static/871789ba684b0e8d80a683962bc0e94d/65b1f/6weeks-1.jpg 235w,
+/static/871789ba684b0e8d80a683962bc0e94d/9f638/6weeks-1.jpg 470w,
+/static/871789ba684b0e8d80a683962bc0e94d/21c6c/6weeks-1.jpg 940w,
+/static/871789ba684b0e8d80a683962bc0e94d/47ec1/6weeks-1.jpg 1410w,
+/static/871789ba684b0e8d80a683962bc0e94d/335f9/6weeks-1.jpg 1880w,
 /static/871789ba684b0e8d80a683962bc0e94d/2b40c/6weeks-1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2651,7 +2829,7 @@
 &lt;h2&gt;열여덟번째, 7월 24일(수)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2668,14 +2846,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Ebbetts&quot;
         title=&quot;Ebbetts&quot;
-        src=&quot;/static/703a69e6bd533a007bbace94b349600f/a111b/6weeks-2.jpg&quot;
-        srcset=&quot;/static/703a69e6bd533a007bbace94b349600f/aca85/6weeks-2.jpg 163w,
-/static/703a69e6bd533a007bbace94b349600f/0954f/6weeks-2.jpg 325w,
-/static/703a69e6bd533a007bbace94b349600f/a111b/6weeks-2.jpg 650w,
-/static/703a69e6bd533a007bbace94b349600f/ce471/6weeks-2.jpg 975w,
-/static/703a69e6bd533a007bbace94b349600f/bee4e/6weeks-2.jpg 1300w,
+        src=&quot;/static/703a69e6bd533a007bbace94b349600f/21c6c/6weeks-2.jpg&quot;
+        srcset=&quot;/static/703a69e6bd533a007bbace94b349600f/65b1f/6weeks-2.jpg 235w,
+/static/703a69e6bd533a007bbace94b349600f/9f638/6weeks-2.jpg 470w,
+/static/703a69e6bd533a007bbace94b349600f/21c6c/6weeks-2.jpg 940w,
+/static/703a69e6bd533a007bbace94b349600f/47ec1/6weeks-2.jpg 1410w,
+/static/703a69e6bd533a007bbace94b349600f/335f9/6weeks-2.jpg 1880w,
 /static/703a69e6bd533a007bbace94b349600f/2b40c/6weeks-2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2711,7 +2889,7 @@
 &lt;h2&gt;열아홉번째, 7월 26일(금)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2728,14 +2906,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Kaweah&quot;
         title=&quot;Kaweah&quot;
-        src=&quot;/static/2994625b913baaf117959d80ff8018ba/a111b/6weeks-3.jpg&quot;
-        srcset=&quot;/static/2994625b913baaf117959d80ff8018ba/aca85/6weeks-3.jpg 163w,
-/static/2994625b913baaf117959d80ff8018ba/0954f/6weeks-3.jpg 325w,
-/static/2994625b913baaf117959d80ff8018ba/a111b/6weeks-3.jpg 650w,
-/static/2994625b913baaf117959d80ff8018ba/ce471/6weeks-3.jpg 975w,
-/static/2994625b913baaf117959d80ff8018ba/bee4e/6weeks-3.jpg 1300w,
+        src=&quot;/static/2994625b913baaf117959d80ff8018ba/21c6c/6weeks-3.jpg&quot;
+        srcset=&quot;/static/2994625b913baaf117959d80ff8018ba/65b1f/6weeks-3.jpg 235w,
+/static/2994625b913baaf117959d80ff8018ba/9f638/6weeks-3.jpg 470w,
+/static/2994625b913baaf117959d80ff8018ba/21c6c/6weeks-3.jpg 940w,
+/static/2994625b913baaf117959d80ff8018ba/47ec1/6weeks-3.jpg 1410w,
+/static/2994625b913baaf117959d80ff8018ba/335f9/6weeks-3.jpg 1880w,
 /static/2994625b913baaf117959d80ff8018ba/2b40c/6weeks-3.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2908,7 +3086,7 @@
 &lt;h2&gt;열네번째, 7월 15일(월)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2925,14 +3103,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Carillon&quot;
         title=&quot;Carillon&quot;
-        src=&quot;/static/552046145ef681a80d4a95af4dda3528/a111b/5weeks-1.jpg&quot;
-        srcset=&quot;/static/552046145ef681a80d4a95af4dda3528/aca85/5weeks-1.jpg 163w,
-/static/552046145ef681a80d4a95af4dda3528/0954f/5weeks-1.jpg 325w,
-/static/552046145ef681a80d4a95af4dda3528/a111b/5weeks-1.jpg 650w,
-/static/552046145ef681a80d4a95af4dda3528/ce471/5weeks-1.jpg 975w,
-/static/552046145ef681a80d4a95af4dda3528/bee4e/5weeks-1.jpg 1300w,
+        src=&quot;/static/552046145ef681a80d4a95af4dda3528/21c6c/5weeks-1.jpg&quot;
+        srcset=&quot;/static/552046145ef681a80d4a95af4dda3528/65b1f/5weeks-1.jpg 235w,
+/static/552046145ef681a80d4a95af4dda3528/9f638/5weeks-1.jpg 470w,
+/static/552046145ef681a80d4a95af4dda3528/21c6c/5weeks-1.jpg 940w,
+/static/552046145ef681a80d4a95af4dda3528/47ec1/5weeks-1.jpg 1410w,
+/static/552046145ef681a80d4a95af4dda3528/335f9/5weeks-1.jpg 1880w,
 /static/552046145ef681a80d4a95af4dda3528/2b40c/5weeks-1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -2966,7 +3144,7 @@
 &lt;h2&gt;열다섯번째, 7월 17일(수)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -2983,14 +3161,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Tallac&quot;
         title=&quot;Tallac&quot;
-        src=&quot;/static/fd944a982c9d716f8ce98241101379bd/a111b/5weeks-2.jpg&quot;
-        srcset=&quot;/static/fd944a982c9d716f8ce98241101379bd/aca85/5weeks-2.jpg 163w,
-/static/fd944a982c9d716f8ce98241101379bd/0954f/5weeks-2.jpg 325w,
-/static/fd944a982c9d716f8ce98241101379bd/a111b/5weeks-2.jpg 650w,
-/static/fd944a982c9d716f8ce98241101379bd/ce471/5weeks-2.jpg 975w,
-/static/fd944a982c9d716f8ce98241101379bd/bee4e/5weeks-2.jpg 1300w,
+        src=&quot;/static/fd944a982c9d716f8ce98241101379bd/21c6c/5weeks-2.jpg&quot;
+        srcset=&quot;/static/fd944a982c9d716f8ce98241101379bd/65b1f/5weeks-2.jpg 235w,
+/static/fd944a982c9d716f8ce98241101379bd/9f638/5weeks-2.jpg 470w,
+/static/fd944a982c9d716f8ce98241101379bd/21c6c/5weeks-2.jpg 940w,
+/static/fd944a982c9d716f8ce98241101379bd/47ec1/5weeks-2.jpg 1410w,
+/static/fd944a982c9d716f8ce98241101379bd/335f9/5weeks-2.jpg 1880w,
 /static/fd944a982c9d716f8ce98241101379bd/2b40c/5weeks-2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3024,7 +3202,7 @@
 &lt;h2&gt;열여섯번째, 7월 19일(금)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3041,14 +3219,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Palisade&quot;
         title=&quot;Palisade&quot;
-        src=&quot;/static/f8728f78d76faba8a4a6fdb147d3d3fc/a111b/5weeks-4.jpg&quot;
-        srcset=&quot;/static/f8728f78d76faba8a4a6fdb147d3d3fc/aca85/5weeks-4.jpg 163w,
-/static/f8728f78d76faba8a4a6fdb147d3d3fc/0954f/5weeks-4.jpg 325w,
-/static/f8728f78d76faba8a4a6fdb147d3d3fc/a111b/5weeks-4.jpg 650w,
-/static/f8728f78d76faba8a4a6fdb147d3d3fc/ce471/5weeks-4.jpg 975w,
-/static/f8728f78d76faba8a4a6fdb147d3d3fc/bee4e/5weeks-4.jpg 1300w,
+        src=&quot;/static/f8728f78d76faba8a4a6fdb147d3d3fc/21c6c/5weeks-4.jpg&quot;
+        srcset=&quot;/static/f8728f78d76faba8a4a6fdb147d3d3fc/65b1f/5weeks-4.jpg 235w,
+/static/f8728f78d76faba8a4a6fdb147d3d3fc/9f638/5weeks-4.jpg 470w,
+/static/f8728f78d76faba8a4a6fdb147d3d3fc/21c6c/5weeks-4.jpg 940w,
+/static/f8728f78d76faba8a4a6fdb147d3d3fc/47ec1/5weeks-4.jpg 1410w,
+/static/f8728f78d76faba8a4a6fdb147d3d3fc/335f9/5weeks-4.jpg 1880w,
 /static/f8728f78d76faba8a4a6fdb147d3d3fc/2b40c/5weeks-4.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3084,7 +3262,7 @@
 &lt;h2&gt;열세번째, 7월 13일(토)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3101,21 +3279,20 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;쭉쭉 달리는 한강 라이딩&quot;
         title=&quot;쭉쭉 달리는 한강 라이딩&quot;
-        src=&quot;/static/4740e9560e4cbcedb0b4c4195a6f32e5/a111b/hangang-1.jpg&quot;
-        srcset=&quot;/static/4740e9560e4cbcedb0b4c4195a6f32e5/aca85/hangang-1.jpg 163w,
-/static/4740e9560e4cbcedb0b4c4195a6f32e5/0954f/hangang-1.jpg 325w,
-/static/4740e9560e4cbcedb0b4c4195a6f32e5/a111b/hangang-1.jpg 650w,
-/static/4740e9560e4cbcedb0b4c4195a6f32e5/ce471/hangang-1.jpg 975w,
-/static/4740e9560e4cbcedb0b4c4195a6f32e5/bee4e/hangang-1.jpg 1300w,
+        src=&quot;/static/4740e9560e4cbcedb0b4c4195a6f32e5/21c6c/hangang-1.jpg&quot;
+        srcset=&quot;/static/4740e9560e4cbcedb0b4c4195a6f32e5/65b1f/hangang-1.jpg 235w,
+/static/4740e9560e4cbcedb0b4c4195a6f32e5/9f638/hangang-1.jpg 470w,
+/static/4740e9560e4cbcedb0b4c4195a6f32e5/21c6c/hangang-1.jpg 940w,
+/static/4740e9560e4cbcedb0b4c4195a6f32e5/47ec1/hangang-1.jpg 1410w,
 /static/4740e9560e4cbcedb0b4c4195a6f32e5/9c588/hangang-1.jpg 1533w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3132,14 +3309,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;쭉쭉 달리는 한강 라이딩&quot;
         title=&quot;쭉쭉 달리는 한강 라이딩&quot;
-        src=&quot;/static/652550458dbc5f46699fe7f11f5c4c79/a111b/hangang-2.jpg&quot;
-        srcset=&quot;/static/652550458dbc5f46699fe7f11f5c4c79/aca85/hangang-2.jpg 163w,
-/static/652550458dbc5f46699fe7f11f5c4c79/0954f/hangang-2.jpg 325w,
-/static/652550458dbc5f46699fe7f11f5c4c79/a111b/hangang-2.jpg 650w,
-/static/652550458dbc5f46699fe7f11f5c4c79/ce471/hangang-2.jpg 975w,
-/static/652550458dbc5f46699fe7f11f5c4c79/bee4e/hangang-2.jpg 1300w,
+        src=&quot;/static/652550458dbc5f46699fe7f11f5c4c79/21c6c/hangang-2.jpg&quot;
+        srcset=&quot;/static/652550458dbc5f46699fe7f11f5c4c79/65b1f/hangang-2.jpg 235w,
+/static/652550458dbc5f46699fe7f11f5c4c79/9f638/hangang-2.jpg 470w,
+/static/652550458dbc5f46699fe7f11f5c4c79/21c6c/hangang-2.jpg 940w,
+/static/652550458dbc5f46699fe7f11f5c4c79/47ec1/hangang-2.jpg 1410w,
 /static/652550458dbc5f46699fe7f11f5c4c79/0a443/hangang-2.jpg 1536w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3149,7 +3325,7 @@
 &lt;p&gt;은호는 힘이 넘쳤다. 은호와 만난 뒤로 쭉 35-40 속도로 갔다. 1/3 지점 이후부터는 30-35로 달렸다. 그래도 꾸준히 30 이상은 달렸던 것 같다. 2/3 지점까지는 대부분 은호가 끌었다. 은호가 힘이 빠졌는지 남은 1/3 정도는 내가 주로 끌었던 것 같다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3166,21 +3342,21 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;쭉쭉 달리는 한강 라이딩&quot;
         title=&quot;쭉쭉 달리는 한강 라이딩&quot;
-        src=&quot;/static/70abee99e15445fdb75eb82f176112e2/a111b/hangang-3.jpg&quot;
-        srcset=&quot;/static/70abee99e15445fdb75eb82f176112e2/aca85/hangang-3.jpg 163w,
-/static/70abee99e15445fdb75eb82f176112e2/0954f/hangang-3.jpg 325w,
-/static/70abee99e15445fdb75eb82f176112e2/a111b/hangang-3.jpg 650w,
-/static/70abee99e15445fdb75eb82f176112e2/ce471/hangang-3.jpg 975w,
-/static/70abee99e15445fdb75eb82f176112e2/bee4e/hangang-3.jpg 1300w,
+        src=&quot;/static/70abee99e15445fdb75eb82f176112e2/21c6c/hangang-3.jpg&quot;
+        srcset=&quot;/static/70abee99e15445fdb75eb82f176112e2/65b1f/hangang-3.jpg 235w,
+/static/70abee99e15445fdb75eb82f176112e2/9f638/hangang-3.jpg 470w,
+/static/70abee99e15445fdb75eb82f176112e2/21c6c/hangang-3.jpg 940w,
+/static/70abee99e15445fdb75eb82f176112e2/47ec1/hangang-3.jpg 1410w,
+/static/70abee99e15445fdb75eb82f176112e2/335f9/hangang-3.jpg 1880w,
 /static/70abee99e15445fdb75eb82f176112e2/2b40c/hangang-3.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3197,14 +3373,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;쭉쭉 달리는 한강 라이딩&quot;
         title=&quot;쭉쭉 달리는 한강 라이딩&quot;
-        src=&quot;/static/c6926556963da6c3d628e5378afb332c/a111b/hangang-4.jpg&quot;
-        srcset=&quot;/static/c6926556963da6c3d628e5378afb332c/aca85/hangang-4.jpg 163w,
-/static/c6926556963da6c3d628e5378afb332c/0954f/hangang-4.jpg 325w,
-/static/c6926556963da6c3d628e5378afb332c/a111b/hangang-4.jpg 650w,
-/static/c6926556963da6c3d628e5378afb332c/ce471/hangang-4.jpg 975w,
-/static/c6926556963da6c3d628e5378afb332c/bee4e/hangang-4.jpg 1300w,
+        src=&quot;/static/c6926556963da6c3d628e5378afb332c/21c6c/hangang-4.jpg&quot;
+        srcset=&quot;/static/c6926556963da6c3d628e5378afb332c/65b1f/hangang-4.jpg 235w,
+/static/c6926556963da6c3d628e5378afb332c/9f638/hangang-4.jpg 470w,
+/static/c6926556963da6c3d628e5378afb332c/21c6c/hangang-4.jpg 940w,
+/static/c6926556963da6c3d628e5378afb332c/47ec1/hangang-4.jpg 1410w,
+/static/c6926556963da6c3d628e5378afb332c/335f9/hangang-4.jpg 1880w,
 /static/c6926556963da6c3d628e5378afb332c/2b40c/hangang-4.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3213,7 +3389,7 @@
 &lt;p&gt;체력이 좀 오른 것 같다. 요새 꾸준히 타려고 하다보니 힘이 조금 더 붙었다. 예전보다 평속도 조금 올랐다. 평지에서 꾸준한 속도로 달리는 것이 예전보다 덜 힘들다. 서울을 조금 벗어나서 사람이 뜸한 자전거길을 달리는 것이 무척이나 재밌었다. 앞장서서 달리던 사람들을 한 사람씩 한사람씩 따라잡는 것이 재밌었다. 바람을 가르며 달리고 있을 때의 시원한 바람이 너무 좋았다. 탈 수 있을 때 타자.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3230,14 +3406,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;쭉쭉 달리는 한강 라이딩&quot;
         title=&quot;쭉쭉 달리는 한강 라이딩&quot;
-        src=&quot;/static/cf8bb0d8723cfffe69685cfa5163a607/a111b/hangang-5.jpg&quot;
-        srcset=&quot;/static/cf8bb0d8723cfffe69685cfa5163a607/aca85/hangang-5.jpg 163w,
-/static/cf8bb0d8723cfffe69685cfa5163a607/0954f/hangang-5.jpg 325w,
-/static/cf8bb0d8723cfffe69685cfa5163a607/a111b/hangang-5.jpg 650w,
-/static/cf8bb0d8723cfffe69685cfa5163a607/ce471/hangang-5.jpg 975w,
-/static/cf8bb0d8723cfffe69685cfa5163a607/bee4e/hangang-5.jpg 1300w,
+        src=&quot;/static/cf8bb0d8723cfffe69685cfa5163a607/21c6c/hangang-5.jpg&quot;
+        srcset=&quot;/static/cf8bb0d8723cfffe69685cfa5163a607/65b1f/hangang-5.jpg 235w,
+/static/cf8bb0d8723cfffe69685cfa5163a607/9f638/hangang-5.jpg 470w,
+/static/cf8bb0d8723cfffe69685cfa5163a607/21c6c/hangang-5.jpg 940w,
+/static/cf8bb0d8723cfffe69685cfa5163a607/47ec1/hangang-5.jpg 1410w,
 /static/cf8bb0d8723cfffe69685cfa5163a607/9c588/hangang-5.jpg 1533w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3270,7 +3445,7 @@
 &lt;h2&gt;열번째, 7월 8일(월)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3287,14 +3462,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Tunnabora&quot;
         title=&quot;Tunnabora&quot;
-        src=&quot;/static/99228b085feff3629f325d20d5379904/a111b/4weeks-1.jpg&quot;
-        srcset=&quot;/static/99228b085feff3629f325d20d5379904/aca85/4weeks-1.jpg 163w,
-/static/99228b085feff3629f325d20d5379904/0954f/4weeks-1.jpg 325w,
-/static/99228b085feff3629f325d20d5379904/a111b/4weeks-1.jpg 650w,
-/static/99228b085feff3629f325d20d5379904/ce471/4weeks-1.jpg 975w,
-/static/99228b085feff3629f325d20d5379904/bee4e/4weeks-1.jpg 1300w,
+        src=&quot;/static/99228b085feff3629f325d20d5379904/21c6c/4weeks-1.jpg&quot;
+        srcset=&quot;/static/99228b085feff3629f325d20d5379904/65b1f/4weeks-1.jpg 235w,
+/static/99228b085feff3629f325d20d5379904/9f638/4weeks-1.jpg 470w,
+/static/99228b085feff3629f325d20d5379904/21c6c/4weeks-1.jpg 940w,
+/static/99228b085feff3629f325d20d5379904/47ec1/4weeks-1.jpg 1410w,
+/static/99228b085feff3629f325d20d5379904/335f9/4weeks-1.jpg 1880w,
 /static/99228b085feff3629f325d20d5379904/2b40c/4weeks-1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3324,7 +3499,7 @@
 &lt;h2&gt;열한번째, 7월 10일(수)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3341,14 +3516,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Geiger&quot;
         title=&quot;Geiger&quot;
-        src=&quot;/static/900ee3a9024a25d5a5f378ecaab6c19e/a111b/4weeks-2.jpg&quot;
-        srcset=&quot;/static/900ee3a9024a25d5a5f378ecaab6c19e/aca85/4weeks-2.jpg 163w,
-/static/900ee3a9024a25d5a5f378ecaab6c19e/0954f/4weeks-2.jpg 325w,
-/static/900ee3a9024a25d5a5f378ecaab6c19e/a111b/4weeks-2.jpg 650w,
-/static/900ee3a9024a25d5a5f378ecaab6c19e/ce471/4weeks-2.jpg 975w,
-/static/900ee3a9024a25d5a5f378ecaab6c19e/bee4e/4weeks-2.jpg 1300w,
+        src=&quot;/static/900ee3a9024a25d5a5f378ecaab6c19e/21c6c/4weeks-2.jpg&quot;
+        srcset=&quot;/static/900ee3a9024a25d5a5f378ecaab6c19e/65b1f/4weeks-2.jpg 235w,
+/static/900ee3a9024a25d5a5f378ecaab6c19e/9f638/4weeks-2.jpg 470w,
+/static/900ee3a9024a25d5a5f378ecaab6c19e/21c6c/4weeks-2.jpg 940w,
+/static/900ee3a9024a25d5a5f378ecaab6c19e/47ec1/4weeks-2.jpg 1410w,
+/static/900ee3a9024a25d5a5f378ecaab6c19e/335f9/4weeks-2.jpg 1880w,
 /static/900ee3a9024a25d5a5f378ecaab6c19e/2b40c/4weeks-2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3382,7 +3557,7 @@
 &lt;h2&gt;열두번째, 7월 12일(금)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3399,14 +3574,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Warlow&quot;
         title=&quot;Warlow&quot;
-        src=&quot;/static/50d116b1bfc9b315cdfe232d02a28489/a111b/4weeks-3.jpg&quot;
-        srcset=&quot;/static/50d116b1bfc9b315cdfe232d02a28489/aca85/4weeks-3.jpg 163w,
-/static/50d116b1bfc9b315cdfe232d02a28489/0954f/4weeks-3.jpg 325w,
-/static/50d116b1bfc9b315cdfe232d02a28489/a111b/4weeks-3.jpg 650w,
-/static/50d116b1bfc9b315cdfe232d02a28489/ce471/4weeks-3.jpg 975w,
-/static/50d116b1bfc9b315cdfe232d02a28489/bee4e/4weeks-3.jpg 1300w,
+        src=&quot;/static/50d116b1bfc9b315cdfe232d02a28489/21c6c/4weeks-3.jpg&quot;
+        srcset=&quot;/static/50d116b1bfc9b315cdfe232d02a28489/65b1f/4weeks-3.jpg 235w,
+/static/50d116b1bfc9b315cdfe232d02a28489/9f638/4weeks-3.jpg 470w,
+/static/50d116b1bfc9b315cdfe232d02a28489/21c6c/4weeks-3.jpg 940w,
+/static/50d116b1bfc9b315cdfe232d02a28489/47ec1/4weeks-3.jpg 1410w,
+/static/50d116b1bfc9b315cdfe232d02a28489/335f9/4weeks-3.jpg 1880w,
 /static/50d116b1bfc9b315cdfe232d02a28489/2b40c/4weeks-3.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3482,7 +3657,7 @@
 &lt;h2&gt;아홉번째, 7월 6일(토)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3499,14 +3674,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;북악북악 덥다덥다&quot;
         title=&quot;북악북악 덥다덥다&quot;
-        src=&quot;/static/dc318b138ef831876234ed93c6125d95/a111b/bukak-hot-hot.jpg&quot;
-        srcset=&quot;/static/dc318b138ef831876234ed93c6125d95/aca85/bukak-hot-hot.jpg 163w,
-/static/dc318b138ef831876234ed93c6125d95/0954f/bukak-hot-hot.jpg 325w,
-/static/dc318b138ef831876234ed93c6125d95/a111b/bukak-hot-hot.jpg 650w,
-/static/dc318b138ef831876234ed93c6125d95/ce471/bukak-hot-hot.jpg 975w,
-/static/dc318b138ef831876234ed93c6125d95/bee4e/bukak-hot-hot.jpg 1300w,
+        src=&quot;/static/dc318b138ef831876234ed93c6125d95/21c6c/bukak-hot-hot.jpg&quot;
+        srcset=&quot;/static/dc318b138ef831876234ed93c6125d95/65b1f/bukak-hot-hot.jpg 235w,
+/static/dc318b138ef831876234ed93c6125d95/9f638/bukak-hot-hot.jpg 470w,
+/static/dc318b138ef831876234ed93c6125d95/21c6c/bukak-hot-hot.jpg 940w,
+/static/dc318b138ef831876234ed93c6125d95/47ec1/bukak-hot-hot.jpg 1410w,
+/static/dc318b138ef831876234ed93c6125d95/335f9/bukak-hot-hot.jpg 1880w,
 /static/dc318b138ef831876234ed93c6125d95/73fa1/bukak-hot-hot.jpg 2352w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3540,7 +3715,7 @@
 &lt;h2&gt;여섯번째, 7월 1일(월)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3557,14 +3732,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Ericsson&quot;
         title=&quot;Ericsson&quot;
-        src=&quot;/static/623596fe1c5e42101bbba7ad0291d169/a111b/3weeks-1.jpg&quot;
-        srcset=&quot;/static/623596fe1c5e42101bbba7ad0291d169/aca85/3weeks-1.jpg 163w,
-/static/623596fe1c5e42101bbba7ad0291d169/0954f/3weeks-1.jpg 325w,
-/static/623596fe1c5e42101bbba7ad0291d169/a111b/3weeks-1.jpg 650w,
-/static/623596fe1c5e42101bbba7ad0291d169/ce471/3weeks-1.jpg 975w,
-/static/623596fe1c5e42101bbba7ad0291d169/bee4e/3weeks-1.jpg 1300w,
+        src=&quot;/static/623596fe1c5e42101bbba7ad0291d169/21c6c/3weeks-1.jpg&quot;
+        srcset=&quot;/static/623596fe1c5e42101bbba7ad0291d169/65b1f/3weeks-1.jpg 235w,
+/static/623596fe1c5e42101bbba7ad0291d169/9f638/3weeks-1.jpg 470w,
+/static/623596fe1c5e42101bbba7ad0291d169/21c6c/3weeks-1.jpg 940w,
+/static/623596fe1c5e42101bbba7ad0291d169/47ec1/3weeks-1.jpg 1410w,
+/static/623596fe1c5e42101bbba7ad0291d169/335f9/3weeks-1.jpg 1880w,
 /static/623596fe1c5e42101bbba7ad0291d169/2b40c/3weeks-1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3590,7 +3765,7 @@
 &lt;h2&gt;일곱번째, 7월 3일(수)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3607,14 +3782,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Carson&quot;
         title=&quot;Carson&quot;
-        src=&quot;/static/914f8ab3b0cf34445c322716a68ee039/a111b/3weeks-2.jpg&quot;
-        srcset=&quot;/static/914f8ab3b0cf34445c322716a68ee039/aca85/3weeks-2.jpg 163w,
-/static/914f8ab3b0cf34445c322716a68ee039/0954f/3weeks-2.jpg 325w,
-/static/914f8ab3b0cf34445c322716a68ee039/a111b/3weeks-2.jpg 650w,
-/static/914f8ab3b0cf34445c322716a68ee039/ce471/3weeks-2.jpg 975w,
-/static/914f8ab3b0cf34445c322716a68ee039/bee4e/3weeks-2.jpg 1300w,
+        src=&quot;/static/914f8ab3b0cf34445c322716a68ee039/21c6c/3weeks-2.jpg&quot;
+        srcset=&quot;/static/914f8ab3b0cf34445c322716a68ee039/65b1f/3weeks-2.jpg 235w,
+/static/914f8ab3b0cf34445c322716a68ee039/9f638/3weeks-2.jpg 470w,
+/static/914f8ab3b0cf34445c322716a68ee039/21c6c/3weeks-2.jpg 940w,
+/static/914f8ab3b0cf34445c322716a68ee039/47ec1/3weeks-2.jpg 1410w,
+/static/914f8ab3b0cf34445c322716a68ee039/335f9/3weeks-2.jpg 1880w,
 /static/914f8ab3b0cf34445c322716a68ee039/2b40c/3weeks-2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3640,7 +3815,7 @@
 &lt;h2&gt;여덟번째, 7월 5일(금)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3657,14 +3832,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Eclipse&quot;
         title=&quot;Eclipse&quot;
-        src=&quot;/static/76928895e0bde624b1684877df4da1d0/a111b/3weeks-3.jpg&quot;
-        srcset=&quot;/static/76928895e0bde624b1684877df4da1d0/aca85/3weeks-3.jpg 163w,
-/static/76928895e0bde624b1684877df4da1d0/0954f/3weeks-3.jpg 325w,
-/static/76928895e0bde624b1684877df4da1d0/a111b/3weeks-3.jpg 650w,
-/static/76928895e0bde624b1684877df4da1d0/ce471/3weeks-3.jpg 975w,
-/static/76928895e0bde624b1684877df4da1d0/bee4e/3weeks-3.jpg 1300w,
+        src=&quot;/static/76928895e0bde624b1684877df4da1d0/21c6c/3weeks-3.jpg&quot;
+        srcset=&quot;/static/76928895e0bde624b1684877df4da1d0/65b1f/3weeks-3.jpg 235w,
+/static/76928895e0bde624b1684877df4da1d0/9f638/3weeks-3.jpg 470w,
+/static/76928895e0bde624b1684877df4da1d0/21c6c/3weeks-3.jpg 940w,
+/static/76928895e0bde624b1684877df4da1d0/47ec1/3weeks-3.jpg 1410w,
+/static/76928895e0bde624b1684877df4da1d0/335f9/3weeks-3.jpg 1880w,
 /static/76928895e0bde624b1684877df4da1d0/2b40c/3weeks-3.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3715,7 +3890,7 @@
 &lt;h2&gt;다섯.다섯 번째&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3732,21 +3907,21 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;펑크난 하루, 걷는 라이딩&quot;
         title=&quot;펑크난 하루, 걷는 라이딩&quot;
-        src=&quot;/static/3711e190d855ed6df79efb9aebbeffd1/a111b/flat-0.jpg&quot;
-        srcset=&quot;/static/3711e190d855ed6df79efb9aebbeffd1/aca85/flat-0.jpg 163w,
-/static/3711e190d855ed6df79efb9aebbeffd1/0954f/flat-0.jpg 325w,
-/static/3711e190d855ed6df79efb9aebbeffd1/a111b/flat-0.jpg 650w,
-/static/3711e190d855ed6df79efb9aebbeffd1/ce471/flat-0.jpg 975w,
-/static/3711e190d855ed6df79efb9aebbeffd1/bee4e/flat-0.jpg 1300w,
+        src=&quot;/static/3711e190d855ed6df79efb9aebbeffd1/21c6c/flat-0.jpg&quot;
+        srcset=&quot;/static/3711e190d855ed6df79efb9aebbeffd1/65b1f/flat-0.jpg 235w,
+/static/3711e190d855ed6df79efb9aebbeffd1/9f638/flat-0.jpg 470w,
+/static/3711e190d855ed6df79efb9aebbeffd1/21c6c/flat-0.jpg 940w,
+/static/3711e190d855ed6df79efb9aebbeffd1/47ec1/flat-0.jpg 1410w,
+/static/3711e190d855ed6df79efb9aebbeffd1/335f9/flat-0.jpg 1880w,
 /static/3711e190d855ed6df79efb9aebbeffd1/2b40c/flat-0.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3763,14 +3938,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;펑크난 하루, 걷는 라이딩&quot;
         title=&quot;펑크난 하루, 걷는 라이딩&quot;
-        src=&quot;/static/2397c25f7aa253a3f5c30699da1c5d46/a111b/flat-1.jpg&quot;
-        srcset=&quot;/static/2397c25f7aa253a3f5c30699da1c5d46/aca85/flat-1.jpg 163w,
-/static/2397c25f7aa253a3f5c30699da1c5d46/0954f/flat-1.jpg 325w,
-/static/2397c25f7aa253a3f5c30699da1c5d46/a111b/flat-1.jpg 650w,
-/static/2397c25f7aa253a3f5c30699da1c5d46/ce471/flat-1.jpg 975w,
-/static/2397c25f7aa253a3f5c30699da1c5d46/bee4e/flat-1.jpg 1300w,
+        src=&quot;/static/2397c25f7aa253a3f5c30699da1c5d46/21c6c/flat-1.jpg&quot;
+        srcset=&quot;/static/2397c25f7aa253a3f5c30699da1c5d46/65b1f/flat-1.jpg 235w,
+/static/2397c25f7aa253a3f5c30699da1c5d46/9f638/flat-1.jpg 470w,
+/static/2397c25f7aa253a3f5c30699da1c5d46/21c6c/flat-1.jpg 940w,
+/static/2397c25f7aa253a3f5c30699da1c5d46/47ec1/flat-1.jpg 1410w,
+/static/2397c25f7aa253a3f5c30699da1c5d46/335f9/flat-1.jpg 1880w,
 /static/2397c25f7aa253a3f5c30699da1c5d46/2b40c/flat-1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3778,7 +3953,7 @@
 &lt;p&gt;오늘 비가 내일 것이란 예상과는 달리 흐른 날이었다. 비소식에 라이딩 약속도 잡지 않았는데, 아침에 상훈이가 북악 라이딩 하자고 연락이 왔다. 잠시 고민했다. 서울에서 미세먼지 없고 선선한 날은 그리 많지 않다는 생각이 들어 가자고 답했다. 이번달까지 완수해야할 목표들도 있고... 출발을 하니 기분이 좋다. 날씨도 넘나 마음에 든다. 오늘은 북악 기록을 세울 수 있겠지. 그치만 그 기대는 지하철 두 정거장을 지난 뒤에 허무하게 무너졌다. 픽&lt;del&gt;~쉬&lt;/del&gt;~ 하는 소리와 함께 타이어 펑크가 난 것이다. 버스 뒤에서 가고 있었다. 처음엔 버스에서 출발할 때 나는 소리처럼 들려서 내 자전거가 펑크가 난 줄 몰랐었다. 이내 자전가가 무거워지고 바퀴가 너덜너덜해졌다. 사람이 많이 다니는 신사역 근처라 인적이 뜸한 곳까지 걸어가서 자전거를 살펴보았다. 얼마전에 튜브를 간 것 같은데, 또 터지다니.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3795,14 +3970,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;펑크난 하루, 걷는 라이딩&quot;
         title=&quot;펑크난 하루, 걷는 라이딩&quot;
-        src=&quot;/static/359b87d9cdf55c076be2c56745b1c1d7/a111b/flat-2.jpg&quot;
-        srcset=&quot;/static/359b87d9cdf55c076be2c56745b1c1d7/aca85/flat-2.jpg 163w,
-/static/359b87d9cdf55c076be2c56745b1c1d7/0954f/flat-2.jpg 325w,
-/static/359b87d9cdf55c076be2c56745b1c1d7/a111b/flat-2.jpg 650w,
-/static/359b87d9cdf55c076be2c56745b1c1d7/ce471/flat-2.jpg 975w,
-/static/359b87d9cdf55c076be2c56745b1c1d7/bee4e/flat-2.jpg 1300w,
+        src=&quot;/static/359b87d9cdf55c076be2c56745b1c1d7/21c6c/flat-2.jpg&quot;
+        srcset=&quot;/static/359b87d9cdf55c076be2c56745b1c1d7/65b1f/flat-2.jpg 235w,
+/static/359b87d9cdf55c076be2c56745b1c1d7/9f638/flat-2.jpg 470w,
+/static/359b87d9cdf55c076be2c56745b1c1d7/21c6c/flat-2.jpg 940w,
+/static/359b87d9cdf55c076be2c56745b1c1d7/47ec1/flat-2.jpg 1410w,
 /static/359b87d9cdf55c076be2c56745b1c1d7/0a443/flat-2.jpg 1536w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3810,7 +3984,7 @@
 &lt;p&gt;몇 일전 안장의 높낮이를 조절한다고 공구를 쓰고, 통에 안넣었나보다. 뜨억. 하필 이 때에... 튜브를 뺄 도구가 없었다. 주변을 둘러봐도 딱히 쓸만한 도구가 보이지 않는다. 손으로 해보려 아둥바둥 해보았다. GG. 20분정도 만지작거리다, 도저히 안될 것 같아 집으로 돌아가기로 했다. 매일 출퇴근하는 익숙한 길이라 위안이 된다. 적어도 길은 안해맬테니. 펑크난 바퀴가 제대로 굴러가지 않아 뒷바퀴를 들고 갔다. 자전거가 많이 무겁네. 평소엔 훅훅 저으면 가던 자전거가 들고가려니 짐짝이다. 클릿을 신어서 더 느리다. 택시를 타고 가는 것이 나았으려나? 택시 잡고, 두 바퀴 빼고 트렁크에 싣고- 내려서 다시 끼우고- 생각만 해도 귀찮다. 혹시 상훈이가 구하러 오고 있는 것은 아닐까? 괜한 기대는 접자. 혹시나 하는 마음에 튜브뺄만한 단단한 주걱같은 것이 있으려나 두리번 거리면서 집으로 향했다. 집에 가까워졌을 때는 그런 생각들은 완전히 접어두었다. 그저 언넝 집에 도착하고 싶은 마음 뿐. 그래도 날은 좋네.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3827,21 +4001,20 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;펑크난 하루, 걷는 라이딩&quot;
         title=&quot;펑크난 하루, 걷는 라이딩&quot;
-        src=&quot;/static/90c20b7697e78230b06282460481a6c1/a111b/flat-3.jpg&quot;
-        srcset=&quot;/static/90c20b7697e78230b06282460481a6c1/aca85/flat-3.jpg 163w,
-/static/90c20b7697e78230b06282460481a6c1/0954f/flat-3.jpg 325w,
-/static/90c20b7697e78230b06282460481a6c1/a111b/flat-3.jpg 650w,
-/static/90c20b7697e78230b06282460481a6c1/ce471/flat-3.jpg 975w,
-/static/90c20b7697e78230b06282460481a6c1/bee4e/flat-3.jpg 1300w,
+        src=&quot;/static/90c20b7697e78230b06282460481a6c1/21c6c/flat-3.jpg&quot;
+        srcset=&quot;/static/90c20b7697e78230b06282460481a6c1/65b1f/flat-3.jpg 235w,
+/static/90c20b7697e78230b06282460481a6c1/9f638/flat-3.jpg 470w,
+/static/90c20b7697e78230b06282460481a6c1/21c6c/flat-3.jpg 940w,
+/static/90c20b7697e78230b06282460481a6c1/47ec1/flat-3.jpg 1410w,
 /static/90c20b7697e78230b06282460481a6c1/0a443/flat-3.jpg 1536w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3858,14 +4031,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;펑크난 하루, 걷는 라이딩&quot;
         title=&quot;펑크난 하루, 걷는 라이딩&quot;
-        src=&quot;/static/4c80e352848155204e55702f14aa9bfa/a111b/flat-4.jpg&quot;
-        srcset=&quot;/static/4c80e352848155204e55702f14aa9bfa/aca85/flat-4.jpg 163w,
-/static/4c80e352848155204e55702f14aa9bfa/0954f/flat-4.jpg 325w,
-/static/4c80e352848155204e55702f14aa9bfa/a111b/flat-4.jpg 650w,
-/static/4c80e352848155204e55702f14aa9bfa/ce471/flat-4.jpg 975w,
-/static/4c80e352848155204e55702f14aa9bfa/bee4e/flat-4.jpg 1300w,
+        src=&quot;/static/4c80e352848155204e55702f14aa9bfa/21c6c/flat-4.jpg&quot;
+        srcset=&quot;/static/4c80e352848155204e55702f14aa9bfa/65b1f/flat-4.jpg 235w,
+/static/4c80e352848155204e55702f14aa9bfa/9f638/flat-4.jpg 470w,
+/static/4c80e352848155204e55702f14aa9bfa/21c6c/flat-4.jpg 940w,
+/static/4c80e352848155204e55702f14aa9bfa/47ec1/flat-4.jpg 1410w,
 /static/4c80e352848155204e55702f14aa9bfa/0a443/flat-4.jpg 1536w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3891,7 +4063,7 @@
 &lt;h2&gt;세번째, 6월 24일(월)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3908,14 +4080,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Goddard&quot;
         title=&quot;Goddard&quot;
-        src=&quot;/static/389c20067218d7d7bee729638365a754/a111b/2weeks-1.jpg&quot;
-        srcset=&quot;/static/389c20067218d7d7bee729638365a754/aca85/2weeks-1.jpg 163w,
-/static/389c20067218d7d7bee729638365a754/0954f/2weeks-1.jpg 325w,
-/static/389c20067218d7d7bee729638365a754/a111b/2weeks-1.jpg 650w,
-/static/389c20067218d7d7bee729638365a754/ce471/2weeks-1.jpg 975w,
-/static/389c20067218d7d7bee729638365a754/bee4e/2weeks-1.jpg 1300w,
+        src=&quot;/static/389c20067218d7d7bee729638365a754/21c6c/2weeks-1.jpg&quot;
+        srcset=&quot;/static/389c20067218d7d7bee729638365a754/65b1f/2weeks-1.jpg 235w,
+/static/389c20067218d7d7bee729638365a754/9f638/2weeks-1.jpg 470w,
+/static/389c20067218d7d7bee729638365a754/21c6c/2weeks-1.jpg 940w,
+/static/389c20067218d7d7bee729638365a754/47ec1/2weeks-1.jpg 1410w,
+/static/389c20067218d7d7bee729638365a754/335f9/2weeks-1.jpg 1880w,
 /static/389c20067218d7d7bee729638365a754/2b40c/2weeks-1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3936,7 +4108,7 @@
 &lt;h2&gt;네번째, 6월 26일(수)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -3953,14 +4125,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Monitor&quot;
         title=&quot;Monitor&quot;
-        src=&quot;/static/31c7e0a28641668953de4d631ecd80d9/a111b/2weeks-2.jpg&quot;
-        srcset=&quot;/static/31c7e0a28641668953de4d631ecd80d9/aca85/2weeks-2.jpg 163w,
-/static/31c7e0a28641668953de4d631ecd80d9/0954f/2weeks-2.jpg 325w,
-/static/31c7e0a28641668953de4d631ecd80d9/a111b/2weeks-2.jpg 650w,
-/static/31c7e0a28641668953de4d631ecd80d9/ce471/2weeks-2.jpg 975w,
-/static/31c7e0a28641668953de4d631ecd80d9/bee4e/2weeks-2.jpg 1300w,
+        src=&quot;/static/31c7e0a28641668953de4d631ecd80d9/21c6c/2weeks-2.jpg&quot;
+        srcset=&quot;/static/31c7e0a28641668953de4d631ecd80d9/65b1f/2weeks-2.jpg 235w,
+/static/31c7e0a28641668953de4d631ecd80d9/9f638/2weeks-2.jpg 470w,
+/static/31c7e0a28641668953de4d631ecd80d9/21c6c/2weeks-2.jpg 940w,
+/static/31c7e0a28641668953de4d631ecd80d9/47ec1/2weeks-2.jpg 1410w,
+/static/31c7e0a28641668953de4d631ecd80d9/335f9/2weeks-2.jpg 1880w,
 /static/31c7e0a28641668953de4d631ecd80d9/2b40c/2weeks-2.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -3986,7 +4158,7 @@
 &lt;h2&gt;다섯번째, 6월 28일(목)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -4003,14 +4175,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Antelope&quot;
         title=&quot;Antelope&quot;
-        src=&quot;/static/8f2448762aa44f7a3aaf2a0488177bfb/a111b/2weeks-3.jpg&quot;
-        srcset=&quot;/static/8f2448762aa44f7a3aaf2a0488177bfb/aca85/2weeks-3.jpg 163w,
-/static/8f2448762aa44f7a3aaf2a0488177bfb/0954f/2weeks-3.jpg 325w,
-/static/8f2448762aa44f7a3aaf2a0488177bfb/a111b/2weeks-3.jpg 650w,
-/static/8f2448762aa44f7a3aaf2a0488177bfb/ce471/2weeks-3.jpg 975w,
-/static/8f2448762aa44f7a3aaf2a0488177bfb/bee4e/2weeks-3.jpg 1300w,
+        src=&quot;/static/8f2448762aa44f7a3aaf2a0488177bfb/21c6c/2weeks-3.jpg&quot;
+        srcset=&quot;/static/8f2448762aa44f7a3aaf2a0488177bfb/65b1f/2weeks-3.jpg 235w,
+/static/8f2448762aa44f7a3aaf2a0488177bfb/9f638/2weeks-3.jpg 470w,
+/static/8f2448762aa44f7a3aaf2a0488177bfb/21c6c/2weeks-3.jpg 940w,
+/static/8f2448762aa44f7a3aaf2a0488177bfb/47ec1/2weeks-3.jpg 1410w,
+/static/8f2448762aa44f7a3aaf2a0488177bfb/335f9/2weeks-3.jpg 1880w,
 /static/8f2448762aa44f7a3aaf2a0488177bfb/2b40c/2weeks-3.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -4067,7 +4239,7 @@
 &lt;h2&gt;두번째, 6월 22일 (토)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -4084,21 +4256,21 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;남산&amp;amp;북악 라이딩&quot;
         title=&quot;남산&amp;amp;북악 라이딩&quot;
-        src=&quot;/static/06f7fdcc6947b47a8b675025aeb91e3e/a111b/1weeks-2-1.jpg&quot;
-        srcset=&quot;/static/06f7fdcc6947b47a8b675025aeb91e3e/aca85/1weeks-2-1.jpg 163w,
-/static/06f7fdcc6947b47a8b675025aeb91e3e/0954f/1weeks-2-1.jpg 325w,
-/static/06f7fdcc6947b47a8b675025aeb91e3e/a111b/1weeks-2-1.jpg 650w,
-/static/06f7fdcc6947b47a8b675025aeb91e3e/ce471/1weeks-2-1.jpg 975w,
-/static/06f7fdcc6947b47a8b675025aeb91e3e/bee4e/1weeks-2-1.jpg 1300w,
+        src=&quot;/static/06f7fdcc6947b47a8b675025aeb91e3e/21c6c/1weeks-2-1.jpg&quot;
+        srcset=&quot;/static/06f7fdcc6947b47a8b675025aeb91e3e/65b1f/1weeks-2-1.jpg 235w,
+/static/06f7fdcc6947b47a8b675025aeb91e3e/9f638/1weeks-2-1.jpg 470w,
+/static/06f7fdcc6947b47a8b675025aeb91e3e/21c6c/1weeks-2-1.jpg 940w,
+/static/06f7fdcc6947b47a8b675025aeb91e3e/47ec1/1weeks-2-1.jpg 1410w,
+/static/06f7fdcc6947b47a8b675025aeb91e3e/335f9/1weeks-2-1.jpg 1880w,
 /static/06f7fdcc6947b47a8b675025aeb91e3e/2b40c/1weeks-2-1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -4115,14 +4287,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;남산&amp;amp;북악 라이딩&quot;
         title=&quot;남산&amp;amp;북악 라이딩&quot;
-        src=&quot;/static/65996f1eb2ca320b2d1ef3bb44cea194/a111b/1weeks-2-2.jpg&quot;
-        srcset=&quot;/static/65996f1eb2ca320b2d1ef3bb44cea194/aca85/1weeks-2-2.jpg 163w,
-/static/65996f1eb2ca320b2d1ef3bb44cea194/0954f/1weeks-2-2.jpg 325w,
-/static/65996f1eb2ca320b2d1ef3bb44cea194/a111b/1weeks-2-2.jpg 650w,
-/static/65996f1eb2ca320b2d1ef3bb44cea194/ce471/1weeks-2-2.jpg 975w,
-/static/65996f1eb2ca320b2d1ef3bb44cea194/bee4e/1weeks-2-2.jpg 1300w,
+        src=&quot;/static/65996f1eb2ca320b2d1ef3bb44cea194/21c6c/1weeks-2-2.jpg&quot;
+        srcset=&quot;/static/65996f1eb2ca320b2d1ef3bb44cea194/65b1f/1weeks-2-2.jpg 235w,
+/static/65996f1eb2ca320b2d1ef3bb44cea194/9f638/1weeks-2-2.jpg 470w,
+/static/65996f1eb2ca320b2d1ef3bb44cea194/21c6c/1weeks-2-2.jpg 940w,
+/static/65996f1eb2ca320b2d1ef3bb44cea194/47ec1/1weeks-2-2.jpg 1410w,
 /static/65996f1eb2ca320b2d1ef3bb44cea194/0a443/1weeks-2-2.jpg 1536w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -4149,7 +4320,7 @@
 &lt;h2&gt;첫번째, 6월 21일 (금)&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -4166,14 +4337,14 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Ramp Test&quot;
         title=&quot;Ramp Test&quot;
-        src=&quot;/static/60b81ad723fcfb8be8210e98afd2b76c/a111b/1weeks-1.jpg&quot;
-        srcset=&quot;/static/60b81ad723fcfb8be8210e98afd2b76c/aca85/1weeks-1.jpg 163w,
-/static/60b81ad723fcfb8be8210e98afd2b76c/0954f/1weeks-1.jpg 325w,
-/static/60b81ad723fcfb8be8210e98afd2b76c/a111b/1weeks-1.jpg 650w,
-/static/60b81ad723fcfb8be8210e98afd2b76c/ce471/1weeks-1.jpg 975w,
-/static/60b81ad723fcfb8be8210e98afd2b76c/bee4e/1weeks-1.jpg 1300w,
+        src=&quot;/static/60b81ad723fcfb8be8210e98afd2b76c/21c6c/1weeks-1.jpg&quot;
+        srcset=&quot;/static/60b81ad723fcfb8be8210e98afd2b76c/65b1f/1weeks-1.jpg 235w,
+/static/60b81ad723fcfb8be8210e98afd2b76c/9f638/1weeks-1.jpg 470w,
+/static/60b81ad723fcfb8be8210e98afd2b76c/21c6c/1weeks-1.jpg 940w,
+/static/60b81ad723fcfb8be8210e98afd2b76c/47ec1/1weeks-1.jpg 1410w,
+/static/60b81ad723fcfb8be8210e98afd2b76c/335f9/1weeks-1.jpg 1880w,
 /static/60b81ad723fcfb8be8210e98afd2b76c/2b40c/1weeks-1.jpg 2048w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -5274,8 +5445,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;나름대로 분위기를 준 배경화면&quot;
         title=&quot;나름대로 분위기를 준 배경화면&quot;
         src=&quot;/static/d343054ca9373d3387e862a8872a6400/82472/wallpaper_1.jpg&quot;
-        srcset=&quot;/static/d343054ca9373d3387e862a8872a6400/aca85/wallpaper_1.jpg 163w,
-/static/d343054ca9373d3387e862a8872a6400/0954f/wallpaper_1.jpg 325w,
+        srcset=&quot;/static/d343054ca9373d3387e862a8872a6400/65b1f/wallpaper_1.jpg 235w,
+/static/d343054ca9373d3387e862a8872a6400/9f638/wallpaper_1.jpg 470w,
 /static/d343054ca9373d3387e862a8872a6400/82472/wallpaper_1.jpg 600w&quot;
         sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
         loading=&quot;lazy&quot;
@@ -5305,8 +5476,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;한땀한땀 직접 그렸던 자유로운 배경화면&quot;
         title=&quot;한땀한땀 직접 그렸던 자유로운 배경화면&quot;
         src=&quot;/static/99ddd9c150e4d90be56fb11f011fe55f/82472/wallpaper_2.jpg&quot;
-        srcset=&quot;/static/99ddd9c150e4d90be56fb11f011fe55f/aca85/wallpaper_2.jpg 163w,
-/static/99ddd9c150e4d90be56fb11f011fe55f/0954f/wallpaper_2.jpg 325w,
+        srcset=&quot;/static/99ddd9c150e4d90be56fb11f011fe55f/65b1f/wallpaper_2.jpg 235w,
+/static/99ddd9c150e4d90be56fb11f011fe55f/9f638/wallpaper_2.jpg 470w,
 /static/99ddd9c150e4d90be56fb11f011fe55f/82472/wallpaper_2.jpg 600w&quot;
         sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
         loading=&quot;lazy&quot;
@@ -5336,8 +5507,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;수학적인 계산을 하면서 감성을 생각한 배경화면&quot;
         title=&quot;수학적인 계산을 하면서 감성을 생각한 배경화면&quot;
         src=&quot;/static/862cdd0b884a4c696ad5fd0b3f85d773/82472/wallpaper_3.jpg&quot;
-        srcset=&quot;/static/862cdd0b884a4c696ad5fd0b3f85d773/aca85/wallpaper_3.jpg 163w,
-/static/862cdd0b884a4c696ad5fd0b3f85d773/0954f/wallpaper_3.jpg 325w,
+        srcset=&quot;/static/862cdd0b884a4c696ad5fd0b3f85d773/65b1f/wallpaper_3.jpg 235w,
+/static/862cdd0b884a4c696ad5fd0b3f85d773/9f638/wallpaper_3.jpg 470w,
 /static/862cdd0b884a4c696ad5fd0b3f85d773/82472/wallpaper_3.jpg 600w&quot;
         sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
         loading=&quot;lazy&quot;
@@ -5367,8 +5538,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;다양한 용도를 가진 배경화면&quot;
         title=&quot;다양한 용도를 가진 배경화면&quot;
         src=&quot;/static/5f4b0af7b33290eacd083c69f5dbaca3/82472/wallpaper_4.jpg&quot;
-        srcset=&quot;/static/5f4b0af7b33290eacd083c69f5dbaca3/aca85/wallpaper_4.jpg 163w,
-/static/5f4b0af7b33290eacd083c69f5dbaca3/0954f/wallpaper_4.jpg 325w,
+        srcset=&quot;/static/5f4b0af7b33290eacd083c69f5dbaca3/65b1f/wallpaper_4.jpg 235w,
+/static/5f4b0af7b33290eacd083c69f5dbaca3/9f638/wallpaper_4.jpg 470w,
 /static/5f4b0af7b33290eacd083c69f5dbaca3/82472/wallpaper_4.jpg 600w&quot;
         sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
         loading=&quot;lazy&quot;
@@ -5398,8 +5569,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;아름다운 느낌을 연출한 배경화면&quot;
         title=&quot;아름다운 느낌을 연출한 배경화면&quot;
         src=&quot;/static/5f4b0af7b33290eacd083c69f5dbaca3/82472/wallpaper_4.jpg&quot;
-        srcset=&quot;/static/5f4b0af7b33290eacd083c69f5dbaca3/aca85/wallpaper_4.jpg 163w,
-/static/5f4b0af7b33290eacd083c69f5dbaca3/0954f/wallpaper_4.jpg 325w,
+        srcset=&quot;/static/5f4b0af7b33290eacd083c69f5dbaca3/65b1f/wallpaper_4.jpg 235w,
+/static/5f4b0af7b33290eacd083c69f5dbaca3/9f638/wallpaper_4.jpg 470w,
 /static/5f4b0af7b33290eacd083c69f5dbaca3/82472/wallpaper_4.jpg 600w&quot;
         sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
         loading=&quot;lazy&quot;
@@ -5455,8 +5626,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;시작은 항상 즐겁다!&quot;
         title=&quot;시작은 항상 즐겁다!&quot;
         src=&quot;/static/f9e9cc6d8f8e396396dc8d1c96cb1ee7/05477/blog_01.jpg&quot;
-        srcset=&quot;/static/f9e9cc6d8f8e396396dc8d1c96cb1ee7/aca85/blog_01.jpg 163w,
-/static/f9e9cc6d8f8e396396dc8d1c96cb1ee7/0954f/blog_01.jpg 325w,
+        srcset=&quot;/static/f9e9cc6d8f8e396396dc8d1c96cb1ee7/65b1f/blog_01.jpg 235w,
+/static/f9e9cc6d8f8e396396dc8d1c96cb1ee7/9f638/blog_01.jpg 470w,
 /static/f9e9cc6d8f8e396396dc8d1c96cb1ee7/05477/blog_01.jpg 605w&quot;
         sizes=&quot;(max-width: 605px) 100vw, 605px&quot;
         loading=&quot;lazy&quot;
@@ -6309,7 +6480,7 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
 &lt;p&gt;흠.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[신조차 빼앗아 가지 못한 꿈 【 신도 버린 사람들 – 나렌드라 자다브 】]]></title><description><![CDATA[신도 버린 사람들. 인도에는 카스트 제도라는 게 있었다. 사람을…]]></description><link>https://pulsewings.com/2010-09-19-untouchables</link><guid isPermaLink="false">https://pulsewings.com/2010-09-19-untouchables</guid><pubDate>Sun, 19 Sep 2010 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;신도 버린 사람들. 인도에는 카스트 제도라는 게 있었다. 사람을 4가지 계급으로 분류하고, 그 계층에 따라 다른 업무와 일이 주어진다. 그 신분에 맞게 행동해야하며, 그것을 어겼을 시에는 많은 사람들로부터 멸시와 경멸을 받는다. 그 중에서도 불가촉 천민은 개와 돼지, 소만큼이나도 대우를 못받는다. 신발을 신을 수 없으며, 마을 구석에서 다른 계층과 분리되어 살아야 한다. 전보를 부치는 일이나 시체를 치우는 일들, 가창 천한 일들만 해야한다. 다른 계급과 접촉이 되면 결코 안되며, 심지어 그림자를 밝는 일까지도 저주받을 일이 된다. 이러한 일이 행해지는 배경에는 철저히 힌두교의 종교적 역사에 따른다. 불가촉 천민은 전생에 나쁜 짓을 저질렀고, 그들의 현재 삶은 그 죄를 뉘우치는 과정이라는 것이다. 마하르라 불리우는 불가촉천민들의 거주지는 마을과 동떨어져 있다. 마을의 저수지 또한 다른 계층이 마시는 신성한 물이라는 것 하에, 손도 댈 수 없다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -6326,14 +6497,13 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;신도 버린 사람들 - 나렌드라 자다브&quot;
         title=&quot;신도 버린 사람들 - 나렌드라 자다브&quot;
-        src=&quot;/static/ae80c34102ce0c1da5466f809bf47f85/a111b/cover.jpg&quot;
-        srcset=&quot;/static/ae80c34102ce0c1da5466f809bf47f85/aca85/cover.jpg 163w,
-/static/ae80c34102ce0c1da5466f809bf47f85/0954f/cover.jpg 325w,
-/static/ae80c34102ce0c1da5466f809bf47f85/a111b/cover.jpg 650w,
-/static/ae80c34102ce0c1da5466f809bf47f85/ce471/cover.jpg 975w,
-/static/ae80c34102ce0c1da5466f809bf47f85/bee4e/cover.jpg 1300w,
+        src=&quot;/static/ae80c34102ce0c1da5466f809bf47f85/21c6c/cover.jpg&quot;
+        srcset=&quot;/static/ae80c34102ce0c1da5466f809bf47f85/65b1f/cover.jpg 235w,
+/static/ae80c34102ce0c1da5466f809bf47f85/9f638/cover.jpg 470w,
+/static/ae80c34102ce0c1da5466f809bf47f85/21c6c/cover.jpg 940w,
+/static/ae80c34102ce0c1da5466f809bf47f85/47ec1/cover.jpg 1410w,
 /static/ae80c34102ce0c1da5466f809bf47f85/0c9fb/cover.jpg 1790w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -6360,8 +6530,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;나렌드라 자다브&quot;
         title=&quot;나렌드라 자다브&quot;
         src=&quot;/static/bf78cb70877efa42e287140c2d0ccbf7/6c602/untouchables.jpg&quot;
-        srcset=&quot;/static/bf78cb70877efa42e287140c2d0ccbf7/aca85/untouchables.jpg 163w,
-/static/bf78cb70877efa42e287140c2d0ccbf7/0954f/untouchables.jpg 325w,
+        srcset=&quot;/static/bf78cb70877efa42e287140c2d0ccbf7/65b1f/untouchables.jpg 235w,
+/static/bf78cb70877efa42e287140c2d0ccbf7/9f638/untouchables.jpg 470w,
 /static/bf78cb70877efa42e287140c2d0ccbf7/6c602/untouchables.jpg 490w&quot;
         sizes=&quot;(max-width: 490px) 100vw, 490px&quot;
         loading=&quot;lazy&quot;
@@ -6390,34 +6560,7 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
 &lt;p&gt;그리고 장례를 치르면서 느낀 것은, 사람은 관계 속에서 살아간다는 것.&lt;/p&gt;
 &lt;p&gt;식을 치르면서 수 많은 사람들이 찾아왔다. 만약, 현재 내가 죽으면, 몇 명의 사람이나 찾아올까? 순전히 나를 위해서 찾아오는 사람말이야. 기껏해야 20명 남짓? 거의 30년여년을 살아오면서 겨우 나를 위해서 찾아올 것 같은 사람이 20명이라니. 또 거기서, 나의 죽음을 아쉬워하고, 슬퍼해주고, 그리워 해주는 사람은 몇 명이나 될까? 내가 있어서 삶이 행복했다고.. 삶이 즐거웠다고.. 니가 없었으면 자신의 삶이 어떻했을까라고.. 이렇게 말해줄 사람이 몇명이나 될까. 난 이제껏 무엇을 하며 살아왔는가 싶다. 큰 삼촌, 작은 삼촌, 이모부께서 식을 치르셨는데, 특히 큰 삼촌은 K회사의 임원이시다 보니, 손님이 엄청 많으셨다. 회사 동료, 후배, 선배, 관련된 회사들의 직원들, 군대 동기부터, 대학 동료, 대학원 동료들까지. 생각지도 못한 곳에서 많은 사람들이 조문을 위해 찾아오셨다. 자리와 위치 때문에 찾아올 수 밖에 없는 경우도 있겠지만, 대부분의 경우에는 지인으로써 찾아오신 분들이었다. 내가 나이가 들었을 때, 저만큼 영향력 있는 사람이 되어 있을까? 난 지금 얼마나 좁고, 협소한 곳에서 생활하고 있는가? 나의 행동 범위가 고작 대학교에서 우리과 건물 밖이라니. 그리고 관계의 깊이가 얼마나 얕은지. 사람은 관계 속에서 지내고, 그 관계가 매우 중요하다. 삶의 일부이며, 나 자신의 범위의 너비이다. 조금씩 새로운 관계를 찾고, 현재의 관계를 깊게 하도록 해야겠다. 여담이지만, 한 가지 내가 느낀 것은 현재 친구들과의 관계의 깊이가 그리 깊지 않다는 것이다. 지금껏 나름대로의 친구를 사귀는 철학이, 적은 친구를 깊게 사귀자였는데, 그러지 못했던 것 같다. 그저 편한 대상으로써, 익숙해서 만나는 것이 아닐까. 익숙함으로 서로를 그냥 있는 그대로 두고, 어떠한 도전과 발전도 없는 그런 상태. 각 자 삶에서 일정한 선을 긋고, 넘어오는 것을 막는 상황. 진실된 얘기를 껄끄러워하고, 가십거리나 의미 없는 말들만 쏟아내다 끝나는 만남. 그 자체로도 의미 있고, 가치있는 일이지만, 일정 수준 이상의 친구의 한계를 벗어나지 못한 것 같다. 이런 말은 갑자기 왜 하느냐고? 그냥 약간 섭섭해서이다. 형의 친구들은 5명이나 찾아와서 인사를 치렀다. 같은 덕두 친구들이고, 같이 20년 넘게 사귀었지만 말이다. 안 올지는 알고 있었지만, 안온 것이 못내 아쉽다. 외할아버지가 돌아가셨다는 사실을 말해준 사람이 딱 두사람인데, 식이 끝나도 딱 두사람만 알고 있다. 나 같았으면, 몇 사람에게 조의금을 걷어 찾아갔을텐데. 그것까진 아니더라도, 친구들에게 알려서 문자라도 보내게 했을 텐데. 뭐, 너를 탓하려는 것은 절대 아니다. 그저 나의 관계에 깊이의 얕음에 아쉬움도 안타까움이 들어 투덜거리는 것 뿐.&lt;/p&gt;
 &lt;p&gt;마지막으로, 장례식장의 비용은 엄청 많이 들며, 돈으로 사람 마음이 크게 변한다는 사실을 알았다. 이런 행사를 직접 치르다보니, 이제 나도 애들과 지내는 것보다 어른들과 섞여 지내는 것이 편하다는 것을 알았다. 그러다 보니 행사의 진행 상황을 알고, 행사 치러지는 비용에 대해서 듣게 되었다. 내가 생각했던 것 이상으로 장례식장의 비용이 크게 들었다. 조의금 또한 많이 들어왔다. 돈 없으면 죽지도 못한다는 말이 맞는 것 같다. 다행이도 조의금이 더 많이 들어와서 맞춰졌지만, 장례식 비용에 엄청 놀랐다. 조의금은 주고 받기식이다. 주는 만큼 받으며, 받는 만큼 주게 되어있다. 기브 엔 테이크 형식인가? 여기서 조금 아이러니한 상황이 발생하는데, 그 사람에 대한 평가가 돈으로 이루어진다는 것이다. 물론 그 사람의 상황에 맞게. 자식의 수와 부모의 생존여부에 상관하여 부조금이 달라지며, 주는 만큼 받지 못하면, 그 사람에 대한 인식이 좋지 않게 변한다는 것. 이와 반대로 상황이 열악한대도 불구하고, 일정 수준이상의 조의금을 내게 되면, 그 사람에 대한 평가가 좋게 변한다는 것. 그 사람에 대한 관심과 관계의 척도가 돈의 금액으로 나타나기 마련이고, 그것 때문에 사람에 대한 평가가 달라지는 것을 보며, 사회 현상의 큰 흐름은 어쩔 수 없구나라는 생각이 든다. 이런 것들도 역시 나이가 먹으면서 자연스레 동화되어가는 것일까? 나도 어른이지만, 아직은 어린 마음이 많구나.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/44e0e12094e4103de144a66de39b2bfb/41689/cover1.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 99.50000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAUEAgb/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAZNfHWkjumM3oBqQNP8A/8QAGxAAAgIDAQAAAAAAAAAAAAAAAQMCMwAEIkH/2gAIAQEAAQUCHRCQIs4nrGGe7Fqrcdb/AP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABwQAAICAgMAAAAAAAAAAAAAAAABAhEQIUFRcf/aAAgBAQAGPwJLsooqT3xhkfcM/8QAHRAAAwACAgMAAAAAAAAAAAAAAAERIVEQQWGBsf/aAAgBAQABPyFXQdYtyr8jUz9MYcGlrsmx8XBUzH//2gAMAwEAAgADAAAAEIvvA//EABcRAQADAAAAAAAAAAAAAAAAAAEAEBH/2gAIAQMBAT8QDI3/AP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAEBH/2gAIAQIBAT8QC5Gf/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBYVFxobH/2gAIAQEAAT8Q0h1bp7jQ5lm2fMoIAU8GohEwsG8tPDHNgEBwa/Eb6DFWNF1Bcej4T//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;조지 버나드 쇼 비석&quot;
-        title=&quot;조지 버나드 쇼 비석&quot;
-        src=&quot;/static/44e0e12094e4103de144a66de39b2bfb/41689/cover1.jpg&quot;
-        srcset=&quot;/static/44e0e12094e4103de144a66de39b2bfb/aca85/cover1.jpg 163w,
-/static/44e0e12094e4103de144a66de39b2bfb/0954f/cover1.jpg 325w,
-/static/44e0e12094e4103de144a66de39b2bfb/41689/cover1.jpg 400w&quot;
-        sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./cover1.jpg&quot; alt=&quot;조지 버나드 쇼 비석&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;조지 버나드 쇼(아일랜드 극작가, 1856~1950)&lt;/p&gt;
 &lt;p&gt;&quot;I knew if I stayed around long enough, something like this would happen.&quot;&lt;/p&gt;
@@ -6445,7 +6588,7 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
 &lt;p&gt;꿉꿉한 날씨 탓에 비가 올 때면 짜증을 내는 사람이 더러 있는데, 어제는 주위 사람들의 대부분은 비가 오는 것을 매우 환영했다. 바로 예비군을 가는 날이었기 때문이다. 이렇게 비가 내리길 바랬던 적이 있었던가? 나는 비가 내리는 것을 좋아한다. 중학교 때의 옥계돈 선생님이 하신 말씀을 가슴 속에 간직하고 있기 때문이다. 비가 촉촉히 내리던 어느 날, 어떤 것인지는 정확히 기억이 안나지만, 물건 같은 것을 컨테이너에 넣으러 간적이 있었다. 비가 거의 개였기 때문에, 많이 젖지 않고 갔는데, 안에 선생님이 계셨다. 그러더니 하시던 말씀이, &quot;비가 내리면 꿉꿉하고, 귀찮긴 하지만, 좋은 점이 많지. 더러운 먼지, 공기 등을 싹 가지고 가버리는 장점이 있지.&quot;, 그 때부터 비가 오는 것을 더 좋아하게 되었지. 비야, 제발 내려라.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -6462,13 +6605,12 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;예비군 마크, 출처 : 위키피디아&quot;
         title=&quot;예비군 마크, 출처 : 위키피디아&quot;
-        src=&quot;/static/4a130b95c6850d5477c315fe78b6a896/a111b/cover.jpg&quot;
-        srcset=&quot;/static/4a130b95c6850d5477c315fe78b6a896/aca85/cover.jpg 163w,
-/static/4a130b95c6850d5477c315fe78b6a896/0954f/cover.jpg 325w,
-/static/4a130b95c6850d5477c315fe78b6a896/a111b/cover.jpg 650w,
-/static/4a130b95c6850d5477c315fe78b6a896/ce471/cover.jpg 975w,
+        src=&quot;/static/4a130b95c6850d5477c315fe78b6a896/21c6c/cover.jpg&quot;
+        srcset=&quot;/static/4a130b95c6850d5477c315fe78b6a896/65b1f/cover.jpg 235w,
+/static/4a130b95c6850d5477c315fe78b6a896/9f638/cover.jpg 470w,
+/static/4a130b95c6850d5477c315fe78b6a896/21c6c/cover.jpg 940w,
 /static/4a130b95c6850d5477c315fe78b6a896/aa5aa/cover.jpg 1037w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -6484,7 +6626,7 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
 &lt;p&gt;뭐... 어찌되었든. 이러한 악순환의 고리를 깨부수기 위해 뭔가 새로운 것을 시도 해야했다. 늘 같은 방법으로 하는 것은 같은 결과를 나오게 하기 때문이지. 친구들에게 전화를 걸어 약속날짜를 잡고, 친구들에게 무엇인가를 같이 하자고 제안을 하고, 계속 웃으려 하고, 부지런해지려 노력하는 거지. 어제, 스타 안에서 얘기를 나누면서, 한가지 깨달은게 있지. 나는 스스로 무엇인가 해내기 위해서 남을 끌어들인다는 것. 하지만, 그런 남들은 그것을 원하지 않고, 하기 싫어한다는 것. 중요한 것은, 내가 그 사실을 이미 알고 있지만, 제안을 또 한다는 것. 그것 때문에 난 또 무엇인가를 시작하지 않는다는 것. 이런 순환은, 나에게 매우 좋지 않지. 왜냐면, 나 스스로의 의지력 부족을 딴 사람에게 떠넘기는 것이기 때문이지. 내가 결단이 부족해서 그런 것이 아니라, 친구들이 같이 하지 않아서라는 이유를 들어 스스로에게 합리화시키는 작업. 물론, 같이 하게 되면 그것만큼 좋은 것도 없겠지만, 서로의 상황과 환경이 다르기 때문에 힘들 것은 자명한 일. 서로 친한 만큼 서로를 이해해주고 서로의 발전을 위해 기꺼이 하게 된다면 더할 나위없이 좋겠지만, 스스로의 삶도 책임지지 못하는데, 서로를 격려해준다는 것도 조금 모순적인 일이지.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -6501,13 +6643,12 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;길, TedKim/Pixabay&quot;
         title=&quot;길, TedKim/Pixabay&quot;
-        src=&quot;/static/fd8d1660b598f92f037532df39d3fcc6/a111b/cover.jpg&quot;
-        srcset=&quot;/static/fd8d1660b598f92f037532df39d3fcc6/aca85/cover.jpg 163w,
-/static/fd8d1660b598f92f037532df39d3fcc6/0954f/cover.jpg 325w,
-/static/fd8d1660b598f92f037532df39d3fcc6/a111b/cover.jpg 650w,
-/static/fd8d1660b598f92f037532df39d3fcc6/ce471/cover.jpg 975w,
+        src=&quot;/static/fd8d1660b598f92f037532df39d3fcc6/21c6c/cover.jpg&quot;
+        srcset=&quot;/static/fd8d1660b598f92f037532df39d3fcc6/65b1f/cover.jpg 235w,
+/static/fd8d1660b598f92f037532df39d3fcc6/9f638/cover.jpg 470w,
+/static/fd8d1660b598f92f037532df39d3fcc6/21c6c/cover.jpg 940w,
 /static/fd8d1660b598f92f037532df39d3fcc6/d5063/cover.jpg 1281w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -6523,7 +6664,7 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
 &lt;p&gt;답답하고, 무엇인가 꽉 막힌듯한 느낌이랄까? 방학이 시작되었는데도, 난 아무것도 하지 않은 체, 멍하니 정신을 놓고 있다. 이것저것 해야된다는 것은 알지만, 왜 이렇게 실천은 하기 어려운지... 신발을 신고, 예전에 자주 가던 뒷산 산책길을 마냥 걸었다. 이런 저런 생각을 하다, 어제 텔레비전에서 본, 아바타 소개팅이라는 프로그램이 생각났다. 아바타 영화를 보면 알겠지만, 진짜 사람이 있고, 나비 종족 모양을 한 아바타가 존재한다. 사람은 자신의 의지를 아바타 신경에 전달하면서, 조종하고, 움직인다. 이 개그 프로그램은 사람들을 웃기기 위해서 어여쁜 처자들 앞에 두고, 엉뚱한 행동들을 시키고, 이 아바타 역을 맡은 개그맨들을 자신을 맡은 주인의 명령을 받아들여야 하지. 여자들 앞에 두고, 춤을 춘다던가, 엉뚱한 얘기를 하고, 심지어 훔쳐간 지갑을 가져오라고 하기까지 한다. 몸 개그는 물론, 경우에 없는 말까지 아바타는 부끄럼을 무릎쓰고, 해야하는 것이지.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -6540,14 +6681,14 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;아바타 영화 중&quot;
         title=&quot;아바타 영화 중&quot;
-        src=&quot;/static/05597cddbd1d9d15b0dac87141421666/a111b/avatar_1.jpg&quot;
-        srcset=&quot;/static/05597cddbd1d9d15b0dac87141421666/aca85/avatar_1.jpg 163w,
-/static/05597cddbd1d9d15b0dac87141421666/0954f/avatar_1.jpg 325w,
-/static/05597cddbd1d9d15b0dac87141421666/a111b/avatar_1.jpg 650w,
-/static/05597cddbd1d9d15b0dac87141421666/ce471/avatar_1.jpg 975w,
-/static/05597cddbd1d9d15b0dac87141421666/bee4e/avatar_1.jpg 1300w,
+        src=&quot;/static/05597cddbd1d9d15b0dac87141421666/21c6c/avatar_1.jpg&quot;
+        srcset=&quot;/static/05597cddbd1d9d15b0dac87141421666/65b1f/avatar_1.jpg 235w,
+/static/05597cddbd1d9d15b0dac87141421666/9f638/avatar_1.jpg 470w,
+/static/05597cddbd1d9d15b0dac87141421666/21c6c/avatar_1.jpg 940w,
+/static/05597cddbd1d9d15b0dac87141421666/47ec1/avatar_1.jpg 1410w,
+/static/05597cddbd1d9d15b0dac87141421666/335f9/avatar_1.jpg 1880w,
 /static/05597cddbd1d9d15b0dac87141421666/2b872/avatar_1.jpg 2560w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -6643,8 +6784,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;자세? 바로 잡읍시다. 목 디스크 방지법&quot;
         title=&quot;자세? 바로 잡읍시다. 목 디스크 방지법&quot;
         src=&quot;/static/b85c0630ed3f2e98e220d3c1d5d8b031/8b061/posture_1.jpg&quot;
-        srcset=&quot;/static/b85c0630ed3f2e98e220d3c1d5d8b031/aca85/posture_1.jpg 163w,
-/static/b85c0630ed3f2e98e220d3c1d5d8b031/0954f/posture_1.jpg 325w,
+        srcset=&quot;/static/b85c0630ed3f2e98e220d3c1d5d8b031/65b1f/posture_1.jpg 235w,
+/static/b85c0630ed3f2e98e220d3c1d5d8b031/9f638/posture_1.jpg 470w,
 /static/b85c0630ed3f2e98e220d3c1d5d8b031/8b061/posture_1.jpg 569w&quot;
         sizes=&quot;(max-width: 569px) 100vw, 569px&quot;
         loading=&quot;lazy&quot;
@@ -6685,8 +6826,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;[하버드 대학생들의 필독서] 인식의 지배를 넘어 【 1984 – 조지 오웰 】&quot;
         title=&quot;[하버드 대학생들의 필독서] 인식의 지배를 넘어 【 1984 – 조지 오웰 】&quot;
         src=&quot;/static/a64736b698700d30038e6726abb7b069/60bdf/1984_2.jpg&quot;
-        srcset=&quot;/static/a64736b698700d30038e6726abb7b069/aca85/1984_2.jpg 163w,
-/static/a64736b698700d30038e6726abb7b069/0954f/1984_2.jpg 325w,
+        srcset=&quot;/static/a64736b698700d30038e6726abb7b069/65b1f/1984_2.jpg 235w,
+/static/a64736b698700d30038e6726abb7b069/9f638/1984_2.jpg 470w,
 /static/a64736b698700d30038e6726abb7b069/60bdf/1984_2.jpg 568w&quot;
         sizes=&quot;(max-width: 568px) 100vw, 568px&quot;
         loading=&quot;lazy&quot;
@@ -6715,8 +6856,7 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;[하버드 대학생들의 필독서] 인식의 지배를 넘어 【 1984 – 조지 오웰 】&quot;
         title=&quot;[하버드 대학생들의 필독서] 인식의 지배를 넘어 【 1984 – 조지 오웰 】&quot;
         src=&quot;/static/fc2007a35b03266a08c4e5c974f277d8/3a2a3/1984_3.jpg&quot;
-        srcset=&quot;/static/fc2007a35b03266a08c4e5c974f277d8/aca85/1984_3.jpg 163w,
-/static/fc2007a35b03266a08c4e5c974f277d8/0954f/1984_3.jpg 325w,
+        srcset=&quot;/static/fc2007a35b03266a08c4e5c974f277d8/65b1f/1984_3.jpg 235w,
 /static/fc2007a35b03266a08c4e5c974f277d8/3a2a3/1984_3.jpg 350w&quot;
         sizes=&quot;(max-width: 350px) 100vw, 350px&quot;
         loading=&quot;lazy&quot;
@@ -6789,8 +6929,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;공존과 평화를 위한 떠남과 만남, 더불어 숲 - 신영복&quot;
         title=&quot;공존과 평화를 위한 떠남과 만남, 더불어 숲 - 신영복&quot;
         src=&quot;/static/7734f40f369dd8a3e18db1ecd7794d02/acc78/forest_1.jpg&quot;
-        srcset=&quot;/static/7734f40f369dd8a3e18db1ecd7794d02/aca85/forest_1.jpg 163w,
-/static/7734f40f369dd8a3e18db1ecd7794d02/0954f/forest_1.jpg 325w,
+        srcset=&quot;/static/7734f40f369dd8a3e18db1ecd7794d02/65b1f/forest_1.jpg 235w,
+/static/7734f40f369dd8a3e18db1ecd7794d02/9f638/forest_1.jpg 470w,
 /static/7734f40f369dd8a3e18db1ecd7794d02/acc78/forest_1.jpg 573w&quot;
         sizes=&quot;(max-width: 573px) 100vw, 573px&quot;
         loading=&quot;lazy&quot;
@@ -6820,8 +6960,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;공존과 평화를 위한 떠남과 만남, 더불어 숲 - 신영복&quot;
         title=&quot;공존과 평화를 위한 떠남과 만남, 더불어 숲 - 신영복&quot;
         src=&quot;/static/f87ebaffb08b52c040cdd8855be70075/e6494/forest_2.jpg&quot;
-        srcset=&quot;/static/f87ebaffb08b52c040cdd8855be70075/aca85/forest_2.jpg 163w,
-/static/f87ebaffb08b52c040cdd8855be70075/0954f/forest_2.jpg 325w,
+        srcset=&quot;/static/f87ebaffb08b52c040cdd8855be70075/65b1f/forest_2.jpg 235w,
+/static/f87ebaffb08b52c040cdd8855be70075/9f638/forest_2.jpg 470w,
 /static/f87ebaffb08b52c040cdd8855be70075/e6494/forest_2.jpg 575w&quot;
         sizes=&quot;(max-width: 575px) 100vw, 575px&quot;
         loading=&quot;lazy&quot;
@@ -6836,7 +6976,7 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
 &lt;p&gt;숲은 나무로 이루어진다. 세계 어느 곳이나 나무는 존재하고, 오랜 기간의 역사의 흐름에 의해 현재의 우리가 만들어지듯, 한 곳에 자리를 잡고 뿌리에서부터 커간다. 그만큼 뿌리가 깊기 때문에 쉽게 자리를 옮길 수 없고, 쉽게 변하지 못한다. 하지만 우리는 다양성을 바탕으로 해서 평화와 공존으로 더불어 살 수가 있다. 강자로부터 오는 지배 이념을 넓은 잎과 가지로 막을 수 있고, 태풍과 같은 물리적, 정신적 폭력에도 서로 의지하며 맞설 수 있는 힘을 가질 수 있다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 655px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -6853,12 +6993,11 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;공존과 평화를 위한 떠남과 만남, 더불어 숲 - 신영복&quot;
         title=&quot;공존과 평화를 위한 떠남과 만남, 더불어 숲 - 신영복&quot;
-        src=&quot;/static/2257fc32fd0f0bdb596930a03a0e8888/a111b/forest_3.jpg&quot;
-        srcset=&quot;/static/2257fc32fd0f0bdb596930a03a0e8888/aca85/forest_3.jpg 163w,
-/static/2257fc32fd0f0bdb596930a03a0e8888/0954f/forest_3.jpg 325w,
-/static/2257fc32fd0f0bdb596930a03a0e8888/a111b/forest_3.jpg 650w,
+        src=&quot;/static/2257fc32fd0f0bdb596930a03a0e8888/84187/forest_3.jpg&quot;
+        srcset=&quot;/static/2257fc32fd0f0bdb596930a03a0e8888/65b1f/forest_3.jpg 235w,
+/static/2257fc32fd0f0bdb596930a03a0e8888/9f638/forest_3.jpg 470w,
 /static/2257fc32fd0f0bdb596930a03a0e8888/84187/forest_3.jpg 655w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 655px) 100vw, 655px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -6873,7 +7012,7 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
 &lt;p&gt;&apos;일그러진 대한민국&apos;을 질서정연한 논리로 자신의 생각을 피력하는 것이 이 책의 전반적인 내용이다. 우리가 너무 가까이 있어서, 혹은 너무나 익숙해져 있어서 보지 못했던 사회 현상들에 대한 이해를, 다른 나라 사람의 입장에서 바라보고 있다. 우리가 아무렇지도 않게 인식하고 있었던 일들을, 다른 나라에 가거나, 혹은 외국 사람들과의 만남을 통해서 알게 되면, 같은 일에 다른 생각도 존재한다는 뜻밖의 깨달음을 느끼게 마련이다. 다른 사상과 사회 체제 속에서 성장했던 그이기 때문에 &apos;한국&apos;이라는 나라를 조금 더 객관적이게 바라볼 수 있는 배경을 가지고 있었던 것 같다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -6890,14 +7029,13 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;당신들의 대한민국, 박노자&quot;
         title=&quot;당신들의 대한민국, 박노자&quot;
-        src=&quot;/static/d64a5a0bcf1c50ce7be082abd8e76d51/a111b/cover.jpg&quot;
-        srcset=&quot;/static/d64a5a0bcf1c50ce7be082abd8e76d51/aca85/cover.jpg 163w,
-/static/d64a5a0bcf1c50ce7be082abd8e76d51/0954f/cover.jpg 325w,
-/static/d64a5a0bcf1c50ce7be082abd8e76d51/a111b/cover.jpg 650w,
-/static/d64a5a0bcf1c50ce7be082abd8e76d51/ce471/cover.jpg 975w,
-/static/d64a5a0bcf1c50ce7be082abd8e76d51/bee4e/cover.jpg 1300w,
+        src=&quot;/static/d64a5a0bcf1c50ce7be082abd8e76d51/21c6c/cover.jpg&quot;
+        srcset=&quot;/static/d64a5a0bcf1c50ce7be082abd8e76d51/65b1f/cover.jpg 235w,
+/static/d64a5a0bcf1c50ce7be082abd8e76d51/9f638/cover.jpg 470w,
+/static/d64a5a0bcf1c50ce7be082abd8e76d51/21c6c/cover.jpg 940w,
+/static/d64a5a0bcf1c50ce7be082abd8e76d51/47ec1/cover.jpg 1410w,
 /static/d64a5a0bcf1c50ce7be082abd8e76d51/fe1ad/cover.jpg 1748w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
@@ -6926,7 +7064,7 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;박노자, 이미지 출처 : 이주노동자 협동조합&quot;
         title=&quot;박노자, 이미지 출처 : 이주노동자 협동조합&quot;
         src=&quot;/static/ff7d2f13ce4e87ebf698f001d864dcf5/ab679/noja.jpg&quot;
-        srcset=&quot;/static/ff7d2f13ce4e87ebf698f001d864dcf5/aca85/noja.jpg 163w,
+        srcset=&quot;/static/ff7d2f13ce4e87ebf698f001d864dcf5/65b1f/noja.jpg 235w,
 /static/ff7d2f13ce4e87ebf698f001d864dcf5/ab679/noja.jpg 265w&quot;
         sizes=&quot;(max-width: 265px) 100vw, 265px&quot;
         loading=&quot;lazy&quot;
@@ -7004,8 +7142,8 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         alt=&quot;착시 그림&quot;
         title=&quot;착시 그림&quot;
         src=&quot;/static/005fbad091d2919f966c5d5ea85d3eea/e2288/thought_2.jpg&quot;
-        srcset=&quot;/static/005fbad091d2919f966c5d5ea85d3eea/aca85/thought_2.jpg 163w,
-/static/005fbad091d2919f966c5d5ea85d3eea/0954f/thought_2.jpg 325w,
+        srcset=&quot;/static/005fbad091d2919f966c5d5ea85d3eea/65b1f/thought_2.jpg 235w,
+/static/005fbad091d2919f966c5d5ea85d3eea/9f638/thought_2.jpg 470w,
 /static/005fbad091d2919f966c5d5ea85d3eea/e2288/thought_2.jpg 640w&quot;
         sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
         loading=&quot;lazy&quot;
@@ -7019,7 +7157,7 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
 &lt;p&gt;아주 엷고 희미한 잔상들만이 내 머릿속을 훑고 지나간다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 940px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -7036,14 +7174,13 @@ K팝스타의 참가자들처럼, 그 정도의 노력으로, 집중적으로 �
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;노는만큼 성공한다&quot;
         title=&quot;노는만큼 성공한다&quot;
-        src=&quot;/static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/a111b/cover.jpg&quot;
-        srcset=&quot;/static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/aca85/cover.jpg 163w,
-/static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/0954f/cover.jpg 325w,
-/static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/a111b/cover.jpg 650w,
-/static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/ce471/cover.jpg 975w,
-/static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/bee4e/cover.jpg 1300w,
+        src=&quot;/static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/21c6c/cover.jpg&quot;
+        srcset=&quot;/static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/65b1f/cover.jpg 235w,
+/static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/9f638/cover.jpg 470w,
+/static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/21c6c/cover.jpg 940w,
+/static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/47ec1/cover.jpg 1410w,
 /static/ccfd8cd5e6b7e2d6a312ba0fbebc9344/69a67/cover.jpg 1734w&quot;
-        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        sizes=&quot;(max-width: 940px) 100vw, 940px&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
