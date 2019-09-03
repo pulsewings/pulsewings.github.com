@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pulsewings's RSS Feed]]></title><description><![CDATA[개발을 사랑합니다. 자전거를 좋아합니다. 생각을 정리합니다. 코드 없는 개발자 블로그]]></description><link>https://pulsewings.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 03 Sep 2019 14:00:52 GMT</lastBuildDate><item><title><![CDATA[내가 살아온 날들]]></title><description><![CDATA[…]]></description><link>https://pulsewings.com/portfolio</link><guid isPermaLink="false">https://pulsewings.com/portfolio</guid><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Pulsewings's RSS Feed]]></title><description><![CDATA[개발을 사랑합니다. 자전거를 좋아합니다. 생각을 정리합니다. 코드 없는 개발자 블로그]]></description><link>https://pulsewings.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 03 Sep 2019 14:08:34 GMT</lastBuildDate><item><title><![CDATA[내가 살아온 날들]]></title><description><![CDATA[…]]></description><link>https://pulsewings.com/portfolio</link><guid isPermaLink="false">https://pulsewings.com/portfolio</guid><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;이 페이지는 꾸준히 업데이트하는 중이다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
@@ -192,9 +192,10 @@
 &lt;hr&gt;
 &lt;h1&gt;대학교&lt;/h1&gt;
 &lt;h2&gt;스택&lt;/h2&gt;
-&lt;h2&gt;&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[Changelog]]></title><description><![CDATA[2019-09-03 cover, publicURL 버그를 수정하였다. 기존에 문서에 cover의 주소에 이미지가 없을 경우 발생하는 문제를 해결 2019-09-02 life, challenge 태그를 thinking…]]></description><link>https://pulsewings.com/changelog</link><guid isPermaLink="false">https://pulsewings.com/changelog</guid><content:encoded>&lt;h1&gt;2019-09-03&lt;/h1&gt;
+&lt;h2&gt;&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[Changelog]]></title><description><![CDATA[2019-09-03 cover, publicURL 버그를 수정하였다. 기존에 문서에 cover의 주소에 이미지가 없을 경우 발생하는 문제를 해결 OpenGraph 이미지 주소가 이상하게 들어가는 현상 수정 2019-09-02 life…]]></description><link>https://pulsewings.com/changelog</link><guid isPermaLink="false">https://pulsewings.com/changelog</guid><content:encoded>&lt;h1&gt;2019-09-03&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;cover, publicURL 버그를 수정하였다. 기존에 문서에 cover의 주소에 이미지가 없을 경우 발생하는 문제를 해결&lt;/li&gt;
+&lt;li&gt;OpenGraph 이미지 주소가 이상하게 들어가는 현상 수정&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1&gt;2019-09-02&lt;/h1&gt;
 &lt;ul&gt;
