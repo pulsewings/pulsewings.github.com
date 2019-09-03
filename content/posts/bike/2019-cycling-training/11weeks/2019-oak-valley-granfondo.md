@@ -2,9 +2,11 @@
 title: '[함께 라이딩] 2019 오크밸리 그란폰도'
 slug: 2019-oak-valley-granfondo
 date: 2019-08-31
-generate-card: false
+generate-card: true
 language: ko
 cover: './oak_11.jpg'
+imageTw: './oak_11.jpg'
+imageFb: './oak_11.jpg'
 tags:
   - bike
 ---

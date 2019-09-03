@@ -1,23 +1,16 @@
-import React from "react";
-import Helmet from "react-helmet";
-import { withPrefix } from "gatsby";
-import useSiteMetadata from "../hooks/use-site-config";
+import React from 'react';
+import Helmet from 'react-helmet';
+import { withPrefix } from 'gatsby';
+import useSiteMetadata from '../hooks/use-site-config';
 
 const SEO = props => {
-  const { isBlogPost, path = "", lang = "en" } = props;
-  const {
-    siteTitle,
-    siteUrl,
-    siteCover,
-    siteDescription,
-    twitterUsername
-  } = useSiteMetadata();
+  const { isBlogPost, path = '', lang = 'ko' } = props;
+  const { siteTitle, siteUrl, siteCover, siteDescription, twitterUsername } = useSiteMetadata();
 
   const title = props.title ? `${props.title} | ${siteTitle}` : siteTitle;
   const formatedSiteUrl = siteUrl.substring(0, siteUrl.length - 1);
   const imagePath = props.imageFb || props.cover || withPrefix(siteCover);
-  const imagePathTwitter =
-    props.imageTw || props.cover || withPrefix(siteCover);
+  const imagePathTwitter = props.imageTw || props.cover || withPrefix(siteCover);
   const image = `${formatedSiteUrl}${imagePath}`;
   const imageTwitter = `${formatedSiteUrl}${imagePathTwitter}`;
   const description = props.description || siteDescription;
@@ -31,7 +24,7 @@ const SEO = props => {
 
       {/* OpenGraph tags */}
       <meta property="og:url" content={formatedSiteUrl + withPrefix(path)} />
-      <meta property="og:type" content={isBlogPost ? "article" : "website"} />
+      <meta property="og:type" content={isBlogPost ? 'article' : 'website'} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={image} />

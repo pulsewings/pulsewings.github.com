@@ -1,8 +1,8 @@
-import React, { Fragment } from "react";
-import { Link } from "gatsby";
-import styled from "styled-components";
+import React, { Fragment } from 'react';
+import { Link } from 'gatsby';
+import styled from 'styled-components';
 // import AnchorLink from 'react-anchor-link-smooth-scroll';
-import AllPostsListItem from "./AllPostsListItem";
+import AllPostsListItem from './AllPostsListItem';
 
 const YearTitleLink = styled(Link)`
   color: #555;
@@ -29,16 +29,14 @@ class AllDatePostsList extends React.Component {
     const { posts, siteYears } = this.props;
 
     const H2Style = {
-      margin: "30px 7px 15px 7px"
+      margin: '30px 7px 15px 7px'
     };
     const DivStyle = {
-      "padding-top": "10px"
+      'padding-top': '10px'
     };
 
     const getFilteredPosts = (posts, year) => {
-      return posts.filter(
-        post => post.node.frontmatter.date.split("-")[0] == year
-      );
+      return posts.filter(post => post.node.frontmatter.date.split('-')[0] === year);
     };
 
     const getPostsByYear = (posts, year) => {
@@ -56,10 +54,10 @@ class AllDatePostsList extends React.Component {
                 excerpt: post.node.excerpt,
                 slug: post.node.frontmatter.slug,
                 date:
-                  post.node.frontmatter.date.split("-")[1] +
-                  "-" +
-                  post.node.frontmatter.date.split("-")[2],
-                language: post.node.frontmatter.language || "fr",
+                  post.node.frontmatter.date.split('-')[1] +
+                  '-' +
+                  post.node.frontmatter.date.split('-')[2],
+                language: post.node.frontmatter.language || 'fr',
                 tags: post.node.frontmatter.tags || []
               };
               return <AllPostsListItem key={props.slug} {...props} />;
