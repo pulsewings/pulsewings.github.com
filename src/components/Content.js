@@ -1,8 +1,8 @@
-import React from "react";
-import styled from "styled-components";
-import ContentHeader from "./ContentHeader";
-import { colors } from "../tokens";
-import MDXRenderer from "gatsby-plugin-mdx/mdx-renderer";
+import React from 'react';
+import styled from 'styled-components';
+import ContentHeader from './ContentHeader';
+import { colors } from '../tokens';
+import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer';
 
 const ContentBody = styled.div`
   line-height: 1.6;
@@ -39,6 +39,7 @@ const ContentBody = styled.div`
 
   & > hr {
     margin: 30px 0;
+    color: #ddd;
   }
 
   & .gatsby-resp-image-wrapper {
@@ -125,7 +126,7 @@ const ContentBody = styled.div`
   & table {
     margin-top: 1em;
     border-collapse: collapse;
-    border-radius: 0.5em;
+    border-radius: 0.2em;
     overflow: hidden;
 
     & th,
@@ -133,6 +134,16 @@ const ContentBody = styled.div`
       padding: 0.5em;
       background: #e8e8e8;
       border-bottom: 2px solid ${colors.white};
+    }
+
+    & th {
+      border: 1px solid #d4d4d4;
+      background: #e6e6e6;
+    }
+    & td {
+      border: 1px solid #e6e6e6;
+      padding: 10px;
+      background: #fff;
     }
   }
 
