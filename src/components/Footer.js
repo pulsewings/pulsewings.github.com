@@ -1,8 +1,8 @@
-import React from "react";
-import { Link } from "gatsby";
-import styled from "styled-components";
-import useSiteMetadata from "../hooks/use-site-config";
-import { colors } from "../tokens";
+import React from 'react';
+import { Link } from 'gatsby';
+import styled from 'styled-components';
+import useSiteMetadata from '../hooks/use-site-config';
+import { colors } from '../tokens';
 
 const FooterWrapper = styled.footer`
   text-align: left;
@@ -79,7 +79,7 @@ const Footer = () => {
   const { authorName, websiteHost, footerLinks } = useSiteMetadata();
 
   const FooterItem = ({ item }) => {
-    if (item.url.startsWith("/")) {
+    if (item.url.startsWith('/')) {
       return (
         <span className="footer-item">
           <Link className="footer-link" to={item.url}>
@@ -118,13 +118,13 @@ const Footer = () => {
             {authorName} © {new Date().getFullYear()}
           </h5>
           <p className="footer-item-text">
-            Built with{" "}
+            Built with{' '}
             <a className="footer-link" href="https://www.gatsbyjs.org">
               Gatsby
             </a>
             .
           </p>
-          <p className="footer-item-text">
+          {/*<p className="footer-item-text">
             Theme using{" "}
             <a
               className="footer-link"
@@ -135,11 +135,16 @@ const Footer = () => {
             .
           </p>
           <p className="footer-item-text">
-            Hosted with <span className="footer-heart">❤</span> by{" "}
+            Hosted with <span className="footer-heart">❤</span> by{' '}
             <a className="footer-link" href={websiteHost.url}>
               {websiteHost.name}
             </a>
             .
+          </p>
+          */}
+          <p className="footer-item-text">
+            Hosted with <span className="footer-heart"></span> by{' '}
+            <a className="footer-link">{websiteHost.name}</a>.
           </p>
         </div>
         {footerLinks.map((column, i) => {
