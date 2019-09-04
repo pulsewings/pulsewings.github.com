@@ -36,3 +36,7 @@ npm run deploy
 fatal: A branch named 'gh-pages' already exists. 문제 발생할 때
 rm -rf node_modules/gh-pages/.cache
 rm -r .cache
+
+# source and transform nodes 뜨면서 진행이 안될 때
+
+GATSBY_CONCURRENT_DOWNLOAD=50
