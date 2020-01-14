@@ -40,3 +40,6 @@ rm -r .cache
 # source and transform nodes 뜨면서 진행이 안될 때
 
 GATSBY_CONCURRENT_DOWNLOAD=50
+
+npm run develop
+npm run deploy
